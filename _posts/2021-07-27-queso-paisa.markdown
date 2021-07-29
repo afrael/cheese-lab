@@ -2,7 +2,7 @@
 layout: post
 title:  "Queso Paisa (Tequeñero) "
 date:   2021-07-27 14:17:14 -0400
-categories: queso paisa tequeños tequeñero receta
+categories: queso paisa tequeñero receta
 ---
 Receta de queso Paisa, tambien conocido como tequeñero, la caracteristica principal de este queso es que es capaz de resistir el calor mientras se frie el tequeño.
 
