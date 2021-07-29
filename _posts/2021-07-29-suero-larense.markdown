@@ -4,7 +4,6 @@ title:  "Suero Larense"
 date:   2021-07-29 07:40:11 -0400
 categories: receta suero lara 
 ---
-Receta para preparar suero larense, derivado lácteo bastante ácido que se puede consumir por si solo, con arepas o se puede usar como base para picantes.
 
 **Características** : Derivado lácteo, liquido, de consistencia espesa parecida al yogur líquido, considerablemente ácido.
 
