@@ -22,11 +22,17 @@ Algunos métodos alteran la leche a un punto que resulta inviable elaborar queso
 Tratamiento | Temperatura | Duración | Comentarios
 ------------| ------------| ---------|-----------
 Termización | 131F - 158F (55C - 70C) | 2 - 16 segundos |
-Pasteurización en la tina | 145F (63C) | 30 minutos | Ideal para pasteurizar en casa
+Pasteurización en la tina | 145F (63C) | 30 minutos | Ideal para pasteurizar en casa, ver procedimiento de pasteurización en casa
 Alta temperatura, corto tiempo (HTST) | 161F (72C) | 15 segundos |
 Temperatura aún más alta, tiempo más corto aún (HHST) | 191F (88C) | 1 segundo |
 Ultrapasteurización | 280F (138C) | 2 segundos | No es apta para elaborar quesos
 Temperatura ultra alta (UHT) | 240F (116C) | 4 a 15 segundos | No es apta para elaborar quesos
+
+## Pasteurización en casa
+
+Para pasteurizar en casa se necesita calentar la leche por 30 minutos a 63C o 145F, preferiblemente con doble olla (double-boiler) o con baño de maría, también se necesita tener bastante hielo a la mano, después que hayan transcurrido los 30 minutos necesarios, debe transferir la olla a un recipiente donde pueda colocar la olla y rodearla de hielo y algo de agua, también puede considerar el fregadero.
+
+Revuelva la leche para que esta pueda enfriarse mas rápido, una vez que la leche alcance menos 20C (68F) proceda a almacenarla, o proceda con la preparación que tenga planeada.
 
 ## Recomendaciones
 
