@@ -29,7 +29,7 @@ twitter_username: ald
 github_username: afrael
 
 # Build settings
-theme: jekyll-theme-so-simple
+remote_theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
