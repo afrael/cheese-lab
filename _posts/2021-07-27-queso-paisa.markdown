@@ -28,6 +28,8 @@ Suero viejo (madre) | 1% del volumen total de leche
 
 ## Procedimiento
 
+**Antes de todo procedimiento recordar limpiar y estrilizar todos los implementos.**
+
 1. Calentar la leche hasta 36 grados (97 F), lentamente, no subir subitamente la temperatura
 2. Cuando la leche este cerca de la temperatura indicada, agregar el cloruro de calcio, si esta usando leche PyH  (Pasteurizada y Homogeneizada)
 3. Cortar la cuajada, inicialmente, en cubos de 1 pulgada por 1 pulgada
