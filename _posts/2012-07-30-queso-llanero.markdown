@@ -15,7 +15,7 @@ Ingrediente | Cantidad | Notas
 Leche fresca | 2 galones (US) | Si esta usando leche pasteurizada-homogeneizada recomendamos usar cloruro de calcio
 Cuajo | Según fabricante |
 Cloruro de Calcio | 1/4 TSP (teaspoon) por cada galón de leche | Si es en polvo diluir en 100ml de agua sin cloro
-Suero | para utilizar en la salmuera (suero salado) | 
+Suero | | para utilizar en la salmuera (suero salado) 
 Sal | en forma de salmuera (suero salado) al 20% | 
 
 ## Implementos mínimos
@@ -25,8 +25,7 @@ Sal | en forma de salmuera (suero salado) al 20% |
 - Tela quesera (o velo de novia)
 - Molde
 - Prensa
-- Colador para ayudar al desuerado
-- Peso (3 veces el peso total de la cuajada)
+- Peso (3 veces y 6 veces el peso total de la cuajada)
 
 ## Procedimiento
 
