@@ -25,6 +25,7 @@ Sal | en forma de salmuera (suero salado) al 20% |
 - Tela quesera (o velo de novia)
 - Molde
 - Prensa
+- Colador
 - Peso (3 veces y 6 veces el peso total de la cuajada)
 
 ## Procedimiento
@@ -39,15 +40,16 @@ Sal | en forma de salmuera (suero salado) al 20% |
 6. Encienda el fuego y caliente lentamente la cuajada hasta 40 grados (104F), durante ese proceso de calentamiento, la cuajada debe revolverla delicadamente (agitarla).
 7. Una vez alcanzado la temperatura indicada, apague el fuego y siga revolviendo la cuajada por 5 minutos adicionales. El gol es que la cuajada alcance un tamaño de un grano de maíz.
 8. Dejar reposar la cuajada por 15 minutos.
-9. Una vez asentada la cuajada, proceda a unirla, en forma de torta, y sáquela del suero usando una tela quesera. y dejarla reposar fuera de la olla por unos 10 minutos.
-10. Proceda a retirar la tela quesera y corte la cuajada, nuevamente, en cubos de 2cm por 2cm (aproximadamente cubos de 1 pulgada).
-11. Con el suero restante, elabore una salmuera al 20%, la proporción es 200 gramos de sal por cada litro de suero.
-12. Sumerja los cubos de cuajada en la salmuera y déjela reposar entre 30 a 40 minutos.
-13. Retire la cuajada de la salmuera y proceda a pesarla.
-14. Coloque la cuajada en el molde y prénsela, usando 3 kg de peso por cada kilogramo de cuajada.
-15. Después de transcurrida dos horas, voltee el queso y prénsela esta vez usando 6 kg por cada kilogramo de cuajada.
-16. Luego de 4 horas, voltee nuevamente el queso, y siga prensándole con el mismo peso, y déjelo prensando por 16 horas.
-17. Retire del molde, lávelo con agua limpia y proceda a refrigerar.
+9. Una vez asentada la cuajada, proceda a unirla, en forma de torta, y sáquela del suero usando una tela quesera, y dejarla reposar fuera de la olla por unos 10 minutos.
+10. Alternativamente, puede retirar todo el suero, con la ayuda de una taza y colador, pero resérvelo, no lo deseche, pues se usará para la salmuera.
+11. Proceda a retirar la tela quesera y corte la cuajada, nuevamente, en cubos de 2cm por 2cm (aproximadamente cubos de 1 pulgada).
+12. Con el suero restante, elabore una salmuera al 20%, la proporción es 200 gramos de sal por cada litro de suero.
+13. Sumerja los cubos de cuajada en la salmuera y déjela reposar entre 30 a 40 minutos.
+14. Retire la cuajada de la salmuera y proceda a pesarla.
+15. Coloque la cuajada en el molde y prénsela, usando 3 kg de peso por cada kilogramo de cuajada.
+16. Después de transcurrida dos horas, voltee el queso y prénsela esta vez usando 6 kg por cada kilogramo de cuajada.
+17. Luego de 4 horas, voltee nuevamente el queso, y siga prensándole con el mismo peso, y déjelo prensando por 16 horas.
+18. Retire del molde, lávelo con agua limpia y proceda a refrigerar.
 
 **Comentarios adicionales**: El molde debe ser capaz de resistir los pesos indicados, considere que estamos hablando de 6 veces el peso de la cuajada, también, debe permitir la salida del suero, especialmente por el fondo del molde.
 
