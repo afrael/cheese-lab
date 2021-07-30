@@ -55,4 +55,4 @@ Sal | en forma de salmuera (suero salado) al 20% |
 
 Si aún considera que el queso está muy húmedo a su juicio, puede sobar el queso con sal y secarlo usando un ventilador, hasta que vea que ha dejado de "sudar" o botar suero.
 
-**Autor**: Hermanos Mendoza (@Kseros_ve)
+**Autor**: Basado en la receta de Hermanos Mendoza (@Kseros_ve)
