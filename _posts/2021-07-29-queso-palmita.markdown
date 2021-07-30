@@ -17,11 +17,12 @@ Leche Pasteurizada y Homogeneizada (Full Fat/Completa) o fresca preferiblemente 
 Cloruro de Calcio | 1/4 de cucharadita (TSP) por galón (US) | Solo si utiliza leche PyH
 Cuajo | Según la indicación del fabricante | 
 Suero viejo (madre) | 60 ML por cada galón de leche (US) | El pH del suero debe oscilar entre 3.6 a 3.8 
-Sal |  en forma de salmuera al 12% | 
+Sal | en forma de salmuera al 12% | 
 
 ## Implementos mínimos
 
 - Olla de acero inoxidable (preferiblemente)
+- Termómetro
 - Tela quesera (o velo de novia)
 - Molde
 - Prensa
@@ -36,7 +37,7 @@ Sal |  en forma de salmuera al 12% |
 1. En una olla se colocan los 2 galones de leche, calentar suavemente hasta alcanzar unos 28°C (82°F). 
 2. Al alcanzar los 28°C (82 F) agregar el suero viejo, mezclar bien y seguir calentando la leche hasta alcanzar los 36°C (97 F)
 3. Alcanzada esa temperatura se deja reposar por 40 minutos
-4. Cumplido el tiempo de reposo se agrega el cloruro de calcio, mezclar por un minuto, luego agregar el calcio y revolver por un minuto más y dejar reposar por 45 minutos adicionales. 
+4. Cumplido el tiempo de reposo se agrega el cloruro de calcio, mezclar por un minuto, luego agregar el cuajo y revolver por un minuto más y dejar reposar por 45 minutos adicionales. 
 5. Al cumplir el tiempo de reposo cortar la cuajada en cuadrícula y dejar reposar por 15 min. Luego colocar a fuego lento y con una paleta mover suavemente la cuajada de abajo hacia arriba hasta alcanzar 38 °C (100 F) y dejar reposar por 15 minutos mas.
 6. Pasados los 15 minutos, el suero debe haber subido y la cuajada debe estar asentada en el fondo de la olla, en ese momento comenzar a desuerar por completo dentro de la misma olla. Colocando un colador fino y sacando el suero con una taza, remueva hasta un 90% del suero (del volumen total de la leche). Verifique que la cuajada quede muy compactada. Reserve el suero ya que se usará en la salmuera.
 7. Luego de desuerar preparo una salmuera al 12% (1QT de suero y 120 gramos de sal). Se coloca la cuajada en salmuera por un rango de 20 a 30 minutos.

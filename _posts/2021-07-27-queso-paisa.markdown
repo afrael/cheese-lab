@@ -21,6 +21,7 @@ Suero viejo (madre) | 1% del volumen total de leche
 ## Implementos mínimos
 
 - Olla de acero inoxidable (preferiblemente)
+- Termómetro
 - Tela quesera (o velo de novia)
 - Molde
 - Prensa
@@ -32,23 +33,24 @@ Suero viejo (madre) | 1% del volumen total de leche
 
 1. Calentar la leche hasta 36 grados (97 F), lentamente, no subir súbitamente la temperatura
 2. Cuando la leche este cerca de la temperatura indicada, agregar el cloruro de calcio, si esta usando leche PyH  (Pasteurizada y Homogeneizada)
-3. Cortar la cuajada, inicialmente, en cubos de 1 pulgada por 1 pulgada
-4. Tapar la olla, apagar la estufa o retirar del fuego y dejar reposar la cuajada por 15 minutos
+3. Agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 35 a 45 minutos.
+4. Cortar la cuajada, inicialmente, en cubos de 1 pulgada por 1 pulgada
+5. Tapar la olla, apagar la estufa o retirar del fuego y dejar reposar la cuajada por 15 minutos
 6. Aumentar lentamente la temperatura y empezar a revolver, inicialmente, lentamente la cuajada, tener especial cuidado si se esta trabajando con leche PyH
 7. Cuando la leche alcance 43 grados (110 F), retirar del calor o apagar la estufa, la cuajada debe tener el tamaño de un grano de maíz
 8. Retirar 70% del suero (respecto al volumen inicial de la leche)
 9.  Agregar la sal, 16 gramos por litro
-11. Mezclar bien la cuajada con la sal
-12. Encender la estufa nuevamente, revolver la cuajada lentamente hasta calentarla hasta 55 grados
-13. Apague la estufa
-14. Prepare el molde con tela quesera
-15. Pese la cuajada y anote su peso
-16. Vacíe la cuajada en el molde y cubrirla con la tela quesera para mejor presentación
-17. Deje reposar la cuajada por lo menos una hora para que vaya desuerando poco a poco
-18. Calentar agua hasta 70 grados (160 F)
-19. Vierta el agua caliente por ambas caras del queso, superior e inferior
-20. Prense el queso por 24 horas con el mismo peso de la cuajada
-21. Retire el quedo del molde y envolver el envoplast (papel film, plastic wrap)
-22. Lleve a la nevera para que termine de endurecer
+10. Mezclar bien la cuajada con la sal
+11. Encender la estufa nuevamente, revolver la cuajada lentamente hasta calentarla hasta 55 grados
+12. Apague la estufa
+13. Prepare el molde con tela quesera
+14. Pese la cuajada y anote su peso
+15. Vacíe la cuajada en el molde y cubrirla con la tela quesera para mejor presentación
+16. Deje reposar la cuajada por lo menos una hora para que vaya desuerando poco a poco
+17. Calentar agua hasta 70 grados (160 F)
+18. Vierta el agua caliente por ambas caras del queso, superior e inferior
+19. Prense el queso por 24 horas con el mismo peso de la cuajada
+20. Retire el quedo del molde y envolver el envoplast (papel film, plastic wrap)
+21. Lleve a la nevera para que termine de endurecer
 
 **Autor**: Irwin Molero

@@ -22,6 +22,7 @@ Sal | Al gusto | Salar al final del proceso
 
 - Olla de acero inoxidable (preferiblemente)
 - Licuadora
+- Termómetro
 
 ## Procedimiento
 
