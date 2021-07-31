@@ -47,7 +47,7 @@ Sal | en forma de salmuera (suero salado) al 20% |
 13. Sumerja los cubos de cuajada en la salmuera y déjela reposar entre 30 a 40 minutos.
 14. Retire la cuajada de la salmuera y proceda a pesarla.
 15. Coloque la cuajada en el molde y prénsela, usando, inicialmente, 3 kg de peso por cada kilogramo de cuajada.
-16. Después de transcurrida dos horas, voltee el queso y prénsela esta vez usando 6 kg por cada kilogramo de cuajada.
+16. Después de transcurrida dos horas, voltee el queso y prénselo esta vez usando 6 kg por cada kilogramo de cuajada.
 17. Luego de 4 horas, voltee nuevamente el queso, y siga prensándole con el mismo peso, y déjelo prensando por 16 horas.
 18. Retire del molde, lávelo con agua limpia y proceda a refrigerar.
 
