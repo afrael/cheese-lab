@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Queso llanero"
+title:  "Queso Llanero"
 date:   2021-07-30 18:30:14 -0400
 categories: queso llanero duro salado
 ---
