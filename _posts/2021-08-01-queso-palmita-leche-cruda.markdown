@@ -41,4 +41,4 @@ Sal | 50 gramos por galón (US) de leche |
 7. Transcurrido el tiempo se coloca la cuajada en el molde y se le agrega una cuachara de suero viejo sobre la cuajada. Coloquele la tapa al molde (follower).
 10. Deje reposar la cuajada en el molde por 24 horas, sin peso. de las 2 horas lleve a la cámara de maduración. Para la maduración la temperatura ambiente debe oscilar entre 33 a 34 grados (91 a 94F).
 
-**Autor** : Nancy de Alvarado
+**Autor** : Nancy Alvarado de Rivas
