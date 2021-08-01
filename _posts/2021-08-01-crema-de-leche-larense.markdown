@@ -28,7 +28,7 @@ Sal | 1 cucharadita (TSP) |
 **Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
 1. Agregue la crema de leche fría (fría de nevera) al recipiente donde mezclará todos los ingredientes.
-2. Agregue el jugo de limón y el suero viejo, notará que la crema de leche empiezará a cortarse.
+2. Agregue el jugo de limón y el suero viejo, notará que la crema de leche empezará a cortarse.
 3. Bata la crema vigorosamente por lo menos 2 o 3 minutos.
 4. Agregue la sal y bata la crema por un minutos mas.
 5. Pruebe para determinar si esta bien de sal y punto ácido, ajuste el ácido agregando una cucharada adicional de limón.

@@ -26,12 +26,12 @@ Sal | 1 cucharadita (TSP) | Ajustar sal al final del proceso
 
 **Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
-1. Destape la leche y dejele abierta por un par de minutos.
+1. Destape la leche y déjele abierta por un par de minutos.
 2. Proceda a tapar la leche y déjela a temperatura ambiente por lo menos dos días.
 3. Cuanto note que la leche se haya cortado, que se encuentre grumosa, proceda a retirar un poco de suero, si aun no está considerablemente cortada déjela reposar un poco más a temperatura ambiente, la temperatura es crucial por lo que el proceso puede tardarse un poco más si vive en un lugar de temperaturas templadas.
 4. Forre el colador con la tela quesera.
 5. Vierta toda la leche en el colador.
-6. Coloque toda la leche en la licuadora, agregue la sal y licue.
+6. Coloque toda la leche en la licuadora, agregue la sal y licúe.
 7. Pruebe y ajuste la sal.
 8. Lleve de nuevo al recipiente original.
 9. Refrigere.

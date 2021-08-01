@@ -5,11 +5,11 @@ date:   2021-08-01 00:30:14 -0400
 categories: queso concha roja negra madurado duro
 ---
 
-**Características** : Queso de sabor fuerte, ligeramente salado, duro, es un queso madurado que idealmente sirve de acompañamiento, viene en dos presentaciones, rojo por el uso del onoto y color cafe oscuro por el uso del cafe, la cobertura le aporta un sabor especial a cada uno, suele consumirse rallado.
+**Características** : Queso de sabor fuerte, ligeramente salado, duro, es un queso madurado que idealmente sirve de acompañamiento, viene en dos presentaciones, rojo por el uso del onoto y color café oscuro por el uso del café, la cobertura le aporta un sabor especial a cada uno, suele consumirse rallado.
 
 **Uso**: Fundamentalmente para rallar.
 
-El primer paso es elaborar un queso semiduro, puede ver [la receta aca]({% post_url 2021-07-31-queso-semiduro %}). Los ingredientes para las diferentes coberturas a continuación:
+El primer paso es elaborar un queso semiduro, puede ver [la receta acá]({% post_url 2021-07-31-queso-semiduro %}). Los ingredientes para las diferentes coberturas a continuación:
 
 ## Implementos mínimos
 

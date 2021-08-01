@@ -15,8 +15,8 @@ Ingrediente | Cantidad | Notas
 Leche fresca | 2 galones (US) | Si esta usando leche pasteurizada-homogeneizada recomendamos usar cloruro de calcio
 Cuajo | Según fabricante |
 Cloruro de Calcio | 1/4 TSP (teaspoon) por cada galón de leche | Si es en polvo diluir en 100ml de agua sin cloro
-Suero | | para utilizar en la salmuera (suero salado) 
-Sal | en forma de salmuera (suero salado) al 20% | 
+Suero | | Para utilizar en la salmuera (suero salado) 
+Sal | En forma de salmuera (suero salado) al 20% | 
 
 ## Implementos mínimos
 

@@ -17,7 +17,7 @@ Leche Pasteurizada y Homogeneizada (Full Fat/Completa) o fresca preferiblemente 
 Cloruro de Calcio | 1/4 de cucharadita (TSP) por galón (US) | Solo si utiliza leche PyH
 Cuajo | Según la indicación del fabricante | 
 Suero viejo (madre) | 60 ML por cada galón de leche (US) | El pH del suero debe oscilar entre 3.5 a 3.8 
-Sal | en forma de salmuera al 12% | 
+Sal | En forma de salmuera al 12% | 
 
 ## Implementos mínimos
 
