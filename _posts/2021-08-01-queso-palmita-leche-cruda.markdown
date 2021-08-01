@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Queso Palmita (Leche Cruda)"
+title:  "Queso Palmita (Leche Fresca de Corral)"
 date:   2021-08-01 09:20:11 -0400
 categories: receta queso leche cruda palmita palmizulia zulia
 ---
