@@ -56,4 +56,4 @@ Sal | 1 tsp | Asumiendo que el queso semiduro pesa aproximadamente 1 kilogramo (
 3. Deje secar la mezcla.
 4. Lleve el queso a un area con poca humedad y madure el queso por lo menos por 10 días. 
 
-**Autor**: Irwin Molero
+**Autor**: [Irwin Molero](https://www.instagram.com/moleros_artisancheese/) [Información de Contacto](http://wa.link/1x4dwc)

@@ -53,4 +53,4 @@ Suero viejo (madre) | 1% del volumen total de leche
 20. Retire el quedo del molde y envolver el envoplast (papel film, plastic wrap)
 21. Lleve a la nevera para que termine de endurecer
 
-**Autor**: Irwin Molero
+**Autor**: [Irwin Molero](https://www.instagram.com/moleros_artisancheese/) [Información de Contacto](http://wa.link/1x4dwc)

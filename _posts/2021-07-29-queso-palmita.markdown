@@ -45,4 +45,4 @@ Sal | En forma de salmuera al 12% |
 9. Luego de haber colocado la cuajada en el molde se prensa con el 50% del peso de la cuajada, por 2 horas. 
 10. Después de las 2 horas lleve a la cámara de maduración. Allí se queda entre 24 horas a 48 horas dependiendo de la leche si es fresca o de supermercado.
 
-**Autor** : Sergio Pizzarelli
+**Autor** : [Sergio Pizzarelli](https://www.instagram.com/seryop23/)

@@ -53,4 +53,4 @@ Sal | 30 gramos por cada galón (US) de leche |
 
 Si aún considera que el queso está muy húmedo, puede cubrir el queso con sal y secarlo usando un ventilador, hasta que vea que ha dejado de botar suero.
 
-**Autor**: Irwin Molero
+**Autor**: [Irwin Molero](https://www.instagram.com/moleros_artisancheese/) [Información de Contacto](http://wa.link/1x4dwc)
