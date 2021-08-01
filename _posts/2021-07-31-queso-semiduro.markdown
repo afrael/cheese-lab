@@ -45,7 +45,7 @@ Sal | 30 gramos por cada galón (US) de leche |
 10. Agregue la sal según la cantidad de galones de leche que haya utilizado. Deje reposar la cuajada con la sal por un par de minutos.
 11. Retire la cuajada de la olla y proceda a pesarla.
 12. Coloque la cuajada en el molde.
-13. Prense por 24 horas con un peso de 3 veces el peso de la cuajada. Cuando hayan transcurrido las primeras 12 horas voltee la cuajada y prense las restantes 12 horas.
+13. Prense por 24 horas con un peso de 4 veces el peso de la cuajada. Cuando hayan transcurrido las primeras 12 horas voltee la cuajada y prense las restantes 12 horas.
 14. Retire del molde y refrigere.
 
 
