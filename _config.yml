@@ -30,8 +30,8 @@ url: https://afrael.github.io # the base hostname & protocol for your site, e.g.
 permalink: /:year/:month/:day/:title/ 
 
 # Build settings
-theme: jekyll-theme-so-simple
-#theme: minima
+#theme: jekyll-theme-so-simple
+theme: minima
 plugins:
   - jekyll-feed
 
