@@ -48,8 +48,7 @@ Sal | 30 gramos por cada galón (US) de leche |
 13. Prense por 24 horas con un peso de 4 veces el peso de la cuajada. Cuando hayan transcurrido las primeras 12 horas voltee la cuajada y prense las restantes 12 horas.
 14. Retire del molde y refrigere.
 
-
-**Comentarios adicionales**: Esta receta sirve de base para hacer tambien los quesos concha roja y concha negra, solo que deben secarse un poco más para luego proceder a cubrirlos con la mezcla deseada.
+**Comentarios adicionales**: Esta receta sirve de base para hacer también los quesos concha roja y concha negra, solo que deben secarse un poco más para luego proceder a cubrirlos con la mezcla deseada.
 
 Si aún considera que el queso está muy húmedo, puede cubrir el queso con sal y secarlo usando un ventilador, hasta que vea que ha dejado de botar suero.
 
