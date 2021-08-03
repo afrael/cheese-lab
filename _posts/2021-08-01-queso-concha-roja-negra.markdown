@@ -28,7 +28,7 @@ Sal | 1 tsp | Asumiendo que el queso semiduro pesa aproximadamente 1 kilogramo (
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
 
 1. Mezcle todos los ingredientes en un bowl o tazón. Asegúrese que la mezcla no contenga grumos de onoto.
 2. Si no desea manchar el área de trabajo por el onoto, puede cubrir el área con papel film (envoplast) o papel encerado.

@@ -3,14 +3,12 @@ layout: post
 title:  "Queso Paisa "
 date:   2021-07-27 14:17:14 -0400
 categories: queso paisa tequeñero receta
-image:
-  feature: /assets/img/quesos-moleros/queso-paisa.jpeg
 ---
 **Características** : Queso de sabor suave, semiduro, resistente al calor, capaz de resistir altas temperaturas mientras se fríe, se coloca en la plancha o cuando es usado en la elaboración de tequeños.
 
 **Uso**: Ideal para tequeños, pasteles, a la plancha y hasta a la parrilla.
 
-![Queso Paisa]({{site.url}}/assets/img/quesos-moleros/queso-paisa.jpeg)
+![Queso Paisa]({{site.url}}/assets/img/quesos-moleros/queso-paisa.jpeg){:class="img-responsive"}
 
 ## Ingredientes
 
@@ -33,7 +31,7 @@ Suero viejo (madre) | 1% del volumen total de leche
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
 
 1. Calentar la leche hasta 36 grados (97 F), lentamente, no subir súbitamente la temperatura
 2. Cuando la leche este cerca de la temperatura indicada, agregar el cloruro de calcio, si esta usando leche PyH  (Pasteurizada y Homogeneizada)

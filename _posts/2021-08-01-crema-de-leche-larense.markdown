@@ -25,7 +25,7 @@ Sal | 1 cucharadita (TSP) |
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
 
 1. Agregue la crema de leche fría (fría de nevera) al recipiente donde mezclará todos los ingredientes.
 2. Agregue el jugo de limón y el suero viejo, notará que la crema de leche empezará a cortarse.

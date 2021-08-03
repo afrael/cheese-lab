@@ -31,7 +31,7 @@ Sal | 30 gramos por cada galón (US) de leche |
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
 
 1. Vierta la leche en la olla y agregue el suero viejo (30 ml por galón US), proceda a calentar la leche hasta 36 grados (97 F), lentamente, evitar subir súbitamente la temperatura.
 2. Cuando la leche este cerca de la temperatura deseada y si se esta usando leche de supermercado agregue el cloruro de calcio, revuelva bien por un minuto.

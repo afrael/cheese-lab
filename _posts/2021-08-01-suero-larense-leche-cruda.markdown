@@ -24,7 +24,7 @@ Sal | 1 cucharadita (TSP) | Ajustar sal al final del proceso
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
 
 1. Destape la leche y déjele abierta por un par de minutos.
 2. Proceda a tapar la leche y déjela a temperatura ambiente por lo menos dos días.

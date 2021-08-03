@@ -32,7 +32,7 @@ Sal | En forma de salmuera al 12% |
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
 
 1. En una olla se colocan los 2 galones de leche, calentar suavemente hasta alcanzar unos 28°C (82°F). 
 2. Al alcanzar los 28°C (82 F) agregar el suero viejo, mezclar bien y seguir calentando la leche hasta alcanzar los 36°C (97 F)

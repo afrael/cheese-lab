@@ -26,7 +26,7 @@ Sal | Al gusto | Salar al final del proceso
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
 
 1. Vierta la leche en la olla
 2. Agregue el yogurt griego y el suero viejo

@@ -30,7 +30,7 @@ Sal | 50 gramos por galón (US) de leche |
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
 
 1. En una olla se colocan los 2 galones de leche calentar suavemente hasta alcanzar unos 29°C (85°F). 
 2. Al alcanzar los 29°C (85 F) agregar el suero viejo, mezclar por un minuto y seguir calentando la leche hasta alcanzar los 36°C (97 F)
