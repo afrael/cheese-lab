@@ -30,12 +30,12 @@ Sal | 1 tsp | Asumiendo que el queso semiduro pesa aproximadamente 1 kilogramo (
 
 **Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
-1. Mezcle todos los ingredientes en un bowl o tazón. Asguerese que la mezcla no contenga grumos de onoto.
-2. Si no desea manchar el area de trabajo por el onoto, puede cubrir el area con papel film (envoplast) o papel encerado.
+1. Mezcle todos los ingredientes en un bowl o tazón. Asegúrese que la mezcla no contenga grumos de onoto.
+2. Si no desea manchar el área de trabajo por el onoto, puede cubrir el área con papel film (envoplast) o papel encerado.
 3. Usando la brocha, cubra todo el queso con la mezcla.
-4. Si no esta utilizando la brocha, use los guantes y riege la mezcla por toda la superficie del queso.
+4. Si no esta utilizando la brocha, use los guantes y riegue la mezcla por toda la superficie del queso.
 5. Deje secar la mezcla.
-6. Lleve el queso a un area con poca humedad y madure el queso por lo menos por 10 días. 
+6. Lleve el queso a un área con poca humedad y madure el queso por lo menos por 10 días. 
 
 
 ## Ingredientes (concha negra)
@@ -51,9 +51,9 @@ Sal | 1 tsp | Asumiendo que el queso semiduro pesa aproximadamente 1 kilogramo (
 
 ## Procedimiento
 
-1. Mezcle todos los ingredientes en un bowl o tazón. Asguerese que la mezcla no contenga grumos grandes de café.
-2. Usando los guantes y riege la mezcla por toda la superficie del queso.
+1. Mezcle todos los ingredientes en un bowl o tazón. Asegúrese que la mezcla no contenga grumos grandes de café.
+2. Usando los guantes y riegue la mezcla por toda la superficie del queso.
 3. Deje secar la mezcla.
-4. Lleve el queso a un area con poca humedad y madure el queso por lo menos por 10 días. 
+4. Lleve el queso a un área con poca humedad y madure el queso por lo menos por 10 días. 
 
 **Autor**: [Irwin Molero](https://www.instagram.com/moleros_artisancheese/) [Información de Contacto](http://wa.link/1x4dwc)
