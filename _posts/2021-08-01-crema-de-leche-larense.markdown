@@ -2,7 +2,7 @@
 layout: post
 title:  "Crema de Leche estilo Larense"
 date:   2021-08-01 10:20:11 -0400
-categories: receta lacteo crema leche nata natilla
+categories: receta lacteo crema leche nata natilla venezuela
 ---
 
 **Características** : Derivado lácteo, sirve de aderezo principalmente para comer con arepas, aunque también puede comerse con pan o cachapas. De sabor ligeramente ácido y con un punto de sal y de consistencia espesa. También llamada nata o natilla si su consistencia es mas líquida que cremosa.
@@ -25,7 +25,7 @@ Sal | 1 cucharadita (TSP) |
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
 1. Agregue la crema de leche fría (fría de nevera) al recipiente donde mezclará todos los ingredientes.
 2. Agregue el jugo de limón y el suero viejo, notará que la crema de leche empezará a cortarse.

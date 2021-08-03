@@ -2,7 +2,7 @@
 layout: post
 title:  "Queso Semiduro"
 date:   2021-07-31 10:15:14 -0400
-categories: queso semiduro concha roja negra receta 
+categories: queso semiduro concha roja negra receta zulia venezuela
 ---
 
 **Características** : Queso de sabor medio, menos fuerte de sabor que un queso llanero pero con mas sabor que un queso paisa, ligeramente salado, menos salado que el llanero, semiduro, es un queso que idealmente sirve de acompañamiento, puede consumirse solo, aunque generalmente suele consumirse rallado.
@@ -31,7 +31,7 @@ Sal | 30 gramos por cada galón (US) de leche |
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
 1. Vierta la leche en la olla y agregue el suero viejo (30 ml por galón US), proceda a calentar la leche hasta 36 grados (97 F), lentamente, evitar subir súbitamente la temperatura.
 2. Cuando la leche este cerca de la temperatura deseada y si se esta usando leche de supermercado agregue el cloruro de calcio, revuelva bien por un minuto.

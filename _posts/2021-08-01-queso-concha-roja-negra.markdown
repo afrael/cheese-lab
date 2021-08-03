@@ -2,7 +2,7 @@
 layout: post
 title:  "Queso Concha Roja y Concha Negra"
 date:   2021-08-01 00:30:14 -0400
-categories: queso concha roja negra madurado duro
+categories: queso concha roja negra madurado duro zulia venezuela
 ---
 
 **Características** : Queso de sabor fuerte, ligeramente salado, duro, es un queso madurado que idealmente sirve de acompañamiento, viene en dos presentaciones, rojo por el uso del onoto y color café oscuro por el uso del café, la cobertura le aporta un sabor especial a cada uno, suele consumirse rallado.
@@ -28,7 +28,7 @@ Sal | 1 tsp | Asumiendo que el queso semiduro pesa aproximadamente 1 kilogramo (
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
 1. Mezcle todos los ingredientes en un bowl o tazón. Asegúrese que la mezcla no contenga grumos de onoto.
 2. Si no desea manchar el área de trabajo por el onoto, puede cubrir el área con papel film (envoplast) o papel encerado.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Suero Larense (Leche Cruda)"
 date:   2021-08-01 11:13:11 -0400
-categories: receta suero lara leche cruda 
+categories: receta suero lara leche cruda venezuela
 ---
 
 **Características** : Derivado lácteo, liquido, de consistencia espesa parecida al yogur líquido, considerablemente ácido.
@@ -24,7 +24,7 @@ Sal | 1 cucharadita (TSP) | Ajustar sal al final del proceso
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
 1. Destape la leche y déjele abierta por un par de minutos.
 2. Proceda a tapar la leche y déjela a temperatura ambiente por lo menos dos días.

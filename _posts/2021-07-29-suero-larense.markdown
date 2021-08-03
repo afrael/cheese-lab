@@ -2,7 +2,7 @@
 layout: post
 title:  "Suero Larense"
 date:   2021-07-29 07:40:11 -0400
-categories: receta suero lara 
+categories: receta suero lara venezuela
 ---
 
 **Características** : Derivado lácteo, liquido, de consistencia espesa parecida al yogur líquido, considerablemente ácido.
@@ -26,7 +26,7 @@ Sal | Al gusto | Salar al final del proceso
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
 1. Vierta la leche en la olla
 2. Agregue el yogurt griego y el suero viejo

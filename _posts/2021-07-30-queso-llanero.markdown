@@ -30,7 +30,7 @@ Sal | En forma de salmuera (suero salado) al 20% |
 
 ## Procedimiento
 
-**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**{: .notice--danger}
+**Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
 1. Calentar la leche hasta 36 grados (97 F), lentamente, evitar subir súbitamente la temperatura
 2. Cuando la leche este cerca de la temperatura indicada, agregar el cloruro de calcio, si esta usando leche PyH  (Pasteurizada y Homogeneizada)
