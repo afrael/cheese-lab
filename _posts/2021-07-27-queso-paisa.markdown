@@ -8,7 +8,7 @@ categories: queso paisa tequeñero receta
 
 **Uso**: Ideal para tequeños, pasteles, a la plancha y hasta a la parrilla.
 
-![Queso Paisa]({{site.url}}{{site.baseurl}}/assets/img/quesos-moleros/queso-paisa.jpeg)
+![Queso Paisa]({{site.url}}/assets/img/quesos-moleros/queso-paisa.jpeg)
 
 ## Ingredientes
 

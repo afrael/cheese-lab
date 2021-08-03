@@ -29,6 +29,9 @@ baseurl: # the subpath of your site, e.g. /blog
 url: https://www.nuestrosquesos.com # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/ 
 
+# Theme settings
+logo: /assets/img/logo.jpg
+
 # Build settings
 # theme: jekyll-theme-so-simple
 # theme: minima
