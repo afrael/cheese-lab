@@ -9,6 +9,18 @@ categories: receta queso palmita palmizulia zulia venezuela
 
 **Uso**: Es un buen acompañante, va con todo, pero ideal para consumirlo con arepas, plátanos o también por si solo.
 
+**Comentarios acerca del Palmita**: El queso Palmita es notoriamente difícil de lograr con leche pasteurizada y homogeneizada debido a tres factores importantes, una la asepsia de la leche (cuan estéril esté la leche), condiciones de la maduración y finalmente la homogeneización.
+
+La leche de supermercado carece de toda la flora bacteriana nativa de la leche cruda posee, esta flora bacteriana es clave para lograr el sabor y los huecos (ojos) en el queso, por otro lado, toda leche homogeneizada siempre produce una cuajada más delicada que la producida con leche cruda.
+
+Para poder lograr un Palmita con leche de supermercado es clave poder inocular la leche para tratar de reproducir el efecto de la flora bacteriana nativa, eso lo logramos con el suero ácido, pero cabe destacar que el suero ácido también varía mucho según de donde el se haya obtenido.
+
+La maduración es otro aspecto clave, es un queso cuya maduración puede variar, puede ser que con la leche con la que estes trabajando, quizás 24 horas sean suficientes, pero hay casos donde se necesitan hasta 36 horas, y otros casos con 12 horas es suficiente, por lo que hay que monitorear el queso constantemente para remover el suero y para ver si el queso esta formando los huecos. Las condiciones atmosféricas también afectan por lo que quizás toque ajustar el calor de la cámara de maduración.
+
+La homogeneización de la leche se puede contrarrestar un poco con la ayuda del cloruro de calcio, por lo que este es el menor de los problemas.
+
+En conclusión, esta receta es una guía para poder lograr el Palmita, puede ser necesario que necesite ajustes de su parte dada las calidad de su leche, las condiciones de su suero y hasta el lugar donde vive. Utilice esta receta como una base para la suya en particular, el queso Palmita es un queso que requiere mucha maña y ajustes.
+
 ## Ingredientes
 
 Ingrediente | Cantidad | Notas
