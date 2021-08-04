@@ -5,7 +5,7 @@ date:   2021-08-03 15:00:11 -0400
 categories: receta queso venezuela fresco matera
 ---
 
-**Características** : Es un queso fresco, bajo en sal, bastante suave y de sabor bastante neutro y de baja acidez. Es un queso de diario, fresco no madurado, se le llama de Matera en el Zulia, matera siendo una finca, pero esencialmente es un queso fresco. 
+**Características** : Es un queso fresco, bajo en sal, bastante suave y de sabor bastante neutro y de baja acidez. Un queso de diario, fresco no madurado, se le llama "de Matera" en el Zulia, matera siendo una finca, pero esencialmente es un queso fresco. 
 
 **Uso**: Su sabor sutil, textura blanda lo hace buen acompañante de alimentos salados como dulces, no es un queso que ralle bien, pero puede comerse también como acompañamiento.
 
