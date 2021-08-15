@@ -16,7 +16,7 @@ Leche fresca | 3 galones (US) | Si esta usando leche pasteurizada-homogeneizada 
 Cuajo | Según fabricante |
 Cloruro de Calcio | 1/4 TSP (teaspoon) por cada galón de leche | Si es en polvo diluir en 100ml de agua sin cloro
 Sal | 16 gramos por litro | 
-Suero viejo (madre) | 1% del volumen total de leche
+Suero ácido (madre) | 1% del volumen total de leche
 
 ## Implementos mínimos
 
@@ -31,7 +31,7 @@ Suero viejo (madre) | 1% del volumen total de leche
 
 **Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
-1. Calentar la leche hasta 36 grados (97 F), lentamente, no subir súbitamente la temperatura
+1. Agregue la leche fría a la olla y adicione el suero ácido, luego proceda a calentar la leche hasta 36 grados (97 F), lentamente, no subir súbitamente la temperatura
 2. Cuando la leche este cerca de la temperatura indicada, agregar el cloruro de calcio, si esta usando leche PyH  (Pasteurizada y Homogeneizada)
 3. Agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 35 a 45 minutos.
 4. Cortar la cuajada, inicialmente, en cubos de 1 pulgada por 1 pulgada

@@ -16,7 +16,7 @@ Ingrediente | Cantidad | Notas
 Leche Pasteurizada y Homogeneizada (Full Fat/Completa) o fresca preferiblemente | 2 galones (US) |
 Cloruro de Calcio | 1/4 de cucharadita (TSP) por galón (US) | Solo si utiliza leche PyH
 Cuajo | Según la indicación del fabricante | 
-Suero viejo (madre) | 60 ML por cada galón de leche (US) | El pH del suero debe oscilar entre 3.5 a 3.8 
+Suero ácido (madre) | 60 ML por cada galón de leche (US) | El pH del suero debe oscilar entre 3.5 a 3.8 
 Sal | En forma de salmuera al 12% | 
 
 ## Implementos mínimos
@@ -34,7 +34,7 @@ Sal | En forma de salmuera al 12% |
 **Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
 1. En una olla se colocan los 2 galones de leche, calentar suavemente hasta alcanzar unos 28°C (82°F). 
-2. Al alcanzar los 28°C (82 F) agregar el suero viejo, mezclar bien y seguir calentando la leche hasta alcanzar los 36°C (97 F)
+2. Al alcanzar los 28°C (82 F) agregar el suero ácido, mezclar bien y seguir calentando la leche hasta alcanzar los 36°C (97 F)
 3. Alcanzada esa temperatura se deja reposar por 40 minutos
 4. Cumplido el tiempo de reposo se agrega el cloruro de calcio, mezclar por un minuto, luego agregar el cuajo y revolver por un minuto más y dejar reposar por 45 minutos adicionales. 
 5. Al cumplir el tiempo de reposo cortar la cuajada en cuadrícula y dejar reposar por 15 min. Luego colocar a fuego lento y con una paleta mover suavemente la cuajada de abajo hacia arriba hasta alcanzar 38 °C (100 F) y dejar reposar por 15 minutos mas.

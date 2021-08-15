@@ -15,7 +15,7 @@ Ingrediente | Cantidad | Notas
 ------------| ---------| -----
 Leche Cruda (Fresca) | 2 galones (US) |
 Cuajo | Según la indicación del fabricante | 
-Suero viejo (madre) | 25 ML por cada galón de leche (US) | El pH del suero debe oscilar entre 3.5 a 3.8 
+Suero ácido (madre) | 25 ML por cada galón de leche (US) | El pH del suero debe oscilar entre 3.5 a 3.8 
 Suero dulce | 500 cc por galón (US) de leche | Para la preparación de la salmuera
 Sal | 50 gramos por galón (US) de leche | 
 
@@ -33,7 +33,7 @@ Sal | 50 gramos por galón (US) de leche |
 **Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
 1. En una olla se colocan los 2 galones de leche calentar suavemente hasta alcanzar unos 29°C (85°F). 
-2. Al alcanzar los 29°C (85 F) agregar el suero viejo, mezclar por un minuto y seguir calentando la leche hasta alcanzar los 36°C (97 F)
+2. Al alcanzar los 29°C (85 F) agregar el suero ácido, mezclar por un minuto y seguir calentando la leche hasta alcanzar los 36°C (97 F)
 3. Agregar el cuajo y revolver por un minuto más y dejar reposar por 45 minutos adicionales. 
 4. Al cumplir el tiempo de reposo cortar la cuajada en cuadrícula y dejar reposar por 15 min. Como estamos trabajando con leche cruda proceda a "quebrar" la cuajada con la mano hasta lograr grumos bien pequeños.
 5. Deje reposar la cuajada por 15 minutos, el suero debe haber subido y la cuajada debe estar asentada en el fondo de la olla, en ese momento comenzar a desuerar por completo dentro de la misma olla. Colocando un colador fino y sacando el suero con una taza, remueva todo el suero posible. Verifique que la cuajada quede muy compactada. Reserve el suero ya que se usará en la salmuera.

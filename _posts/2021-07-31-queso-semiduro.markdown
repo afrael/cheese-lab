@@ -33,7 +33,7 @@ Sal | 30 gramos por cada galón (US) de leche |
 
 **Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
-1. Vierta la leche en la olla y agregue el suero viejo (30 ml por galón US), proceda a calentar la leche hasta 36 grados (97 F), lentamente, evitar subir súbitamente la temperatura.
+1. Vierta la leche en la olla y agregue el suero ácido (30 ml por galón US), proceda a calentar la leche hasta 36 grados (97 F), lentamente, evitar subir súbitamente la temperatura.
 2. Cuando la leche este cerca de la temperatura deseada y si se esta usando leche de supermercado agregue el cloruro de calcio, revuelva bien por un minuto.
 3. Apague el fuego y agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 45 a 60 minutos.
 4. Una vez cuajada la leche proceder a cortar en cubos de 3cm por 3cm (aproximadamente 1 pulgada por 1 pulgada), cortar en cuadricula.
