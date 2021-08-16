@@ -45,6 +45,7 @@ paginate_path: /page:num/
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-leaflet
 
 # Exclude from processing.
 # The following items will not be processed, by default.
