@@ -6,17 +6,17 @@ categories: leche cultivo culture ingrediente
 published: true
 ---
 
-Todos los quesos adquieren su identidad, su sabor, forma mediante el proceso de madurado, durante este proceso es cuando las bacterias presentes presentes en la leche (o cultivo) actua y hace su magia.
+Todos los quesos adquieren su identidad, su sabor y forma mediante a través del proceso de madurado, durante este proceso las bacterias presentes presentes en la leche (o cultivo) actúan y hacen su magia.
 
-En tiempos ancestrales la leche adquiria toda su flora bacteriana a través de lo que la vaca, oveja o cabra consumía, de ahi el hecho de quesos de una vaca de una misma raza puedan tener diferentes sabores.
+En tiempos ancestrales la leche adquiría toda su flora bacteriana a través de lo que la vaca, oveja o cabra consumía, de ahí el hecho de quesos de una vaca de una misma raza puedan tener diferentes sabores.
 
-Por supuesto que el curado, o maduración, cambia el queso, el ingrediente principal es la carga bacteriana de la leche cruda la que mayor influencia tiene.
+Por supuesto que el curado, o maduración, cambia el queso, el ingrediente principal es la carga bacteriana presente la leche cruda, este es quien tiene la mayor influencia en esos cambios.
 
-Luego de la introducción de la pasteurización, por razones de salubridad, la carga bacteriana es mínima, en algunos casos la leche queda virtualmente esteril, para solventar este problema, mucho de los maestros queseros creaban, alguna aún trabajan así, sus culturas madres, y con esa cultura inoculaban su leche, pero es un procesos sumamente laborioso que es propenso a la contaminación.
+Luego de la introducción de la pasteurización, por razones de salubridad, la carga bacteriana es mínima, en algunos casos la leche queda virtualmente estéril, para solventar este problema, mucho de los maestros queseros creaban, algunos aún trabajan así, sus culturas madres, y con esa cultura inoculaban su leche, pero es un proceso sumamente laborioso que es propenso a la contaminación.
 
-En la actualidad, cuando no se trabaja con leche cruda, los maestros queseros recurren al uso de cultivos DVI (Direct Vat Innoculation), son bacterias que vienen en forma de un polvillo el cual puede ser agregados directemente a la leche, aunque también se pueden crear cukturas madres a partir de ellos. Estos cultivos pudieron ser aislado tras estudiar las diferentes caracteristicas de la leche cruda.
+En la actualidad, cuando no se trabaja con leche cruda, los maestros queseros recurren al uso de cultivos DVI (Direct Vat Innoculation), son bacterias que vienen en forma de un polvíllo el cual puede ser agregados directamente a la leche, aunque también se pueden crear culturas madres a partir de estos. Estos cultivos pudieron ser aislados tras estudiar las diferentes características de la leche cruda.
 
-Existen dos grandes grupos de cutivos, los cultivos mesofílicos (activos en temperaturas moderadas) y termofílicos (activos en altas temperaturas). A grandes rasgos, podemos clasificar los quesos, segun sus cultivos en:
+Existen dos grandes grupos de cultivos, los cultivos mesofílicos (activos en temperaturas moderadas) y termofílicos (activos en altas temperaturas). A grandes rasgos, podemos clasificar los quesos, según sus cultivos en:
 
 ## Cultivos
 
@@ -24,26 +24,25 @@ Tipo de Cultura | Queso
 ------------| ------------|
 Mesofílico (tipo MA) | Cheddar, Feta, Colby, Chevre 
 Mesofílico (tipo MM) | Gouda, Quesos azules, Camembert, Brie y otros quesos amantequillados o con desarrollo de ojos
-Termofílico | Mozzarella, Provolone, Romano, Parmesano 
+Termofílico | Mozzarella, Provolone, Romano, Parmesano, Alpinos 
 
 ## Flora Bacteriana
 
-Como mencionamos cada elemento de la flora bacteriana en la leche actua de forma diferente, cada bacteria tiene una función especifíca, cada una genera una serie de acciones que van cambiando el queso, hay bacterias que crean ácido láctico, otras degradan las proteinas (proteolíticas), otras degradan la grasa (lipolíticas), algunas producen aroma y otras gas, para la generación de ojos.
+Como mencionamos cada elemento de la flora bacteriana en la leche actúa de forma diferente, cada bacteria tiene una función específica, cada una genera una serie de acciones que van cambiando el queso, hay bacterias que crean ácido láctico, otras degradan las proteínas (proteolíticas), otras degradan la grasa (lipolíticas), algunas producen aroma y otras gas, para la generación de ojos.
 
 A continuación un listado de las bacterias y su función principal.
 
-
 Nombre | Tipo | Función 
 ------------| ------------| ------------|
-Lactococus lactis ssp. lactis | mesofílica | ácido láctico
-Lactococus lactis ssp. cremoris | mesofílica | ácido láctico
-Lactococus lactis ssp. lactis biovar diacetylactis | mesofílica | ácido láctico, CO2, diacetilo
-Leuconostoc mesenteroides ssp. cremoris | mesofílica | CO2, diacetilo 
-Streptococus thermophilus| termofílica | ácido láctico
-Lactobacillus delbrueckii ssp. bulgaricus| termofílica | ácido láctico
-Lactobacillus helveticus | termofílica | ácido láctico
+*Lactococus lactis ssp. lactis* | mesofílica | ácido láctico
+*Lactococus lactis ssp. cremoris* | mesofílica | ácido láctico
+*Lactococus lactis ssp. lactis biovar diacetylactis* | mesofílica | ácido láctico, CO2, diacetilo
+*Leuconostoc mesenteroides ssp. cremoris* | mesofílica | CO2, diacetilo 
+*Streptococus thermophilus*| termofílica | ácido láctico
+*Lactobacillus delbrueckii ssp. bulgaricus*| termofílica | ácido láctico
+*Lactobacillus helveticus* | termofílica | ácido láctico
 
-Dependiendo del tipo de queso que quieras lograr debes combinar una o más de esos cultivos, muchos de los quesos latinos son quesos frescos elaborados a partir de leche cruda no necesitas nada más; y por ser frescos su periodo de maduración es muy corto, o casi inexistente, estos quesos, en su gran mayoría son mesofílicos.
+Dependiendo del tipo de queso que quieras lograr debes combinar uno o más de esos cultivos, muchos de los quesos latinos son quesos frescos elaborados a partir de leche cruda no necesitan nada más; y por ser frescos su periodo de maduración es muy corto, o casi inexistente, estos quesos, en su gran mayoría son mesofílicos.
 
 ## Cultivos Secundarios
 
@@ -51,10 +50,10 @@ Esta gama de cultivos es combinado con los primeros para crear un queso más com
 
 Nombre | Función | Aplicación 
 ------------| ------------| ------------|
-Propionibacterium freudenrichii ssp. shemanii | CO2, ácido propionico y ácetico para el desarrollo de ojos y sabor | quesos suizos (Enmental)
-Geotrichum candidum | Moho blanco, deacidificación y desarrollo de sabor | quesos de corteza blanca, (Camembert, Brie)
-Penicillium Camemberti | Moho blanco, deacidificación y desarrollo de sabor | quesos de corteza blanca, (Camembert, Brie)
-Penicillium Roqueforti | Moho verde/azul, deacidificación y desarrollo de sabor y textura | quesos azules 
+*Propionibacterium freudenrichii ssp. shermanii* | CO2, ácido propionico y ácetico para el desarrollo de ojos y sabor | quesos suizos (Enmental)
+*Geotrichum candidum* | Moho blanco, desacidificación y desarrollo de sabor | quesos de corteza blanca, (Camembert, Brie)
+*Penicillium Camemberti* | Moho blanco, deascidificación y desarrollo de sabor | quesos de corteza blanca, (Camembert, Brie)
+*Penicillium Roqueforti* | Moho verde/azul, desacidificación y desarrollo de sabor y textura | quesos azules 
 
 ## Marcas comerciales
 
@@ -69,8 +68,8 @@ Nombre | Fabricante | Tipo de cultivo | Tipo de queso
 [Flora Danica](https://www.getculture.com/Flora-Danica.html) | CHR Hansen | Mesófila | Baby Swiss, Gouda, Edam, Brie, Azul
 [TA61](https://www.getculture.com/TA-61.html) | Danisco/Choozit | Termófila | Quesos italianos y suizos
 [Termo B](https://www.getculture.com/Thermo-B.html) | Danisco/Choozit | Termófila | Quesos italianos
-[Aroma B](https://www.getculture.com/Aroma-B.html) | Biena | Mesoófila | Edam, Havarti, Gouda
+[Aroma B](https://www.getculture.com/Aroma-B.html) | Biena | Mesófila | Edam, Havarti, Gouda
 
-Esperamos que esta guia te sirva para iniciarte en el mundo de los quesos madurados.
+Esperamos que esta guía te sirva para iniciarte en el mundo de los quesos madurados.
 
 **Fuente**: American Farmstead Cheese por Paul Kindstedt
