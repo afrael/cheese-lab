@@ -1,8 +1,8 @@
 - title: Inicio
   url: /
 
-- title: Donde estamos
-  url: /mapa/
+#- title: Donde estamos
+#  url: /mapa/
 
 - title: Acerca de nosotros
   url: /acerca-de/

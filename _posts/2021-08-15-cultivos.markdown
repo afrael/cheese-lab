@@ -3,10 +3,8 @@ layout: post
 title:  "Cultivos, el ingrediente clave"
 date:   2021-08-15 10:17:14 -0400
 categories: leche cultivo culture ingrediente
-published: false
+published: true
 ---
-
-## Cultivos
 
 Todos los quesos adquieren su identidad, su sabor, forma mediante el proceso de madurado, durante este proceso es cuando las bacterias presentes presentes en la leche (o cultivo) actua y hace su magia.
 
@@ -20,6 +18,7 @@ En la actualidad, cuando no se trabaja con leche cruda, los maestros queseros re
 
 Existen dos grandes grupos de cutivos, los cultivos mesofílicos (activos en temperaturas moderadas) y termofílicos (activos en altas temperaturas). A grandes rasgos, podemos clasificar los quesos, segun sus cultivos en:
 
+## Cultivos
 
 Tipo de Cultura | Queso 
 ------------| ------------|
@@ -48,6 +47,30 @@ Dependiendo del tipo de queso que quieras lograr debes combinar una o más de es
 
 ## Cultivos Secundarios
 
+Esta gama de cultivos es combinado con los primeros para crear un queso más complejo, tienen otras funciones, como crear ojos, modificar la pasta del queso o crear un aroma particular. Los más utilizados son:
+
+Nombre | Función | Aplicación 
+------------| ------------| ------------|
+Propionibacterium freudenrichii ssp. shemanii | CO2, ácido propionico y ácetico para el desarrollo de ojos y sabor | quesos suizos (Enmental)
+Geotrichum candidum | Moho blanco, deacidificación y desarrollo de sabor | quesos de corteza blanca, (Camembert, Brie)
+Penicillium Camemberti | Moho blanco, deacidificación y desarrollo de sabor | quesos de corteza blanca, (Camembert, Brie)
+Penicillium Roqueforti | Moho verde/azul, deacidificación y desarrollo de sabor y textura | quesos azules 
+
 ## Marcas comerciales
 
-Los cultivos son
+Los cultivos son comercializados por varios grandes grupos de los cuales destacan dos: Danisco/Choozit y CHR-Hansen, otro fabricante bastante popular es Biena.
+
+Algunos de los cultivos mas populares son:
+
+Nombre | Fabricante | Tipo de cultivo | Tipo de queso
+------------| ------------|  ------------| ------------|
+[MA Series](https://www.getculture.com/MA-11.html) | Danisco/Choozit | Mesófila | Cheddar, Colby
+[MM Series](https://www.getculture.com/MM-Series1.html) | Danis co/Choozit | Mesófila | Gouda, Edam, Camembert, Feta
+[Flora Danica](https://www.getculture.com/Flora-Danica.html) | CHR Hansen | Mesófila | Baby Swiss, Gouda, Edam, Brie, Azul
+[TA61](https://www.getculture.com/TA-61.html) | Danisco/Choozit | Termófila | Quesos italianos y suizos
+[Termo B](https://www.getculture.com/Thermo-B.html) | Danisco/Choozit | Termófila | Quesos italianos
+[Aroma B](https://www.getculture.com/Aroma-B.html) | Biena | Mesoófila | Edam, Havarti, Gouda
+
+Esperamos que esta guia te sirva para iniciarte en el mundo de los quesos madurados.
+
+**Fuente**: American Farmstead Cheese por Paul Kindstedt

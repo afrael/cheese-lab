@@ -4,6 +4,7 @@ title: Donde estamos
 permalink: /mapa/
 ---
 
+{% comment %}
 {% leaflet_map {"zoom" : 2 } %}
     {% leaflet_marker { "latitude" : 33.9562,
                        "longitude" : -83.9880,
@@ -17,3 +18,4 @@ permalink: /mapa/
                        "longitude" : -82.4572,
                        "popupContent" : "Luis Mejia"} %}
 {% endleaflet_map %}
+{% endcomment %}
