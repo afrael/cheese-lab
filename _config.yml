@@ -53,11 +53,20 @@ plugins:
 
 exclude:
   - vendor
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - Rakefile
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
   
 # Exclude from processing.
 # The following items will not be processed, by default.
