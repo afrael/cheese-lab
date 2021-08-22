@@ -7,13 +7,7 @@ permalink: /mapa/
 {% leaflet_map {"zoom" : 2 } %}
     {% leaflet_marker { "latitude" : 33.9562,
                        "longitude" : -83.9880,
-                       "popupContent" : "Moleros Artisan Cheese, ofrece los siguientes quesos:
-                       - Palmita
-                       - Semiduro
-                       - Concha roja y negra
-                       - De Mano, Telita y Guayanes
-                       - Cabra
-                       - Matera",
+                       "popupContent" : "Moleros Artisan Cheese ofrece los siguientes quesos: Palmita, Semiduro, Concha roja y negra, De Mano, Telita y Guayanes, Cabra, De Matera",
                        "href" : "https://www.instagram.com/moleros_artisancheese/"} %}
 
     {% leaflet_marker { "latitude" : 28.5653,
