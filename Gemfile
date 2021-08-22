@@ -3,6 +3,7 @@ ruby RUBY_VERSION
 
 gem "rake", "~> 12"
 gem "jekyll", "~> 4.2.0"
+gem "jekyll-theme-so-simple"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
