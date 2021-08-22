@@ -14,7 +14,7 @@ permalink: /mapa/
                        - De Mano, Telita y Guayanes
                        - Cabra
                        - Matera",
-                       "permalink" : "https://www.instagram.com/moleros_artisancheese/"} %}
+                       "href" : "https://www.instagram.com/moleros_artisancheese/"} %}
 
     {% leaflet_marker { "latitude" : 28.5653,
                        "longitude" : -81.5862,
