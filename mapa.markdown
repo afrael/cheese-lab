@@ -14,11 +14,13 @@ Si deseas formar parte del mapa de nuestros quesos, solo tienes que llenar el [s
 
     {% leaflet_marker { "latitude" : 28.5653,
                        "longitude" : -81.5862,
-                       "popupContent" : "SK Pizzarelli"} %}
+                       "popupContent" : "SK Pizzarelli",
+                       "href" : "https://www.instagram.com/seryop23/"} %}
 
     {% leaflet_marker { "latitude" : 27.9506,
                        "longitude" : -82.4572,
-                       "popupContent" : "Luis Mejia"} %}
+                       "popupContent" : "Luis Mejia",
+                       "href" : "https://www.instagram.com/p/CS7tyrhsrIC/"} %}
 
     {% leaflet_marker { "latitude" : 52.5200,
                        "longitude" : 13.4050,
