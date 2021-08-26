@@ -28,6 +28,11 @@ Si deseas formar parte del mapa de nuestros quesos, solo tienes que llenar el [s
                        "longitude" : -89.2182,
                        "popupContent" : "Nancy de Alvarado",
                        "href" : "https://www.instagram.com/7estrellassv/"} %}
+
+    {% leaflet_marker { "latitude" : 29.7604,
+                       "longitude" : -95.3698,
+                       "popupContent" : "Tahiri Camacho",
+                       "href" : "https://www.instagram.com/delitaty1/"} %}
     
     {% leaflet_marker { "latitude" : 25.9087,
                        "longitude" : -80.3087,
