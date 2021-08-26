@@ -19,4 +19,17 @@ Si deseas formar parte del mapa de nuestros quesos, solo tienes que llenar el [s
     {% leaflet_marker { "latitude" : 27.9506,
                        "longitude" : -82.4572,
                        "popupContent" : "Luis Mejia"} %}
+
+    {% leaflet_marker { "latitude" : 52.5200,
+                       "longitude" : 13.4050,
+                       "popupContent" : "Richard Serf"} %}
+    
+    {% leaflet_marker { "latitude" : 13.6929,
+                       "longitude" : -89.2182,
+                       "popupContent" : "Nancy de Alvarado",
+                       "href" : "https://www.instagram.com/7estrellassv/"} %}
+    
+    {% leaflet_marker { "latitude" : 25.9087,
+                       "longitude" : -80.3087,
+                       "popupContent" : "Mawell"} %}
 {% endleaflet_map %}
