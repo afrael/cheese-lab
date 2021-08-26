@@ -31,5 +31,5 @@ Si deseas formar parte del mapa de nuestros quesos, solo tienes que llenar el [s
     
     {% leaflet_marker { "latitude" : 25.9087,
                        "longitude" : -80.3087,
-                       "popupContent" : "Mawell"} %}
+                       "popupContent" : "Mawell Mijares"} %}
 {% endleaflet_map %}
