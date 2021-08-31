@@ -25,7 +25,6 @@ Cera para quesos | | Opcional, una vez formada la corteza del queso se puede emp
 
 - Olla de acero inoxidable (preferiblemente)
 - Termómetro
-- Peachímetro
 - Tela quesera
 - Molde
 - Prensa
