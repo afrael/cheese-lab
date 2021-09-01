@@ -39,4 +39,9 @@ Si deseas formar parte del mapa de nuestros quesos, solo tienes que llenar el [s
     {% leaflet_marker { "latitude" : 25.9087,
                        "longitude" : -80.3087,
                        "popupContent" : "Mawell Mijares"} %}
+
+    {% leaflet_marker { "latitude" : 30.0972,
+                       "longitude" : -95.6161,
+                       "popupContent" : "Alinorca",
+                       "href" : "https://www.instagram.com/alinorcausa/"} %}
 {% endleaflet_map %}
