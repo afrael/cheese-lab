@@ -1,7 +1,6 @@
 ---
 title: Donde estamos
 ---
-
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}" prefix="og: http://ogp.me/ns#">
 
