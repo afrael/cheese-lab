@@ -1,47 +1,218 @@
 ---
-layout: page
 title: Donde estamos
-permalink: /mapa/
 ---
 
-Si deseas formar parte del mapa de nuestros quesos, solo tienes que llenar el [siguiente formulario](https://forms.gle/j3jdZuhkQxVSSdAH8), una vez aprobado tu registro el marcador será agregado en el mapa.
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" prefix="og: http://ogp.me/ns#">
 
-{% leaflet_map {"zoom" : 2 } %}
-    {% leaflet_marker { "latitude" : 33.9562,
-                       "longitude" : -83.9880,
-                       "popupContent" : "Moleros Artisan Cheese. Quesos Venezolanos, ofrece los siguientes quesos: Palmita, Semiduro, Concha roja y negra, De Mano, Telita y Guayanes, Cabra, De Matera",
-                       "href" : "https://www.instagram.com/moleros_artisancheese/"} %}
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% leaflet_marker { "latitude" : 28.5653,
-                       "longitude" : -81.5862,
-                       "popupContent" : "SK Pizzarelli",
-                       "href" : "https://www.instagram.com/seryop23/"} %}
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <meta name="keywords" content="nuestrosquesos,comunidad,recetas,queseros,mapa">
+    <meta name="author" content="Mapa de Integrantes de NuestrosQuesos"> 
+    <meta name="robots" content="index, follow">
 
-    {% leaflet_marker { "latitude" : 27.9506,
-                       "longitude" : -82.4572,
-                       "popupContent" : "Luis Mejia",
-                       "href" : "https://www.instagram.com/p/CS7tyrhsrIC/"} %}
+    <!-- styles -->
+    <link rel="stylesheet" href="{{ '/assets/vendor/leaflet/leaflet.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/vendor/leaflet.markercluster/dist/MarkerCluster.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/vendor/leaflet.markercluster/dist/MarkerCluster.Default.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/map-style.css' | relative_url }}">
 
-    {% leaflet_marker { "latitude" : 52.5200,
-                       "longitude" : 13.4050,
-                       "popupContent" : "Richard Serf"} %}
+    <!-- urls -->
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
     
-    {% leaflet_marker { "latitude" : 13.6929,
-                       "longitude" : -89.2182,
-                       "popupContent" : "Nancy de Alvarado",
-                       "href" : "https://www.instagram.com/7estrellassv/"} %}
+    <!-- Prefetch external CDN-Domain -->
+    <link rel="dns-prefetch" href="//cartodb-basemaps-b.global.ssl.fastly.net">
 
-    {% leaflet_marker { "latitude" : 29.7604,
-                       "longitude" : -95.3698,
-                       "popupContent" : "Tahiri Camacho",
-                       "href" : "https://www.instagram.com/delitaty1/"} %}
-    
-    {% leaflet_marker { "latitude" : 25.9087,
-                       "longitude" : -80.3087,
-                       "popupContent" : "Mawell Mijares"} %}
+    <!-- icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/icons/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/icons/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/icons/favicon-16x16.png' | relative_url }}">
+    <link rel="manifest" href="{{ '/icons/manifest.json' | relative_url }}">
+    <link rel="mask-icon" href="{{ '/icons/safari-pinned-tab.svg' | relative_url }}" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
 
-    {% leaflet_marker { "latitude" : 30.0972,
-                       "longitude" : -95.6161,
-                       "popupContent" : "Alinorca",
-                       "href" : "https://www.instagram.com/alinorcausa/"} %}
-{% endleaflet_map %}
+    <!-- open graph -->
+    <meta property="og:site_name" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:image" content="{{ '/icons/redaxo-community.png' | absolute_url }}">
+    <meta property="og:locale" content="de_DE">
+
+    <!-- twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@NuestrosQuesos">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <meta name="twitter:image" content="{{ '/icons/redaxo-community.png' | absolute_url }}">
+    <meta name="twitter:image:alt" content="Screenshot of community map">
+
+    <!-- JSON LD -->
+    <script type="application/ld+json">
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "name": "{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}",
+            "publisher": "Comunidad de NuestrosQuesos",
+            "url": "{{ page.url | absolute_url }}",
+            "description": "{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}",
+            "image": "{{ '/assets/img/logo.jpg' | absolute_url }}"
+        }
+    ]
+    </script>
+
+    <!-- scripts -->
+    <script src="{{ '/assets/vendor/leaflet/leaflet.js' | relative_url }}"></script>
+    <script src="{{ '/assets/vendor/leaflet.markercluster/dist/leaflet.markercluster.js' | relative_url }}"></script>
+    <script src="{{ '/assets/vendor/leaflet.edgebuffer/src/leaflet.edgebuffer.js' | relative_url }}"></script>
+    <script src="{{ '/assets/plugins/hash/hash.js' | relative_url }}"></script>
+
+
+    <!-- init directory data and items counter -->
+    {% assign directoryData = site.collections | where: "label", "directory" | first %}
+    {% assign itemsCount = 0 %}
+
+
+    <!-- process directory data -->
+    <script>
+    var directory = [
+        {% for entry in site.directory %}
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        {% assign parts = entry.id | split: "/" %}
+        {% assign index = parts | size | minus: 2 %}
+        {% assign idRaw = parts[index] %}
+        {% assign id = idRaw | slugify | jsonify %}
+
+        <!-- name -->
+        {% assign name = entry.name | strip_html | truncate: 100 | escape_once | jsonify %}
+
+        <!-- latitude -->
+        {% assign latitude = entry.latitude | strip_html | escape_once %}
+        {% if latitude.size > 0 %}
+            {% assign latitude = latitude | jsonify %}
+        {% else %}
+            {% continue %}
+        {% endif %}
+
+        <!-- longitude -->
+        {% assign longitude = entry.longitude | strip_html | escape_once %}
+        {% if longitude.size > 0 %}
+            {% assign longitude = longitude | jsonify %}
+        {% else %}
+            {% continue %}
+        {% endif %}
+
+        <!-- bio -->
+        {% assign bio = entry.bio | strip_html | truncate: 300 | escape_once | jsonify %}
+
+        <!-- image -->
+        {% assign image = entry.image | strip_html %}
+        {% unless image contains 'http://' or image contains 'https://' %}
+
+            <!-- split path into parts and reassemble to get clean path (which jekyll does not provide) -->
+            {% assign parts = entry.id | split: "/" %}
+            {% assign path = "" %}
+            {% for part in parts %}
+                {% if part != "" and forloop.last != true %}
+                    {% capture path %}{{ path }}/{{ part }}{% endcapture %}
+                {% endif %}
+            {% endfor %}
+
+            <!-- set up complete image path (without leading '/') -->
+            {% assign imagePath = path | slice: 1, 99999 | append: "/" | append: image %}
+
+            <!-- create internal path stored by jeykll and check if image exists -->
+            {% assign checkPath = imagePath | prepend: "_" %}
+            {% assign imageObject = directoryData.files | where: "path", checkPath | first %}
+
+            <!-- assign final image path -->
+            {% if imageObject %}
+                {% assign image = imagePath %}
+            {% else %}
+                {% assign image = "" %}
+            {% endif %}
+        {% endunless %}
+        {% assign image = image | jsonify %}
+
+        <!-- links -->
+        {% assign links = entry.links | jsonify | escape_once | replace: "&quot;", '"' %}
+
+        <!-- last modified -->
+        {% assign lastModified = site.data.last-modified[idRaw] | default: 0 %}
+
+        <!-- increment counter -->
+        {% assign itemsCount = itemsCount | plus: 1 %}
+
+        <!-- output -->
+        {
+            'id': {{ id }},
+            'name': {{ name }},
+            'latitude': {{ latitude }},
+            'longitude': {{ longitude }},
+            'bio': {{ bio }},
+            'image': {{ image }},
+            'links': {{ links }},
+            'lastModified': {{ lastModified }},
+        }{% unless forloop.last == true %},{% endunless %}
+        {% endfor %}
+    ];
+    </script>
+
+
+    <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+
+</head>
+
+<body>
+
+    <!-- map container -->
+    <div class="map" id="map"></div>
+
+
+    <!-- info banner at bottom on site, click toggles popover -->
+    <a class="infobanner" id="popover-open">
+        <div class="infobanner__redaxo">
+            <span>Mapa <span class = "hide-xs">Mundial</span> de Queseros</span>
+        </div>
+        <div class="infobanner__join">
+            <span class="infobanner__heart">♥</span>
+            <span>¡Unete!</span>
+        </div>
+    </a>
+
+
+    <!-- popover -->
+    <div class="popover" id="popover">
+        <button id="popover-close" class="popover__close" type="button"><span>Cerrar</span><i><i></i></i></button>
+        <div class="popover__body">
+
+            <h1 class="popover__title">
+                <!-- <img class="redaxo-logo" src="{{ '/assets/images/redaxo-cms.svg' | relative_url }}" alt="REDAXO"><br> -->
+                Mapa mundial de la comunidad Nuestros Quesos
+            </h1>
+
+            <p>Cualquiera de los <strong>{{ itemsCount }}</strong> marcadores en el mapa señalan un lugar donde alguien esta haciendo nuestros quesos o es alguien involucrado con la comunidad de <a href="https://nuestrosquesos.com" target="_blank" rel="noopener noreferrer">NuestrosQuesos</a>.</p>
+            <p>La comunidad de NuestrosQuesos esta integrada por personas que se dedican diariamente a la comercialización de quesos o también personas que simplemente lo hacen por hobby, cada marcador tiene detalles de la persona o comercio.</p>
+
+            <div class="calltoaction">
+                <p>👉 <a href="https://forms.gle/j3jdZuhkQxVSSdAH8" target="_blank" rel="noopener noreferrer">Si deseas ser parte del mapa, llena este formulario</a></p>
+            </div>
+
+            <div class="legals">
+                <p>Legales: Este mapa es producto de un Fork del mapa de Redaxo, el cual puedes ver en <a href="https://github.com/FriendsOfREDAXO/community" target="_blank" rel="noopener noreferrer">GitHub</a>. Este servicio es provisto gratuitamente.</p>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
