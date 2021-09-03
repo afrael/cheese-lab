@@ -58,7 +58,6 @@ plugins:
   - jekyll-leaflet
 
 exclude:
-  - vendor
   - LICENSE
   - README.md
   - Rakefile
