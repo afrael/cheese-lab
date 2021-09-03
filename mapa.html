@@ -18,9 +18,9 @@ permalink: /mapa/
     <meta name="robots" content="index, follow">
 
     <!-- styles -->
-    <link rel="stylesheet" href="{{ '/assets/vendor/leaflet/leaflet.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/vendor/leaflet.markercluster/dist/MarkerCluster.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/vendor/leaflet.markercluster/dist/MarkerCluster.Default.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/map/leaflet/leaflet.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/map/leaflet.markercluster/dist/MarkerCluster.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/map/leaflet.markercluster/dist/MarkerCluster.Default.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/map-style.css' | relative_url }}">
 
     <!-- urls -->
@@ -46,13 +46,13 @@ permalink: /mapa/
     <meta property="og:image" content="{{ '/icons/redaxo-community.png' | absolute_url }}">
     <meta property="og:locale" content="de_DE">
 
-    <!-- twitter -->
-    <meta name="twitter:card" content="summary_large_image">
+    <!-- twitter     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@NuestrosQuesos">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
     <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     <meta name="twitter:image" content="{{ '/icons/redaxo-community.png' | absolute_url }}">
     <meta name="twitter:image:alt" content="Screenshot of community map">
+    -->
 
     <!-- JSON LD -->
     <script type="application/ld+json">
@@ -70,9 +70,9 @@ permalink: /mapa/
     </script>
 
     <!-- scripts -->
-    <script src="{{ '/assets/vendor/leaflet/leaflet.js' | relative_url }}"></script>
-    <script src="{{ '/assets/vendor/leaflet.markercluster/dist/leaflet.markercluster.js' | relative_url }}"></script>
-    <script src="{{ '/assets/vendor/leaflet.edgebuffer/src/leaflet.edgebuffer.js' | relative_url }}"></script>
+    <script src="{{ '/assets/map/leaflet/leaflet.js' | relative_url }}"></script>
+    <script src="{{ '/assets/map/leaflet.markercluster/dist/leaflet.markercluster.js' | relative_url }}"></script>
+    <script src="{{ '/assets/map/leaflet.edgebuffer/src/leaflet.edgebuffer.js' | relative_url }}"></script>
     <script src="{{ '/assets/plugins/hash/hash.js' | relative_url }}"></script>
 
 
