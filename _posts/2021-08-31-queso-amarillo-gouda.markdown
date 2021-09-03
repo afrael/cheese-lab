@@ -18,7 +18,7 @@ Cloruro de Calcio | 1/4 de cucharadita (TSP) por galón (US) | Solo si utiliza l
 Cultura mesofílica, serie MA (M030) | 1/16 tsp por cada galón de leche | Un cultivo equivalente que contenga *Lactococcus ssp lactis* y *cremoris*, Flora Danica o MM 100 son buenos substitutos
 Colorante natural (achiote/onoto) | 4 gotas por galón, diluido en 100cc de agua sin cloro | Opcional, receta original de Gavin Webber no lo incluye 
 Cuajo | Según la indicación del fabricante | 
-Sal | 1 kg | Receta: 1 galón (US) de agua, 1 kg (2.25 lbs), 1 TSP de cloruro de calcio y 1 tsp de vinagre.
+Sal | 1 kg | **Receta de la Salmuera**: 1 galón (US) de agua, 1 kg (2.25 lbs) de sal, 1 TSP de cloruro de calcio y 1 gota de vinagre. Técnicamente el pH de la salmuera debe ser el igual al pH del queso.
 Cera para quesos | | Opcional, una vez formada la corteza del queso se puede empacar al vacío
 
 ## Implementos mínimos
