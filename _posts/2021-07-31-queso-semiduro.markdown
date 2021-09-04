@@ -43,6 +43,8 @@ Sal | 30 gramos por cada galón (US) de leche |
 1. Vierta la leche en la olla y agregue el suero ácido (30 ml por galón US), proceda a calentar la leche hasta 36 grados (97 F), lentamente, evitar subir súbitamente la temperatura.
 2. Cuando la leche este cerca de la temperatura deseada y si se esta usando leche de supermercado agregue el cloruro de calcio, revuelva bien por un minuto.
 
+{% include image-gallery.html folder="/assets/img/leche-cuajando" %} 
+
 ### Cuajado de la leche y corte de la cuajada
 
 1. Apague el fuego y agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 45 a 60 minutos.
@@ -50,7 +52,6 @@ Sal | 30 gramos por cada galón (US) de leche |
 3. Deje reposar la cuajada luego de cortada entre 10 y 15 minutos.
 4. Ahora proceda a cortar la cuajada en ángulo, luego de cortar todo en ángulo dejar reposar la cuajada de 10 a 15 minutos más.
 
-{% include image-gallery.html folder="/assets/img/leche-cuajando" %} 
 {% include image-gallery.html folder="/assets/img/cuajada-cortada-olla" %} 
 
 ### Desuerado
@@ -58,6 +59,8 @@ Sal | 30 gramos por cada galón (US) de leche |
 1. Aumentar lentamente la temperatura y empezar a revolver, inicialmente, lentamente la cuajada, tener especial cuidado si se esta trabajando con leche PyH.
 2. Cuando la leche alcance 40 grados (105 F), retirar del calor o apagar la estufa, la cuajada debe tener el tamaño de un grano de maíz o más pequeña aún, la idea es dejar la cuajada lo más seca posible.
 3. Retire la mayor cantidad de suero, al menos el 95% del suero, deje una pequeña cantidad de suero para facilitar el salado.
+
+{% include image-gallery.html folder="/assets/img/cuajada-desuerada-olla" %} 
 
 ### Salar, enmoldar y prensar el queso
 
