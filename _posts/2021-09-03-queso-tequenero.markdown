@@ -54,21 +54,23 @@ Suero ácido (madre) | 1% del volumen total de leche
 
 ### Desuerado
 
-6. Retire el suero, con la ayuda de un colador, hasta que la cuajada apenas sea visible.
-7. Aumentar lentamente la temperatura y empezar a revolver, inicialmente, lentamente la cuajada, tener especial cuidado si se esta trabajando con leche PyH.
-8. Cuando la leche alcance 40 grados (105 F), retirar del calor o apagar la estufa, la cuajada debe tener el tamaño de un grano de maíz.
-9.  Deje reposar la cuajada unos 10 minutos.
-10. Retire el resto del suero.
+1. Retire el suero, con la ayuda de un colador, hasta que la cuajada apenas sea visible
+2. Aumentar lentamente la temperatura y empezar a revolver, inicialmente, lentamente la cuajada, tener especial cuidado si se esta trabajando con leche PyH.
+3. Cuando la leche alcance 40 grados (105 F), retirar del calor o apagar la estufa, la cuajada debe tener el tamaño de un grano de maíz.
+4.  Deje reposar la cuajada unos 10 minutos.
+5.  Retire el resto del suero.
+6.  Coloque la cuajada en un colador, déjela reposar hasta que haya drenado la mayor cantidad de suero, debe sentirse relativamente compacta y no muy húmeda al tacto.
+
+{% include image-gallery.html folder="/assets/img/cuajada-desuerado-colador" %} 
 
 ### Salar el queso
 
-11. Coloque la cuajada en un colador, déjela reposar hasta que haya drenado la mayor cantidad de suero, debe sentirse relativamente compacta y no muy húmeda al tacto.
-12. Coloque la cuajada en una bandeja y proceda a cortar en cubos de una pulgada (2.5 cm).
-13. Coloque la cuajada cortada en cubos en la salmuera y asegúrese de que quede sumergida por lo menos por 30 minutos.
+1. Coloque la cuajada en una bandeja y proceda a cortar en cubos de una pulgada (2.5 cm
+2. Coloque la cuajada cortada en cubos en la salmuera y asegúrese de que quede sumergida por lo menos por 30 minutos.
 
 {% include image-gallery.html folder="/assets/img/cuajada-cortada-cubos" %} 
 
-### Enmoldado
+### Enmoldado y prensado del queso
 
 14. Prepare el molde con tela quesera.
 15. Pese la cuajada y anote su peso.
