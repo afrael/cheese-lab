@@ -10,6 +10,10 @@ categories: receta queso venezuela fresco matera
 
 **Uso**: Su sabor sutil, textura blanda lo hace buen acompañante de alimentos salados como dulces, no es un queso que ralle bien, pero puede comerse también como acompañamiento.
 
+**Como luce el queso semiduro**
+
+{% include image-gallery.html folder="/assets/img/queso-matera" %} 
+
 ## Ingredientes
 
 Ingrediente | Cantidad | Notas
@@ -49,6 +53,8 @@ Sal | 1 cucharadas (TBSP) por cada galón de leche |
 1. Apague el fuego y proceda a retirar la mayor cantidad de suero posible, con la ayuda de un colador y una taza.
 2. Una vez retirado el suero, agregue la sal a la cuajada, una cucharada (TBSP) por cada galón de leche, revuelva bien la sal y la cuajada.
 3. Proceda a pesar la cuajada.
+
+{% include image-gallery.html folder="/assets/img/cuajada-desuerada-olla" %} 
 
 ### Enmoldado y prensado del queso
 

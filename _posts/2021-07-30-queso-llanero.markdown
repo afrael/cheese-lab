@@ -9,6 +9,10 @@ categories: queso llanero duro salado
 
 **Uso**: Ideal para cualquier comida, granos (caraotas), pasta, fundamentalmente para rallar.
 
+**Como luce el queso llanero**
+
+{% include image-gallery.html folder="/assets/img/queso-llanero" %} 
+
 ## Ingredientes
 
 Ingrediente | Cantidad | Notas
