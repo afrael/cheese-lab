@@ -50,7 +50,7 @@ Suero ácido (madre) | 1% del volumen total de leche
 4. Cortar la cuajada, inicialmente, en cubos de 1 pulgada por 1 pulgada.
 5. Tapar la olla, apagar la estufa o retirar del fuego y dejar reposar la cuajada por 15 minutos.
 
-{% include image-gallery.html folder="/assets/img/cuajada-cortada-olla" %} 
+{% include image-gallery.html folder="/assets/img/cuajada-cortada-olla-2" %} 
 
 ### Desuerado
 

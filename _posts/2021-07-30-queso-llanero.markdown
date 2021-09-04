@@ -50,7 +50,7 @@ Sal | En forma de salmuera (suero salado) al 20% |
 2. Una vez cuajada la leche proceder a cortar en cubos de 2cm por 2cm (aproximadamente 1 pulgada por 1 pulgada), cortar en cuadricula.
 3. Tape la olla y deje reposar la cuajada cortada por 15 minutos, luego proceder a cortar la cuajada en ángulo y deje reposar nuevamente la cuajada por 10 minutos adicionales.
 
-{% include image-gallery.html folder="/assets/img/cuajada-cortada-olla" %} 
+{% include image-gallery.html folder="/assets/img/cuajada-cortada-olla-2" %} 
 
 ### Desuerado y salado de la cuajada
 

@@ -48,6 +48,8 @@ Sal | 1 cucharadas (TBSP) por cada galón de leche |
 2. Con un mínimo de fuego proceda a cortar en cubos de 2cm por 2cm (aproximadamente 1 pulgada por 1 pulgada), cortar en cuadricula.
 3. Tape la olla y deje reposar la cuajada cortada por 10 minutos, luego proceder a cortar la cuajada en ángulo, revuelva delicadamente por 5 minutos y deje reposar nuevamente la cuajada por 10 minutos adicionales.
 
+{% include image-gallery.html folder="/assets/img/cuajada-cortada-olla-2" %} 
+
 ### Desuerado
 
 1. Apague el fuego y proceda a retirar la mayor cantidad de suero posible, con la ayuda de un colador y una taza.
