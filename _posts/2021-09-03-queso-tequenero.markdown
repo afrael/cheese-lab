@@ -9,6 +9,8 @@ categories: queso tequeñero receta venezuela
 
 **Uso**: Ideal para tequeños, pasteles, a la plancha, relleno para arepas.
 
+{% include image-gallery.html folder="/assets/img/queso-paisa" %}
+
 ## Ingredientes
 
 Ingrediente | Cantidad | Notas
