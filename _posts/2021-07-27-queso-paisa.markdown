@@ -2,6 +2,7 @@
 layout: post
 title:  "Queso Paisa "
 date:   2021-07-27 14:17:14 -0400
+author: moleros-artisan-cheese
 categories: queso paisa tequeñero receta venezuela
 ---
 **Características** : Queso de sabor suave, semiduro, resistente al calor, capaz de resistir altas temperaturas mientras se fríe, se coloca en la plancha o cuando es usado en la elaboración de tequeños.

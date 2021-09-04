@@ -2,6 +2,7 @@
 layout: post
 title:  "Errores Comunes"
 date:   2021-07-30 12:30:14 -0400
+author: ald
 categories: errors causas queso elaboracion
 published: false
 ---

@@ -2,6 +2,7 @@
 layout: post
 title:  "Cultivos, el ingrediente clave"
 date:   2021-08-15 10:17:14 -0400
+author: ald
 categories: leche cultivo culture ingrediente
 published: true
 ---

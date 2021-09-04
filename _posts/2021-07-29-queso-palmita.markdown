@@ -2,6 +2,7 @@
 layout: post
 title:  "Queso Palmita (Leche de Supermercado)"
 date:   2021-07-29 10:20:11 -0400
+author: sk-pizzarelli
 categories: receta queso palmita palmizulia zulia venezuela
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Cámara de Maduración"
 date:   2021-08-03 08:47:14 -0400
+author: ald
 categories: quesos maduracion curado camara
 ---
 

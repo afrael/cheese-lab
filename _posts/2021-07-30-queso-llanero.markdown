@@ -2,6 +2,7 @@
 layout: post
 title:  "Queso Llanero"
 date:   2021-07-30 18:30:14 -0400
+author: ald
 categories: queso llanero duro salado
 ---
 **Características** : Queso de sabor fuerte, salado, duro, es un queso que idealmente sirve de acompañamiento, generalmente no se consume solo por su alta cantidad de sal, suele consumirse rallado.

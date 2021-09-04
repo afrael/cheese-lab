@@ -2,6 +2,7 @@
 layout: post
 title:  "Quiero hacer mis propios quesos ¿Por donde empiezo?"
 date:   2021-08-14 16:30:11 -0400
+author: ald
 categories: tutorial quesos principiante recomendaciones 
 ---
 

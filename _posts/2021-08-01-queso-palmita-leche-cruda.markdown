@@ -2,6 +2,7 @@
 layout: post
 title:  "Queso Palmita (Leche Fresca de Corral)"
 date:   2021-08-01 09:20:11 -0400
+author: 7-estrellas
 categories: receta queso leche cruda palmita palmizulia zulia venezuela
 ---
 

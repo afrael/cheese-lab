@@ -2,6 +2,7 @@
 layout: post
 title:  "Suero Larense (Leche Cruda)"
 date:   2021-08-01 11:13:11 -0400
+author: ald
 categories: receta suero lara leche cruda venezuela
 ---
 

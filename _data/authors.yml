@@ -1,0 +1,45 @@
+moleros-artisan-cheese:
+  name: Moleros Artisan Cheese
+  picture: /assets/img/avatars/moleros-artisan-cheese.jpeg
+  links:
+  - title: Instagram
+    url: https://instagram.com/moleros_artisancheese/
+    icon: fab fa-instagram
+  - title: Whatsapp
+    url: http://wa.link/1x4dwc
+    icon: fab fa-whatsapp
+
+alinorcausa:
+  name: AlinorcaUSA
+  picture: /assets/img/avatars/alinorcausa.jpeg
+  links:
+  - title: Instagram
+    url: https://instagram.com/alinorcausa/
+    icon: fab fa-instagram
+  - title: Whatsapp
+    url: http://wa.link/cyft44
+    icon: fab fa-whatsapp
+
+sk-pizzarelli:
+  name: Sk-Pizzarelli
+  picture: /assets/img/avatars/sk-pizarelli.jpeg
+  links:
+  - title: Instagram
+    url: https://instagram.com/seryop23/
+    icon: fab fa-instagram
+
+7-estrellas:
+  name: Quesos 7 Estrellas
+  picture: /assets/img/avatars/7estrellas.jpeg
+  links:
+  - title: Instagram
+    url: https://instagram.com/7estrellassv/
+    icon: fab fa-instagram
+
+ald:
+  name: Afrael Ortiz
+  picture: /assets/img/avatars/ald.jpeg
+  links:
+  - title: Website
+    url: https://nuestrosquesos.com
+    icon: fas fa-info-circle

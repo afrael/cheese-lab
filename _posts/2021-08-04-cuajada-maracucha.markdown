@@ -2,6 +2,7 @@
 layout: post
 title:  "Cuajada Maracucha (Quesito Antioqueño)"
 date:   2021-08-04 19:00:11 -0400
+author: ald
 categories: receta cuajada venezuela colombia zulia fresco quesito antioqueño
 ---
 

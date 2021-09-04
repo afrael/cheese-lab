@@ -2,6 +2,7 @@
 layout: post
 title:  "Crema de Leche estilo Larense"
 date:   2021-08-01 10:20:11 -0400
+author: ald
 categories: receta lacteo crema leche nata natilla venezuela
 ---
 

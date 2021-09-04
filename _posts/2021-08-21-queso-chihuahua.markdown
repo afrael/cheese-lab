@@ -2,6 +2,7 @@
 layout: post
 title:  "Queso Chihuahua (México)"
 date:   2021-08-21 15:00:11 -0400
+author: ald
 categories: receta queso mexico madurado
 ---
 

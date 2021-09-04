@@ -2,6 +2,7 @@
 layout: post
 title:  "Pasteurización"
 date:   2021-07-29 14:17:14 -0400
+author: ald
 categories: leche pasteurizacion
 ---
 
