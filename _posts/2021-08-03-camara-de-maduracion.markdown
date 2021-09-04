@@ -59,6 +59,10 @@ La forma mas sencilla es comprar un termostato con enchufe que este ya precablea
 
 Una vez ensamblada la caja, asegúrese de que el bombillo se encuentre opuesto al queso, si esta muy cerca puede secar el queso. Seguidamente coloque la rejilla para poder separar el queso del suero y finalmente coloque la taza con agua. Enciendo el termostato y proceda a madurar.
 
+## Diagrama de la cámara
+
+{% include image-gallery.html folder="/assets/img/camara-de-maduracion" %} 
+
 ## Materiales sugeridos
 
 1. [Cable para bombilla](https://www.amazon.com/-/es/extensi%C3%B3n-interruptor-encendido-dormitorio-crecimiento/dp/B08N9S2J89/ref=sr_1_22?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=cable+for+light+bulb&qid=1627998003&sr=8-22)
