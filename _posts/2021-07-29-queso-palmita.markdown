@@ -70,6 +70,8 @@ Sal | En forma de salmuera al 12% |
 
 1. Pasados los 15 minutos, el suero debe haber subido y la cuajada debe estar asentada en el fondo de la olla, en ese momento comenzar a desuerar por completo dentro de la misma olla. Colocando un colador fino y sacando el suero con una taza, remueva hasta un 90% del suero (del volumen total de la leche). Verifique que la cuajada quede muy compactada. Reserve el suero ya que se usará en la salmuera.
 
+{% include image-gallery.html folder="/assets/img/cuajada-desuerada-olla" %} 
+
 ### Salado del queso
 
 1. Luego de desuerar preparo una salmuera al 12% (1QT de suero y 120 gramos de sal). Se coloca la cuajada cortada en cubos en salmuera por un rango de 20 a 30 minutos.

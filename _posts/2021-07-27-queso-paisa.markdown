@@ -56,6 +56,8 @@ Suero ácido (madre) | 1% del volumen total de leche
 1. Aumentar lentamente la temperatura y empezar a revolver, inicialmente, lentamente la cuajada, tener especial cuidado si se esta trabajando con leche PyH
 2. Cuando la leche alcance 43 grados (110 F), retirar del calor o apagar la estufa, la cuajada debe tener el tamaño de un grano de maíz
 
+{% include image-gallery.html folder="/assets/img/agitando-cuajada" %} 
+
 ### Desuerado y salado del queso
 
 1. Retirar 70% del suero (respecto al volumen inicial de la leche)
@@ -63,6 +65,8 @@ Suero ácido (madre) | 1% del volumen total de leche
 3.  Mezclar bien la cuajada con la sal
 4.  Encender la estufa nuevamente, revolver la cuajada lentamente hasta calentarla hasta 55 grados
 5.  Apague la estufa
+
+{% include image-gallery.html folder="/assets/img/cuajada-desuerada-olla" %} 
    
 ### Enmoldado
 
