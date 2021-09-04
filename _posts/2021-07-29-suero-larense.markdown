@@ -10,6 +10,10 @@ categories: receta suero lara venezuela
 
 **Uso**: Ideal para ajiceros, con arepas y hasta puede ser consumido por si solo, como una bebida.
 
+**Como luce la preparación del suero larense**
+
+{% include image-gallery.html folder="/assets/img/suero-de-leche" %} 
+
 ## Ingredientes
 
 Ingrediente | Cantidad | Notas

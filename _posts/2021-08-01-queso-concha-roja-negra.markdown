@@ -10,6 +10,10 @@ categories: queso concha roja negra madurado duro zulia venezuela
 
 **Uso**: Fundamentalmente para rallar.
 
+**Como lucen los quesos concha roja y concha negra**
+
+{% include image-gallery.html folder="/assets/img/queso-concha-roja" %} 
+
 El primer paso es elaborar un queso semiduro, puede ver [la receta acá]({% post_url 2021-07-31-queso-semiduro %}). Los ingredientes para las diferentes coberturas a continuación:
 
 ## Implementos mínimos

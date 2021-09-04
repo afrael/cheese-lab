@@ -32,17 +32,31 @@ Sal | En forma de salmuera al 30% |
 
 **Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
+### Calentado y acidificación de la leche
+
 1. Calentar la leche hasta 36 grados (97 F), evite subir súbitamente la temperatura.
 2. Cuando la leche este cerca de la temperatura deseada, agregue el cloruro de calcio solo si esta usando leche PyH  (Pasteurizada y Homogeneizada).
-3. Apague el fuego y agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 35 a 45 minutos.
-4. Con un mínimo de fuego proceda a cortar en cubos de 2cm por 2cm (aproximadamente 1 pulgada por 1 pulgada), cortar en cuadricula.
-5. Tape la olla y deje reposar la cuajada cortada por 10 minutos, luego proceder a cortar la cuajada en ángulo, revuelva delicadamente por 5 minutos y deje reposar nuevamente la cuajada por 10 minutos adicionales.
-6. Proceda a calentar lentamente la leche hasta 38 grados (100F) y siga revolviendo con delicadeza, una vez llegue a la temperatura deseada, apague el fuego y deje reposar nuevamente por un lapso de 5 a 10 minutos.
-7. Proceda a retirar la mayor cantidad de suero posible, con la ayuda de un colador y una taza. Reserve el suero.
-8. Prepare una salmuera usando un litro de suero y 200 gramos de sal, después de que la sal este completamente diluida. Se coloca la cuajada en salmuera por 30 minutos, revuelva bien, al menos por 5 minutos, para que la salmuera cubra toda la cuajada.
-9. Retire la cuajada de la salmuera y déjela drenar el exceso de líquido.
-10. Proceda a pesar la cuajada.
-11. Colóquele la tela quesera al molde y agregue la cuajada.
-12. Proceda a prensar el queso con un peso dos veces el peso de la cuajada, prense por 16 horas, voltee el queso y prense por 6 horas adicionales.
+
+### Cuajado de la leche y corte de la cuajada
+
+1. Apague el fuego y agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 35 a 45 minutos.
+2. Con un mínimo de fuego proceda a cortar en cubos de 2cm por 2cm (aproximadamente 1 pulgada por 1 pulgada), cortar en cuadricula.
+3. Tape la olla y deje reposar la cuajada cortada por 10 minutos, luego proceder a cortar la cuajada en ángulo, revuelva delicadamente por 5 minutos y deje reposar nuevamente la cuajada por 10 minutos adicionales.
+
+### Desuerado
+
+1. Proceda a calentar lentamente la leche hasta 38 grados (100F) y siga revolviendo con delicadeza, una vez llegue a la temperatura deseada, apague el fuego y deje reposar nuevamente por un lapso de 5 a 10 minutos.
+2. Proceda a retirar la mayor cantidad de suero posible, con la ayuda de un colador y una taza. Reserve el suero.
+
+### Salar la cuajada
+
+1. Prepare una salmuera usando un litro de suero y 200 gramos de sal, después de que la sal este completamente diluida. Se coloca la cuajada en salmuera por 30 minutos, revuelva bien, al menos por 5 minutos, para que la salmuera cubra toda la cuajada.
+2. Retire la cuajada de la salmuera y déjela drenar el exceso de líquido.
+3. Proceda a pesar la cuajada.
+
+### Enmoldado y prensado del queso
+
+1. Colóquele la tela quesera al molde y agregue la cuajada.
+2. Proceda a prensar el queso con un peso dos veces el peso de la cuajada, prense por 16 horas, voltee el queso y prense por 6 horas adicionales.
 
 **Autor**: [Irwin Molero](https://www.instagram.com/moleros_artisancheese/) [Información de Contacto](http://wa.link/1x4dwc)

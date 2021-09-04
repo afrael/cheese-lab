@@ -1,0 +1,12 @@
+- selector: teque_v2_slider
+  captions: true
+  images:
+    - src: /assets/img/queso-paisa/irwin-queso-paisa.jpeg
+      alt: Queso Paisa
+    - src: /assets/img/queso-paisa/queso-paisa-copy.jpeg
+      alt: Queso Paisa
+    - src: /assets/img/queso-paisa/queso-paisa.jpeg
+      alt: Queso Paisa
+  settings:
+    height: "'auto'"
+    effect: "'fade'"

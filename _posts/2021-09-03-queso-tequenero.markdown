@@ -5,11 +5,14 @@ date:   2021-09-03 14:17:14 -0400
 author: alinorcausa
 categories: queso tequeñero receta venezuela
 ---
+
 **Características** : Queso de sabor suave, semiduro, resistente al calor, capaz de resistir altas temperaturas mientras se fríe, se coloca en la plancha o cuando es usado en la elaboración de tequeños.
 
 **Uso**: Ideal para tequeños, pasteles, a la plancha, relleno para arepas.
 
-{% include image-gallery.html folder="/assets/img/queso-paisa" %}
+**Como luce el queso tequeñero**
+
+{% include image-gallery.html folder="/assets/img/queso-paisa" %} 
 
 ## Ingredientes
 
@@ -39,11 +42,15 @@ Suero ácido (madre) | 1% del volumen total de leche
 1. Agregue la leche fría a la olla y adicione el suero ácido, luego proceda a calentar la leche hasta 36 grados (97 F), lentamente, no subir súbitamente la temperatura.
 2. Cuando la leche este cerca de la temperatura indicada, agregar el cloruro de calcio, si esta usando leche PyH  (Pasteurizada y Homogeneizada).
 
+{% include image-gallery.html folder="/assets/img/leche-cuajando" %} 
+
 ### Coagulación de la leche y cortado de la cuajada
 
 3. Agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 35 a 45 minutos.
 4. Cortar la cuajada, inicialmente, en cubos de 1 pulgada por 1 pulgada.
 5. Tapar la olla, apagar la estufa o retirar del fuego y dejar reposar la cuajada por 15 minutos.
+
+{% include image-gallery.html folder="/assets/img/cuajada-cortada-olla" %} 
 
 ### Desuerado
 
@@ -58,6 +65,8 @@ Suero ácido (madre) | 1% del volumen total de leche
 11. Coloque la cuajada en un colador, déjela reposar hasta que haya drenado la mayor cantidad de suero, debe sentirse relativamente compacta y no muy húmeda al tacto.
 12. Coloque la cuajada en una bandeja y proceda a cortar en cubos de una pulgada (2.5 cm).
 13. Coloque la cuajada cortada en cubos en la salmuera y asegúrese de que quede sumergida por lo menos por 30 minutos.
+
+{% include image-gallery.html folder="/assets/img/cuajada-cortada-cubos" %} 
 
 ### Enmoldado
 

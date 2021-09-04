@@ -33,7 +33,7 @@ Sal | | Para la salmuera de hilar y la salmuera para conservar
 **Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
 1. Agregar 2 galones de leche pasteurizada fría a 5 °C (40 F), ( 0% Fat Free Milk/Skim Milk).
-2. Mezclar 425 ml de la crema (heavy whipping cream) por cada galón de leche fría.
+2. Mezclar 425 ml de la crema (heavy o whipping cream) por cada galón de leche fría.
 3. Asegúrese que la leche se encuentre entre 5 °C y 8 °C, debe estar bastante fría al momento de agregar el 2% de suero ácido (aprox. 80 ml de suero ácido por cada galón de leche con un pH de 3.4)
 4. Comience a calentar lentamente la leche, cuando esta alcance 34 °C (aprox. 93 F) agregue el cloruro de calcio, siga calentando hasta alcanzar 37 °C (98 F aprox), apenas alcance la temperatura deseada, apagar el fuego.
 5. Agregar cuajo, apague el fuego y dejar reposar 45 a 60 minutos.

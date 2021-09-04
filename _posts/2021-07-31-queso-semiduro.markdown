@@ -10,6 +10,10 @@ categories: queso semiduro concha roja negra receta zulia venezuela
 
 **Uso**: Ideal para cualquier comida, granos (caraotas), arepas, mandocas, fundamentalmente para rallar.
 
+**Como luce el queso semiduro**
+
+{% include image-gallery.html folder="/assets/img/queso-semiduro" %} 
+
 ## Ingredientes
 
 Ingrediente | Cantidad | Notas
@@ -34,20 +38,34 @@ Sal | 30 gramos por cada galón (US) de leche |
 
 **Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.**
 
+### Acidificación y calentado de la leche
+
 1. Vierta la leche en la olla y agregue el suero ácido (30 ml por galón US), proceda a calentar la leche hasta 36 grados (97 F), lentamente, evitar subir súbitamente la temperatura.
 2. Cuando la leche este cerca de la temperatura deseada y si se esta usando leche de supermercado agregue el cloruro de calcio, revuelva bien por un minuto.
-3. Apague el fuego y agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 45 a 60 minutos.
-4. Una vez cuajada la leche proceder a cortar en cubos de 3cm por 3cm (aproximadamente 1 pulgada por 1 pulgada), cortar en cuadricula.
-5. Deje reposar la cuajada luego de cortada entre 10 y 15 minutos.
-6. Ahora proceda a cortar la cuajada en ángulo, luego de cortar todo en ángulo dejar reposar la cuajada de 10 a 15 minutos más.
-7. Aumentar lentamente la temperatura y empezar a revolver, inicialmente, lentamente la cuajada, tener especial cuidado si se esta trabajando con leche PyH.
-8. Cuando la leche alcance 40 grados (105 F), retirar del calor o apagar la estufa, la cuajada debe tener el tamaño de un grano de maíz o más pequeña aún, la idea es dejar la cuajada lo más seca posible.
-9. Retire la mayor cantidad de suero, al menos el 95% del suero, deje una pequeña cantidad de suero para facilitar el salado.
-10. Agregue la sal según la cantidad de galones de leche que haya utilizado. Deje reposar la cuajada con la sal por un par de minutos.
-11. Retire la cuajada de la olla y proceda a pesarla.
-12. Coloque la cuajada en el molde.
-13. Prense por 24 horas con un peso de 4 veces el peso de la cuajada. Cuando hayan transcurrido las primeras 12 horas voltee la cuajada y prense las restantes 12 horas.
-14. Retire del molde y refrigere.
+
+### Cuajado de la leche y corte de la cuajada
+
+1. Apague el fuego y agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 45 a 60 minutos.
+2. Una vez cuajada la leche proceder a cortar en cubos de 3cm por 3cm (aproximadamente 1 pulgada por 1 pulgada), cortar en cuadricula.
+3. Deje reposar la cuajada luego de cortada entre 10 y 15 minutos.
+4. Ahora proceda a cortar la cuajada en ángulo, luego de cortar todo en ángulo dejar reposar la cuajada de 10 a 15 minutos más.
+
+{% include image-gallery.html folder="/assets/img/leche-cuajando" %} 
+{% include image-gallery.html folder="/assets/img/cuajada-cortada-olla" %} 
+
+### Desuerado
+
+1. Aumentar lentamente la temperatura y empezar a revolver, inicialmente, lentamente la cuajada, tener especial cuidado si se esta trabajando con leche PyH.
+2. Cuando la leche alcance 40 grados (105 F), retirar del calor o apagar la estufa, la cuajada debe tener el tamaño de un grano de maíz o más pequeña aún, la idea es dejar la cuajada lo más seca posible.
+3. Retire la mayor cantidad de suero, al menos el 95% del suero, deje una pequeña cantidad de suero para facilitar el salado.
+
+### Salar, enmoldar y prensar el queso
+
+1.  Agregue la sal según la cantidad de galones de leche que haya utilizado. Deje reposar la cuajada con la sal por un par de minutos.
+2.  Retire la cuajada de la olla y proceda a pesarla.
+3.  Coloque la cuajada en el molde.
+4.  Prense por 24 horas con un peso de 4 veces el peso de la cuajada. Cuando hayan transcurrido las primeras 12 horas voltee la cuajada y prense las restantes 12 horas.
+5.  Retire del molde y refrigere.
 
 **Comentarios adicionales**: Esta receta sirve de base para hacer también los quesos concha roja y concha negra, solo que deben secarse un poco más para luego proceder a cubrirlos con la mezcla deseada.
 
