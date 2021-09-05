@@ -22,7 +22,7 @@ title: Nuestros Quesos
 #email: your-email@example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
-locale: es-LA
+locale: es-ES
 description: >- # this means to ignore newlines until "baseurl:"
   Un simple recetario de quesos y otros productos lacteos.
 domain: www.nuestrosquesos.com 
