@@ -3,7 +3,8 @@ layout: post
 title:  "Queso Concha Roja y Concha Negra"
 date:   2021-08-01 00:30:14 -0400
 author: moleros-artisan-cheese
-categories: queso concha roja negra madurado duro zulia venezuela
+categories: receta
+tags: queso concha roja negra madurado duro zulia venezuela
 ---
 
 **Características** : Queso de sabor fuerte, ligeramente salado, duro, es un queso madurado que idealmente sirve de acompañamiento, viene en dos presentaciones, rojo por el uso del onoto y color café oscuro por el uso del café, la cobertura le aporta un sabor especial a cada uno, suele consumirse rallado.

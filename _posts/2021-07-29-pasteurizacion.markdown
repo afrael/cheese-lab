@@ -3,7 +3,8 @@ layout: post
 title:  "Pasteurización"
 date:   2021-07-29 14:17:14 -0400
 author: ald
-categories: leche pasteurizacion
+categories: informacion
+tags: leche pasteurizacion
 ---
 
 Siendo la leche el ingrediente primordial en la elaboración de leche, hay un tema muy importante que se debe tocar, la salubridad de la misma. La mejor leche para elaborar quesos es la leche cruda, sin duda alguna, al mismo tiempo, la leche cruda es un vector ideal para la transmisión de enfermedades, es un caldo de cultivo óptimo para la reproducción de patógenos. Se debe tener cuidado especial porque a través de la leche se pueden transmitir enfermedades como la tuberculosis o la brucelosis.

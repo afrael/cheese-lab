@@ -3,7 +3,8 @@ layout: post
 title:  "Suero Larense"
 date:   2021-07-29 07:40:11 -0400
 author: ald
-categories: receta suero lara venezuela
+categories: receta
+tags: receta suero lara venezuela
 ---
 
 **Características** : Derivado lácteo, liquido, de consistencia espesa parecida al yogur líquido, considerablemente ácido.

@@ -1,8 +1,20 @@
 - title: Inicio
   url: /
 
+- title: Como empiezo
+  url: /2021/08/14/por-donde-empiezo/
+
 - title: Donde estamos
   url: /mapa/
 
-- title: Acerca de nosotros
+- title: Categorias
+  url: /categorias/
+
+- title: Etiquetas
+  url: /etiquetas/
+
+- title: Buscar
+  url: /buscar/
+
+- title: Quienes somos
   url: /acerca-de/

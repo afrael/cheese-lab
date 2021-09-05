@@ -3,7 +3,8 @@ layout: post
 title:  "Queso Palmita (Leche de Supermercado)"
 date:   2021-07-29 10:20:11 -0400
 author: sk-pizzarelli
-categories: receta queso palmita palmizulia zulia venezuela
+categories: receta
+tags: receta queso palmita palmizulia zulia venezuela
 ---
 
 **Características** : Las dos características principales de este queso es la presencia de huecos y su baja sal, viene en varias presentaciones, es común verlo en forma de cilindro y también en bloque. Es un de contextura un poco gomosa, por eso un buen queso palmita es un "queso chillón" porque al morderlo suena, parecido a la cuajada chillona o _squeaky curds_. En algunas partes es conocido como Palmizulia.

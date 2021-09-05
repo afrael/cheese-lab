@@ -3,7 +3,8 @@ layout: post
 title:  "Queso Amarillo (Tipo Torondoy/Gouda)"
 date:   2021-08-31 15:00:11 -0400
 author: ald
-categories: receta queso amarillo torondoy gouda madurado
+categories: receta
+tags: receta queso amarillo torondoy gouda madurado holanda
 ---
 
 **Características** : Es un queso semiduro, madurado, de origen Holandés, generalmente de sabor sutil, no muy salado, de color amarillo bastante suave, se distingue de otros quesos por su proceso de cuajada lavada. Conocido en otros países como Queso de Bola, o Gauda o simplemente queso amarillo.

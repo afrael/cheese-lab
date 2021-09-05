@@ -3,7 +3,8 @@ layout: post
 title:  "Cuajada Maracucha (Quesito Antioqueño)"
 date:   2021-08-04 19:00:11 -0400
 author: ald
-categories: receta cuajada venezuela colombia zulia fresco quesito antioqueño
+categories: receta
+tags: receta cuajada venezuela colombia zulia fresco quesito antioqueño
 ---
 
 **Características** : Es un queso fresco, muy suave, sabor neutro y bajo de sal, se consume en la región del Zulia, pero hay quesos similares como el Quesito Antioqueño o el Queso Fresco Mexicano, este último generalmente es elaborado con un ácido en vez de cuajo, en esta receta usaremos cuajo.

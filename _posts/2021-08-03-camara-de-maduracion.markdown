@@ -3,7 +3,8 @@ layout: post
 title:  "Cámara de Maduración"
 date:   2021-08-03 08:47:14 -0400
 author: ald
-categories: quesos maduracion curado camara
+categories: tutorial informacion
+tags: quesos maduracion curado camara
 ---
 
 Un paso muy importante durante la elaboración de quesos es su maduración o curado, generalmente cada queso tiene una forma peculiar de madurado, antiguamente, los quesos solían madurarse en cuevas, o en algún lugar que facilitara el control del calor y humedad.

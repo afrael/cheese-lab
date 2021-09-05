@@ -3,7 +3,8 @@ layout: post
 title:  "Quiero hacer mis propios quesos ¿Por donde empiezo?"
 date:   2021-08-14 16:30:11 -0400
 author: ald
-categories: tutorial quesos principiante recomendaciones 
+categories: tutorial
+tags: tutorial quesos principiante recomendaciones 
 ---
 
 El mundo de los quesos es fascinante y complejo, ademas de que es un hobby que puede resultar bastante delicioso. Puedes hacer tus quesos favoritos, o poder crear los quesos de tu infancia, pero antes de ello debes aprender una series de pasos básicos y debes tener a la mano un mínimo de implementos y equipos necesarios.

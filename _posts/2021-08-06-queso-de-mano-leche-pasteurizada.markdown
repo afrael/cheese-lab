@@ -3,7 +3,8 @@ layout: post
 title:  "Queso de Mano (Leche de Supermercado)"
 date:   2021-08-06 16:30:11 -0400
 author: sk-pizzarelli
-categories: receta venezuela queso hilado pasta hilada
+categories: receta
+tags: receta venezuela queso hilado pasta hilada
 ---
 
 **Características** : Las dos características principales de este queso es su frescura y su elasticidad y textura, recuerda a la mozarella fresca. No se ha determinado exactamente en que parte de Venezuela se originó, viene en forma de ruedas de diferentes tamaños y de grosor variado.

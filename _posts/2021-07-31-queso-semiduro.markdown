@@ -3,7 +3,8 @@ layout: post
 title:  "Queso Semiduro"
 date:   2021-07-31 10:15:14 -0400
 author: moleros-artisan-cheese
-categories: queso semiduro concha roja negra receta zulia venezuela
+categories: receta
+tags: queso semiduro concha roja negra receta zulia venezuela
 ---
 
 **Características** : Queso de sabor medio, menos fuerte de sabor que un queso llanero pero con mas sabor que un queso paisa, ligeramente salado, menos salado que el llanero, semiduro, es un queso que idealmente sirve de acompañamiento, puede consumirse solo, aunque generalmente suele consumirse rallado.

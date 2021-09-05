@@ -22,13 +22,14 @@ title: Nuestros Quesos
 #email: your-email@example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+locale: es-LA
 description: >- # this means to ignore newlines until "baseurl:"
   Un simple recetario de quesos y otros productos lacteos.
 domain: www.nuestrosquesos.com 
 baseurl: # the subpath of your site, e.g. /blog
 url: https://www.nuestrosquesos.com # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/ 
-
+date_format: "%B %-d, %Y"
 # Theme settings
 logo: /assets/img/logo.jpg
 
@@ -37,6 +38,9 @@ theme: jekyll-theme-so-simple
 # theme: minima
 # remote_theme: "mmistakes/so-simple-theme@3.2.0"
 search_full_content: true
+
+category_archive_path: "/categorias/#"
+tag_archive_path: "/etiquetas/#"
 
 sass:
   style: compressed

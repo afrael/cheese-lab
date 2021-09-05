@@ -3,7 +3,8 @@ layout: post
 title:  "Queso Panela (México)"
 date:   2021-08-20 15:00:11 -0400
 author: moleros-artisan-cheese
-categories: receta queso mexico fresco 
+categories: receta
+tags: receta queso mexico fresco 
 ---
 
 **Características** : Es un queso fresco, salado, bastante suave, de sabor sutil y muy húmedo. Debido a su frescura requiere refrigeración y es un queso no se madura.

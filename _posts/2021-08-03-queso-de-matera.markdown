@@ -3,7 +3,8 @@ layout: post
 title:  "Queso de Matera o Queso Fresco"
 date:   2021-08-03 15:00:11 -0400
 author: moleros-artisan-cheese
-categories: receta queso venezuela fresco matera
+categories: receta
+tags: receta queso venezuela fresco matera zuli
 ---
 
 **Características** : Es un queso fresco, bajo en sal, bastante suave y de sabor bastante neutro y de baja acidez. Un queso de diario, fresco no madurado, se le llama "de Matera" en el Zulia, matera siendo una finca, pero esencialmente es un queso fresco. 

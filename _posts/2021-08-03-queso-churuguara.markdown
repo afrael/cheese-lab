@@ -3,7 +3,8 @@ layout: post
 title:  "Queso Churuguara"
 date:   2021-08-03 11:20:11 -0400
 author: moleros-artisan-cheese
-categories: receta queso churuguara falcon lara venezuela
+categories: receta
+tags: receta queso churuguara falcon lara venezuela
 ---
 
 **Características** : El queso Churuguara, originario del pueblo del mismo nombre en el estado Falcón, es un queso con las siguientes características: posee algo de huecos, es bajo en sal y es semiduro. Su presentación es en forma de bloque y se encuentra en la región centro-occidental de Venezuela. Su consistencia es semidura y su baja salinidad lo hace ideal para comer hasta solo.

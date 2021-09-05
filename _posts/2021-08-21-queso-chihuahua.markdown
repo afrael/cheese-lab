@@ -3,7 +3,8 @@ layout: post
 title:  "Queso Chihuahua (México)"
 date:   2021-08-21 15:00:11 -0400
 author: ald
-categories: receta queso mexico madurado
+categories: receta
+tags: receta queso mexico madurado
 ---
 
 **Características** : Es un queso semiduro, madurado, de sabor lácteo y, generalmente, de color amarillo bastante suave, se distingue de otros quesos por su "chedarización". También es conocido como Queso Menonita o Queso Chester (derivado del Cheddar).

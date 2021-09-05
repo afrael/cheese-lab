@@ -3,7 +3,8 @@ layout: post
 title:  "Queso Tequeñero version 2"
 date:   2021-09-03 14:17:14 -0400
 author: alinorcausa
-categories: queso tequeñero receta venezuela
+categories: receta
+tags: queso tequeñero receta venezuela
 ---
 
 **Características** : Queso de sabor suave, semiduro, resistente al calor, capaz de resistir altas temperaturas mientras se fríe, se coloca en la plancha o cuando es usado en la elaboración de tequeños.
