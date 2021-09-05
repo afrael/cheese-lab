@@ -56,6 +56,8 @@ Nombre | Función | Aplicación
 *Penicillium Camemberti* | Moho blanco, deascidificación y desarrollo de sabor | quesos de corteza blanca, (Camembert, Brie)
 *Penicillium Roqueforti* | Moho verde/azul, desacidificación y desarrollo de sabor y textura | quesos azules 
 
+{% include image-gallery.html folder="/assets/img/cultivos-2" %} 
+
 ## Marcas comerciales
 
 Los cultivos son comercializados por varios grandes grupos de los cuales destacan dos: Danisco/Choozit y CHR-Hansen, otro fabricante bastante popular es Biena.
@@ -70,6 +72,8 @@ Nombre | Fabricante | Tipo de cultivo | Tipo de queso
 [TA61](https://www.getculture.com/TA-61.html) | Danisco/Choozit | Termófila | Quesos italianos y suizos
 [Termo B](https://www.getculture.com/Thermo-B.html) | Danisco/Choozit | Termófila | Quesos italianos
 [Aroma B](https://www.getculture.com/Aroma-B.html) | Biena | Mesófila | Edam, Havarti, Gouda
+
+{% include image-gallery.html folder="/assets/img/cultivos" %} 
 
 Esperamos que esta guía te sirva para iniciarte en el mundo de los quesos madurados.
 
