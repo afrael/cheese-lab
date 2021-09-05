@@ -10,7 +10,7 @@ categories: receta queso venezuela fresco matera
 
 **Uso**: Su sabor sutil, textura blanda lo hace buen acompañante de alimentos salados como dulces, no es un queso que ralle bien, pero puede comerse también como acompañamiento.
 
-**Como luce el queso semiduro**
+**Como luce el queso de matera**
 
 {% include image-gallery.html folder="/assets/img/queso-matera" %} 
 
