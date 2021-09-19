@@ -7,7 +7,7 @@ name: Solo Quesos 2020
 # geo location (required)
 # provide your favored level of detail by number of digits (like 50.107811 vs 50.11)
 # you may use services like openstreetmap.org to find out your geo location
-latitude: 3.2581
+latitude: -3.2581
 longitude: -79.9554
 
 # bio
