@@ -10,6 +10,9 @@ name: Quesos Siete Estrellas
 latitude: 13.6929
 longitude: -89.2182
 
+city: San Salvador
+country: El Salvador
+
 # bio
 # describe yourself, your involvement in the project and the community or whatever is relevant for you.
 # should be 300 chars at maximum. no markup or line breaks!

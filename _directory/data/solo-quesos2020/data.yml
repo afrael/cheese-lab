@@ -10,6 +10,9 @@ name: Solo Quesos 2020
 latitude: -3.2581
 longitude: -79.9554
 
+city: Machala
+country: Ecuador
+
 # bio
 # describe yourself, your involvement in the project and the community or whatever is relevant for you.
 # should be 300 chars at maximum. no markup or line breaks!

@@ -10,6 +10,9 @@ name: Casupo Foods
 latitude: 51.5074
 longitude: 0.1278
 
+city: London
+country: UK
+
 # bio
 # describe yourself, your involvement in the project and the community or whatever is relevant for you.
 # should be 300 chars at maximum. no markup or line breaks!

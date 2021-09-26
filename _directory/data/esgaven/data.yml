@@ -10,6 +10,9 @@ name: Esgaven
 latitude: 39.6953
 longitude: 3.0176
 
+city: Mallorca
+country: España
+
 # bio
 # describe yourself, your involvement in the project and the community or whatever is relevant for you.
 # should be 300 chars at maximum. no markup or line breaks!

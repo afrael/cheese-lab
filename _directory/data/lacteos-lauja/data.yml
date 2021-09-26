@@ -10,6 +10,9 @@ name: Lacteos Lauja
 latitude: 25.7617
 longitude: -80.1918
 
+city: Miami
+country: USA
+
 # bio
 # describe yourself, your involvement in the project and the community or whatever is relevant for you.
 # should be 300 chars at maximum. no markup or line breaks!

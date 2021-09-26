@@ -10,6 +10,9 @@ name: Cheeseemo!
 latitude: 27.9506
 longitude: -82.4572
 
+city: Tampa
+country: USA
+
 # bio
 # describe yourself, your involvement in the project and the community or whatever is relevant for you.
 # should be 300 chars at maximum. no markup or line breaks!

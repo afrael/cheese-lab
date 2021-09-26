@@ -10,6 +10,9 @@ name: Oswaldo Alvarado
 latitude: 44.9778
 longitude: -93.2650
 
+city: Minneapolis
+country: USA
+
 # bio
 # describe yourself, your involvement in the project and the community or whatever is relevant for you.
 # should be 300 chars at maximum. no markup or line breaks!
