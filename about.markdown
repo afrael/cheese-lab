@@ -30,15 +30,17 @@ Ademas de ser una comunidad de queseros, también quisimos crear un recetario de
             {% if firstLink == '' %}
             <td markdown="span"><img class="author-avatar u-photo" src="{{ item.image }}"/></td>
             {% else %}
-            <td markdown="span"><a href="{{ firstlink }}"><img class="author-avatar u-photo" src="{{ item.image }}"/></a></td>
+            <td markdown="span"><a href="{{ item.links[0] }}"><img class="author-avatar u-photo" src="{{ item.image }}"/></a></td>
             {% endif %}
-            <td markdown="span"> {{item.name}} - {{ item.city }}</td>
-            <td markdown="span">{{ item.bio }}</td>
+            <td markdown="span">{{ item.name }} - {{ item.city }}</td>
+            <td>
+              {{ item.bio }}
+            </td>
         </tr>
         {% if firstLink != '' %}
         <tr>
             <td colspan="3">
-                <p>{{ linkCount }}</p>
+                Contacto:
                 <ul>
                 {% for lnk in item.links %}
                   <li> <a href="{{ lnk}}">{{ lnk }}</a> </li>
