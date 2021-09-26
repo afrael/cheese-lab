@@ -1,7 +1,7 @@
 ---
 layout: collection
 collections: directory
-title: Comunidad
+title: Una Comunidad de Queseros
 permalink: /comunidad/
 ---
 
@@ -9,7 +9,7 @@ Nuestros Quesos nace de una idea de Afrael Ortiz, Irwin Molero y Sergio Pizzarel
 
 Ademas de ser una comunidad de queseros, también quisimos crear un recetario de quesos y otros productos lácteos, ser una guía para principiantes o recetas complejas para los más experimentados.
 
-## Comunidad de Nuestros Quesos
+## Paises donde nos encontramos
 
 {% assign sorted = site.directory | sort: 'country' %}
 {% assign grouped = sorted | group_by: 'country' %}
