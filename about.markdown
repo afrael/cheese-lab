@@ -28,9 +28,9 @@ Ademas de ser una comunidad de queseros, también quisimos crear un recetario de
         {% assign firstLink = item.links[0] | strip %}
         <tr>
             {% if firstLink == '' %}
-            <td markdown="span"><img class="author-avatar u-photo" src="{{ item.image }}"/></td>
+            <td markdown="span"><img class="new-author-avatar u-photo" src="{{ item.image }}"/></td>
             {% else %}
-            <td markdown="span"><a href="{{ item.links[0] }}"><img class="author-avatar u-photo" src="{{ item.image }}"/></a></td>
+            <td markdown="span"><a href="{{ item.links[0] }}"><img class="new-author-avatar u-photo" src="{{ item.image }}"/></a></td>
             {% endif %}
             <td markdown="span">{{ item.name }} - {{ item.city }}</td>
             <td>
