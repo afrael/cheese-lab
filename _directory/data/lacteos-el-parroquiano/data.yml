@@ -7,7 +7,7 @@ name: Lacteos El Parroquiano
 # geo location (required)
 # provide your favored level of detail by number of digits (like 50.107811 vs 50.11)
 # you may use services like openstreetmap.org to find out your geo location
-latitude: 10.7525
+latitude: -10.7525
 longitude: -77.7599
 
 city: Barranca

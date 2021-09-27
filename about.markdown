@@ -4,6 +4,14 @@ collections: directory
 title: Una Comunidad de Queseros
 permalink: /comunidad/
 ---
+<style type="text/css">
+.new-author-avatar {
+    display: inline;
+    margin-bottom: 1em;
+    width: 100px;
+    border-radius: 100px;
+}
+</style>
 
 Nuestros Quesos nace de una idea de Afrael Ortiz, Irwin Molero y Sergio Pizzarelli. El principal objetivo de esta idea es agrupar en una página todos aquellos que hacemos quesos Venezolanos, o quesos artesanales, por hobby o para la venta.
 
