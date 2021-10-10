@@ -1,0 +1,1173 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Donde estamos</title>
+    <meta name="description" content="Un Comunidad de Queseros Artesanales">
+    <meta name="keywords" content="nuestrosquesos,comunidad,recetas,queseros,mapa">
+    <meta name="author" content="Mapa de Integrantes de NuestrosQuesos"> 
+    <meta name="robots" content="index, follow">
+
+    <!-- styles -->
+    <link rel="stylesheet" href="/assets/map/leaflet/leaflet.css">
+    <link rel="stylesheet" href="/assets/map/leaflet.markercluster/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="/assets/map/leaflet.markercluster/dist/MarkerCluster.Default.css">
+    <link rel="stylesheet" href="/assets/css/map-style.css">
+
+    <!-- urls -->
+    <link rel="canonical" href="https://www.nuestrosquesos.com/mapa/">
+    
+    <!-- Prefetch external CDN-Domain -->
+    <link rel="dns-prefetch" href="//cartodb-basemaps-b.global.ssl.fastly.net">
+
+    <!-- icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    <link rel="manifest" href="/icons/manifest.json">
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- open graph -->
+    <meta property="og:site_name" content="Donde estamos">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Donde estamos">
+    <meta property="og:description" content="Un Comunidad de Queseros Artesanales">
+    <meta property="og:url" content="https://www.nuestrosquesos.com/mapa/">
+    <meta property="og:image" content="https://www.nuestrosquesos.com/icons/redaxo-community.png">
+    <meta property="og:locale" content="de_DE">
+
+    <!-- twitter     <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@NuestrosQuesos">
+    <meta name="twitter:title" content="Donde estamos">
+    <meta name="twitter:description" content="Un Comunidad de Queseros Artesanales">
+    <meta name="twitter:image" content="https://www.nuestrosquesos.com/icons/redaxo-community.png">
+    <meta name="twitter:image:alt" content="Screenshot of community map">
+    -->
+
+    <!-- JSON LD -->
+    <script type="application/ld+json">
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "name": "Donde estamos",
+            "publisher": "Comunidad de NuestrosQuesos",
+            "url": "https://www.nuestrosquesos.com/mapa/",
+            "description": "Un Comunidad de Queseros Artesanales",
+            "image": "https://www.nuestrosquesos.com/assets/img/logo.jpg"
+        }
+    ]
+    </script>
+
+    <!-- scripts -->
+    <script src="/assets/map/leaflet/leaflet.js"></script>
+    <script src="/assets/map/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+    <script src="/assets/map/leaflet.edgebuffer/src/leaflet.edgebuffer.js"></script>
+    <script src="/assets/plugins/hash/hash.js"></script>
+
+
+    <!-- init directory data and items counter -->
+    
+    
+
+    <!-- process directory data -->
+    <script>
+    var directory = [
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "7estrellas",
+            'name': "Quesos Siete Estrellas",
+            'latitude': "13.6929",
+            'longitude': "-89.2182",
+            'bio': "Elaboración de quesos venezolanos artesanales en El Salvador, estamos haciendo palmitas queso de mano clinejas suero y los madurados concha negra y roja.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/7estrellas.jpeg",
+            'links': ["https://www.instagram.com/7estrellassv/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "ald",
+            'name': "Afrael Ortiz",
+            'latitude': "26.1004",
+            'longitude': "-80.3998",
+            'bio': "Elaboro quesos por hobby, queso fresco, queso duro, queso paisa tequeñero y queso semiduro concha roja y negra. Ah y también soy el administrador de la página nuestrosquesos.com 🧀",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/ald.jpeg",
+            'links': ["https://www.nuestrosquesos.com/","https://afrael.com/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "alinorcausa",
+            'name': "AlinorcaUsa",
+            'latitude': "30.0972",
+            'longitude': "-95.6161",
+            'bio': "Elaboración de quesos venezolanos, el mejor queso son sabor 100% Venezolano 🇻🇪 Elaboramos Queso Fresco, Queso Tequeñero, Queso Concha Roja y Queso Concha Negra.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/alinorcausa.jpeg",
+            'links': ["https://www.instagram.com/alinorcausa/","https://wa.link/cyft44"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "casupo",
+            'name': "Casupo Foods",
+            'latitude': "51.5074",
+            'longitude': "0.1278",
+            'bio': "Elaboración de quesos artesanales, especializados en probioticos, quesos frescos y madurados con sabor Venezolano",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/casupo-foods.jpg",
+            'links': ["https://www.instagram.com/casupofoods/","https://wa.me/447724896326"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "cheeseemo",
+            'name': "Cheeseemo!",
+            'latitude': "27.9506",
+            'longitude': "-82.4572",
+            'bio': "Elaboracion de quesos artesanales venezolanos Quesos frescos, semiduros y madurados Blanco duro, Concha negra y concha roja.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/cheeseemo.jpeg",
+            'links': ["https://www.instagram.com/p/CS7tyrhsrIC/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "chester4x4",
+            'name': "Chester 4x4",
+            'latitude': "51.0447",
+            'longitude': "-114.0719",
+            'bio': "Elaboración de quesos artesanales por hobby, especializados en quesos Venezolanos.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/chester4x4.jpg",
+            'links': ["https://www.instagram.com/chester4x4/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "cristancho",
+            'name': "Jesse Cristancho",
+            'latitude': "7.8178",
+            'longitude': "-72.4426",
+            'bio': "Elaboro quesos venezolanos para la venta, hago Semiduro Pasteurizado Tipo Paisa",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/default.jpeg",
+            'links': ["https://www.facebook.com/jessevladimir.cristanchovega","https://wa.me/584163764067"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "delitaty1",
+            'name': "Delitaty1",
+            'latitude': "29.7604",
+            'longitude': "-95.3698",
+            'bio': "Elaboración de quesos venezolanos, especializados queso duro para rallar tipo cinco estrellas, Santa Barbara, pacomela. Quesos semiduros madurados concha roja y concha negra, Palmita y Tequeñero. Y proximamente queso de mano.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/delitaty1.jpeg",
+            'links': ["https://www.instagram.com/delitaty1/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "esgaven",
+            'name': "Esgaven",
+            'latitude': "39.6953",
+            'longitude': "3.0176",
+            'bio': "Elaboración de quesos artesanales por hobby, especializados en quesos Venezolanos.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/esgaven.jpg",
+            'links': ["https://www.instagram.com/esgaven2018/","https://t.me/Esgaven","https://www.twitter.com/esgaven/","https://www.facebook.com/esgaven/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "gonzalo",
+            'name': "Gonzalo Flores",
+            'latitude': "51.5074",
+            'longitude': "0.1278",
+            'bio': "Elaboro quesos artesanales por hobby, hago Palmita, Queso Duro, Queso de Mano y otros quesos madurados.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/default.jpeg",
+            'links': [null],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "lacteos-el-parroquiano",
+            'name': "Lacteos El Parroquiano",
+            'latitude': "-10.7525",
+            'longitude': "-77.7599",
+            'bio': "Elaboración de quesos artesanales para la venta, especializados en quesos Venezolano concha roja, concha negra, blanco (llanero).",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/lacteos-el-parroquiano.jpg",
+            'links': ["https://www.instagram.com/lacteoselparroquiano/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "lacteos-lauja",
+            'name': "Lacteos Lauja",
+            'latitude': "25.7617",
+            'longitude': "-80.1918",
+            'bio': "Elaboración de quesos artesanales, especializados en Semi-duro, Concha Negra, Concha Roja, Madurado, Aliñado, Nata y Suero Picante",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/lacteos-lauja.jpg",
+            'links': ["https://www.instagram.com/lacteoslauja/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "mawell",
+            'name': "Mawell Mijares",
+            'latitude': "25.9087",
+            'longitude': "-80.3087",
+            'bio': "Elaboro quesos venezolanos por hobby, hago Palmita, llanero, fresco, madurado concha negra y concha roja, tequeñero, y aprendiendo a hacer el Gouda y el cheddar Sharp.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/default.jpeg",
+            'links': ["https://www.instagram.com/aznarepsenirom/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "moleros-artisan-cheese",
+            'name': "Moleros Artisan Cheese",
+            'latitude': "33.9562",
+            'longitude': "-83.988",
+            'bio': "Elaboración de quesos artesanales, Palmita, de Mano, Guayanes, Telita, Duro, Semiduro, Paisa Tequeñero, Concha Roja y Negra, de Matera y Cabra 🧀 🇮🇱 Challah Maker 🥖. Kosher food.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/moleros-artisan-cheese.jpeg",
+            'links': ["https://www.instagram.com/moleros_artisancheese/","https://wa.link/1x4dwc"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "oswaldoa",
+            'name': "Oswaldo Alvarado",
+            'latitude': "44.9778",
+            'longitude': "-93.265",
+            'bio': "Elaboro quesos venezolanos por hobby, hago Palmita y Semiduro.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/default.jpeg",
+            'links': null,
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "quesos-zulia-sto-domingo",
+            'name': "Quesos Zulia Ecuador",
+            'latitude': "0.2538",
+            'longitude': "-79.1763",
+            'bio': "Elaboración de quesos artesanales para la venta, especializados en quesos Zulianos, Palmita, Concha Negra, Quedo de Mano tipo Arepero y Nata",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/quesos-zulia-sto-domingo.jpg",
+            'links': ["https://www.instagram.com/quesoszulia_ecuador/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "richardsenf",
+            'name': "Richard Senf",
+            'latitude': "52.52",
+            'longitude': "13.405",
+            'bio': "Elaboro quesos artesanales venezolanos por hobby, hago Palmita, llanero, fresco, madurado concha negra y concha roja y tequeñero",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/default.jpeg",
+            'links': [null],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "sk-pizzarelli",
+            'name': "Sk Pizzarelli",
+            'latitude': "28.4956",
+            'longitude': "-81.5348",
+            'bio': "Elaboración de quesos artesanales, especializados en Palmita, De Mano, Semiduro, Concha Roja y Negra, Llanero y Nata Criolla.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/sk-pizzarelli.jpeg",
+            'links': ["https://www.instagram.com/seryop23/"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "solo-quesos2020",
+            'name': "Solo Quesos 2020",
+            'latitude': "-3.2581",
+            'longitude': "-79.9554",
+            'bio': "Elaboración de quesos artesanales para la venta, especializados en Madurado, palmita, semiduro de mano y clineja ricotta crema de NATA suero de LECHE ",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/solo-quesos2020.jpg",
+            'links': ["https://www.instagram.com/solo_quesos2020/","https://wa.me/593969386511"],
+            'lastModified': 0,
+        },
+        
+
+        <!-- id -->
+        <!-- split path to user folder and select id from second to last part -->
+        
+        
+        
+        
+
+        <!-- name -->
+        
+
+        <!-- latitude -->
+        
+        
+            
+        
+
+        <!-- longitude -->
+        
+        
+            
+        
+
+        <!-- bio -->
+        
+
+        <!-- image -->
+        
+        
+        
+
+        <!-- links -->
+        
+
+        <!-- last modified -->
+        
+
+        <!-- increment counter -->
+        
+
+        <!-- output -->
+        {
+            'id': "vene-cheese-cork",
+            'name': "Vene Cheese Cork",
+            'latitude': "51.8985",
+            'longitude': "-8.4756",
+            'bio': "Elaboración de quesos artesanales por hobby, especializados en Palmita, De Mano y Semiduro.",
+            'image': "https://www.nuestrosquesos.com/assets/img/avatars/vene-cheese-cork.jpg",
+            'links': ["https://www.instagram.com/vencheesecork/"],
+            'lastModified': 0,
+        }
+        
+    ];
+    </script>
+
+
+    <script src="/assets/js/script.js"></script>
+
+</head>
+
+<body>
+
+    <!-- map container -->
+    <div class="map" id="map"></div>
+
+
+    <!-- info banner at bottom on site, click toggles popover -->
+    <a class="infobanner" id="popover-open">
+        <div class="infobanner__redaxo">
+            <span>Mapa <span class = "hide-xs">Mundial</span> de Queseros</span>
+        </div>
+        <div class="infobanner__join">
+            <span class="infobanner__heart">♥</span>
+            <span>¡Unete!</span>
+        </div>
+    </a>
+
+
+    <!-- popover -->
+    <div class="popover" id="popover">
+        <button id="popover-close" class="popover__close" type="button"><span>Cerrar</span><i><i></i></i></button>
+        <div class="popover__body">
+
+            <h1 class="popover__title">
+                <!-- <img class="redaxo-logo" src="/assets/images/redaxo-cms.svg" alt="REDAXO"><br> -->
+                Mapa mundial de la comunidad Nuestros Quesos
+            </h1>
+
+            <p>Cualquiera de los <strong>20</strong> marcadores en el mapa señalan un lugar donde alguien esta haciendo nuestros quesos o es alguien involucrado con la comunidad de <a href="https://www.nuestrosquesos.com" target="_blank" rel="noopener noreferrer">NuestrosQuesos</a>.</p>
+            <p>La comunidad de NuestrosQuesos esta integrada por personas que se dedican diariamente a la comercialización de quesos o también personas que simplemente lo hacen por hobby, cada marcador tiene detalles de la persona o comercio.</p>
+
+            <div class="calltoaction">
+                <p>👉 <a href="https://forms.gle/j3jdZuhkQxVSSdAH8" target="_blank" rel="noopener noreferrer">Si deseas ser parte del mapa, llena este formulario</a></p>
+            </div>
+
+            <div class="legals">
+                <p>Legales: Este mapa es producto de un Fork del mapa de Redaxo, el cual puedes ver en <a href="https://github.com/FriendsOfREDAXO/community" target="_blank" rel="noopener noreferrer">GitHub</a>. Este servicio es provisto gratuitamente.</p>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>

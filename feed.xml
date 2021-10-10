@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.nuestrosquesos.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.nuestrosquesos.com/" rel="alternate" type="text/html" /><updated>2021-10-10T00:09:44+00:00</updated><id>https://www.nuestrosquesos.com/feed.xml</id><title type="html">Nuestros Quesos</title><subtitle>Un Comunidad de Queseros Artesanales</subtitle><entry><title type="html">Queso Tequeñero version 2</title><link href="https://www.nuestrosquesos.com/2021/09/03/queso-tequenero/" rel="alternate" type="text/html" title="Queso Tequeñero version 2" /><published>2021-09-03T18:17:14+00:00</published><updated>2021-09-03T18:17:14+00:00</updated><id>https://www.nuestrosquesos.com/2021/09/03/queso-tequenero</id><content type="html" xml:base="https://www.nuestrosquesos.com/2021/09/03/queso-tequenero/">&lt;p&gt;&lt;strong&gt;Características&lt;/strong&gt; : Queso de sabor suave, semiduro, resistente al calor, capaz de resistir altas temperaturas mientras se fríe, se coloca en la plancha o cuando es usado en la elaboración de tequeños.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uso&lt;/strong&gt;: Ideal para tequeños, pasteles, a la plancha, relleno para arepas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Como luce el queso tequeñero&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-paisa/irwin-queso-paisa.jpeg&quot; title=&quot;irwin-queso-paisa&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-paisa/irwin-queso-paisa.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;irwin-queso-paisa&quot; title=&quot;irwin-queso-paisa&quot; /&gt;&lt;span&gt;irwin-queso-paisa&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-paisa/ocsain-queso-paisa.jpeg&quot; title=&quot;ocsain-queso-paisa&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-paisa/ocsain-queso-paisa.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;ocsain-queso-paisa&quot; title=&quot;ocsain-queso-paisa&quot; /&gt;&lt;span&gt;ocsain-queso-paisa&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-paisa/queso-paisa-5.jpg&quot; title=&quot;queso-paisa-5&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-paisa/queso-paisa-5.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;queso-paisa-5&quot; title=&quot;queso-paisa-5&quot; /&gt;&lt;span&gt;queso-paisa-5&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-paisa/queso-paisa-copy.jpeg&quot; title=&quot;queso-paisa-copy&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-paisa/queso-paisa-copy.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;queso-paisa-copy&quot; title=&quot;queso-paisa-copy&quot; /&gt;&lt;span&gt;queso-paisa-copy&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-paisa/queso-paisa.jpeg&quot; title=&quot;queso-paisa&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-paisa/queso-paisa.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;queso-paisa&quot; title=&quot;queso-paisa&quot; /&gt;&lt;span&gt;queso-paisa&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id=&quot;ingredientes&quot;&gt;Ingredientes&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Ingrediente&lt;/th&gt;
+      &lt;th&gt;Cantidad&lt;/th&gt;
+      &lt;th&gt;Notas&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Leche fresca&lt;/td&gt;
+      &lt;td&gt;3 galones (US)&lt;/td&gt;
+      &lt;td&gt;Si esta usando leche pasteurizada-homogeneizada recomendamos usar cloruro de calcio&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cuajo&lt;/td&gt;
+      &lt;td&gt;Según fabricante&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cloruro de Calcio&lt;/td&gt;
+      &lt;td&gt;1/4 TSP (teaspoon) por cada galón de leche&lt;/td&gt;
+      &lt;td&gt;Si es en polvo diluir en 100ml de agua sin cloro&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sal&lt;/td&gt;
+      &lt;td&gt;Salmuera al 15%&lt;/td&gt;
+      &lt;td&gt;1 litro de agua más 150 gramos de sal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Suero ácido (madre)&lt;/td&gt;
+      &lt;td&gt;1% del volumen total de leche&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;implementos-mínimos&quot;&gt;Implementos mínimos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Olla de acero inoxidable (preferiblemente)&lt;/li&gt;
+  &lt;li&gt;Termómetro&lt;/li&gt;
+  &lt;li&gt;Tela quesera&lt;/li&gt;
+  &lt;li&gt;Molde&lt;/li&gt;
+  &lt;li&gt;Prensa&lt;/li&gt;
+  &lt;li&gt;Peso (debe ser el mismo peso total de la cuajada)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;procedimiento&quot;&gt;Procedimiento&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;acidificación-y-calentado-de-la-leche&quot;&gt;Acidificación y calentado de la leche&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Agregue la leche fría a la olla y adicione el suero ácido, luego proceda a calentar la leche hasta 36 grados (97 F), lentamente, no subir súbitamente la temperatura.&lt;/li&gt;
+  &lt;li&gt;Cuando la leche este cerca de la temperatura indicada, agregar el cloruro de calcio, si esta usando leche PyH  (Pasteurizada y Homogeneizada).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/leche-cuajando/calentado-de-leche-2.jpeg&quot; title=&quot;calentado-de-leche-2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/leche-cuajando/calentado-de-leche-2.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;calentado-de-leche-2&quot; title=&quot;calentado-de-leche-2&quot; /&gt;&lt;span&gt;calentado-de-leche-2&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/leche-cuajando/calentado-de-leche.jpeg&quot; title=&quot;calentado-de-leche&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/leche-cuajando/calentado-de-leche.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;calentado-de-leche&quot; title=&quot;calentado-de-leche&quot; /&gt;&lt;span&gt;calentado-de-leche&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/leche-cuajando/leche-cuajando.jpeg&quot; title=&quot;leche-cuajando&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/leche-cuajando/leche-cuajando.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;leche-cuajando&quot; title=&quot;leche-cuajando&quot; /&gt;&lt;span&gt;leche-cuajando&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id=&quot;coagulación-de-la-leche-y-cortado-de-la-cuajada&quot;&gt;Coagulación de la leche y cortado de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 35 a 45 minutos.&lt;/li&gt;
+  &lt;li&gt;Cortar la cuajada, inicialmente, en cubos de 1 pulgada por 1 pulgada.&lt;/li&gt;
+  &lt;li&gt;Tapar la olla, apagar la estufa o retirar del fuego y dejar reposar la cuajada por 15 minutos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-en-olla.jpeg&quot; title=&quot;cuajada-cortada-en-olla&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-en-olla.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-en-olla&quot; title=&quot;cuajada-cortada-en-olla&quot; /&gt;&lt;span&gt;cuajada-cortada-en-olla&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-2.jpg&quot; title=&quot;cuajada-cortada-olla-2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-olla-2&quot; title=&quot;cuajada-cortada-olla-2&quot; /&gt;&lt;span&gt;cuajada-cortada-olla-2&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-3.jpg&quot; title=&quot;cuajada-cortada-olla-3&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-3.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-olla-3&quot; title=&quot;cuajada-cortada-olla-3&quot; /&gt;&lt;span&gt;cuajada-cortada-olla-3&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-4.jpg&quot; title=&quot;cuajada-cortada-olla-4&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-4.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-olla-4&quot; title=&quot;cuajada-cortada-olla-4&quot; /&gt;&lt;span&gt;cuajada-cortada-olla-4&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-5.jpg&quot; title=&quot;cuajada-cortada-olla-5&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-5.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-olla-5&quot; title=&quot;cuajada-cortada-olla-5&quot; /&gt;&lt;span&gt;cuajada-cortada-olla-5&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-recien-cortada-olla.jpeg&quot; title=&quot;cuajada-recien-cortada-olla&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-recien-cortada-olla.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-recien-cortada-olla&quot; title=&quot;cuajada-recien-cortada-olla&quot; /&gt;&lt;span&gt;cuajada-recien-cortada-olla&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id=&quot;desuerado&quot;&gt;Desuerado&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Retire el suero, con la ayuda de un colador, hasta que la cuajada apenas sea visible&lt;/li&gt;
+  &lt;li&gt;Aumentar lentamente la temperatura y empezar a revolver, inicialmente, lentamente la cuajada, tener especial cuidado si se esta trabajando con leche PyH.&lt;/li&gt;
+  &lt;li&gt;Cuando la leche alcance 40 grados (105 F), retirar del calor o apagar la estufa, la cuajada debe tener el tamaño de un grano de maíz.&lt;/li&gt;
+  &lt;li&gt;Deje reposar la cuajada unos 10 minutos.&lt;/li&gt;
+  &lt;li&gt;Retire el resto del suero.&lt;/li&gt;
+  &lt;li&gt;Coloque la cuajada en un colador, déjela reposar hasta que haya drenado la mayor cantidad de suero, debe sentirse relativamente compacta y no muy húmeda al tacto.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerado-colador/cuajada-desuerada.jpg&quot; title=&quot;cuajada-desuerada&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerado-colador/cuajada-desuerada.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-desuerada&quot; title=&quot;cuajada-desuerada&quot; /&gt;&lt;span&gt;cuajada-desuerada&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerado-colador/cuajada-desuerado-4.jpg&quot; title=&quot;cuajada-desuerado-4&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerado-colador/cuajada-desuerado-4.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-desuerado-4&quot; title=&quot;cuajada-desuerado-4&quot; /&gt;&lt;span&gt;cuajada-desuerado-4&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerado-colador/cuajada-desuerando.jpeg&quot; title=&quot;cuajada-desuerando&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerado-colador/cuajada-desuerando.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-desuerando&quot; title=&quot;cuajada-desuerando&quot; /&gt;&lt;span&gt;cuajada-desuerando&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerado-colador/deseurado-de-cuajada.jpeg&quot; title=&quot;deseurado-de-cuajada&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerado-colador/deseurado-de-cuajada.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;deseurado-de-cuajada&quot; title=&quot;deseurado-de-cuajada&quot; /&gt;&lt;span&gt;deseurado-de-cuajada&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id=&quot;salar-el-queso&quot;&gt;Salar el queso&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Coloque la cuajada en una bandeja y proceda a cortar en cubos de una pulgada (2.5 cm&lt;/li&gt;
+  &lt;li&gt;Coloque la cuajada cortada en cubos en la salmuera y asegúrese de que quede sumergida por lo menos por 30 minutos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-cortada-cubos/cuajada-cortada-cubos.jpeg&quot; title=&quot;cuajada-cortada-cubos&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-cortada-cubos/cuajada-cortada-cubos.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-cubos&quot; title=&quot;cuajada-cortada-cubos&quot; /&gt;&lt;span&gt;cuajada-cortada-cubos&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-cortada-cubos/irwin-cuajada-cortada.jpeg&quot; title=&quot;irwin-cuajada-cortada&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-cortada-cubos/irwin-cuajada-cortada.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;irwin-cuajada-cortada&quot; title=&quot;irwin-cuajada-cortada&quot; /&gt;&lt;span&gt;irwin-cuajada-cortada&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-cortada-cubos/nancy-corte-de-cuajada.jpeg&quot; title=&quot;nancy-corte-de-cuajada&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-cortada-cubos/nancy-corte-de-cuajada.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;nancy-corte-de-cuajada&quot; title=&quot;nancy-corte-de-cuajada&quot; /&gt;&lt;span&gt;nancy-corte-de-cuajada&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-cortada-cubos/tequenero-cortada-cubos.jpeg&quot; title=&quot;tequenero-cortada-cubos&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-cortada-cubos/tequenero-cortada-cubos.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;tequenero-cortada-cubos&quot; title=&quot;tequenero-cortada-cubos&quot; /&gt;&lt;span&gt;tequenero-cortada-cubos&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id=&quot;enmoldado-y-prensado-del-queso&quot;&gt;Enmoldado y prensado del queso&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Prepare el molde con tela quesera.&lt;/li&gt;
+  &lt;li&gt;Pese la cuajada y anote su peso.&lt;/li&gt;
+  &lt;li&gt;Vacíe la cuajada en el molde y cubrirla con la tela quesera para mejor presentación.&lt;/li&gt;
+  &lt;li&gt;Prense el queso por 40 minutos horas con el mismo peso de la cuajada.&lt;/li&gt;
+  &lt;li&gt;Retire el queso del molde, voltéelo, vuelva a envolverlo en tela quesera y ahora proceda a prensar el queso con 4 veces el peso de la cuajada por un lapso de 12 horas.&lt;/li&gt;
+  &lt;li&gt;Retire el queso del molde y envolver el envoplast (papel film, plastic wrap).&lt;/li&gt;
+  &lt;li&gt;Lleve a la nevera para que termine de endurecer.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: &lt;a href=&quot;https://www.instagram.com/alinorcausa/&quot;&gt;Ocsain Suarez&lt;/a&gt; &lt;a href=&quot;http://wa.link/cyft44&quot;&gt;Información de Contacto&lt;/a&gt;&lt;/p&gt;</content><author><name>AlinorcaUSA</name></author><category term="receta" /><category term="queso" /><category term="tequeñero" /><category term="receta" /><category term="venezuela" /><summary type="html">Características : Queso de sabor suave, semiduro, resistente al calor, capaz de resistir altas temperaturas mientras se fríe, se coloca en la plancha o cuando es usado en la elaboración de tequeños.</summary></entry><entry><title type="html">Queso Amarillo (Tipo Torondoy/Gouda)</title><link href="https://www.nuestrosquesos.com/2021/08/31/queso-amarillo-gouda/" rel="alternate" type="text/html" title="Queso Amarillo (Tipo Torondoy/Gouda)" /><published>2021-08-31T19:00:11+00:00</published><updated>2021-08-31T19:00:11+00:00</updated><id>https://www.nuestrosquesos.com/2021/08/31/queso-amarillo-gouda</id><content type="html" xml:base="https://www.nuestrosquesos.com/2021/08/31/queso-amarillo-gouda/">&lt;p&gt;&lt;strong&gt;Características&lt;/strong&gt; : Es un queso semiduro, madurado, de origen Holandés, generalmente de sabor sutil, no muy salado, de color amarillo bastante suave, se distingue de otros quesos por su proceso de cuajada lavada. Conocido en otros países como Queso de Bola, o Gauda o simplemente queso amarillo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uso&lt;/strong&gt;: Viene en diferentes presentaciones, se puede encontrar en forma de cilindro y también esferas, se puede comer solo o como relleno de arepas o como topping en múltiples platos.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredientes&quot;&gt;Ingredientes&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Ingrediente&lt;/th&gt;
+      &lt;th&gt;Cantidad&lt;/th&gt;
+      &lt;th&gt;Notas&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Leche Pasteurizada y Homogeneizada (Completa) preferiblemente no-homogeneizada&lt;/td&gt;
+      &lt;td&gt;2.5 galones (US) (aprox 10 litros)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cloruro de Calcio&lt;/td&gt;
+      &lt;td&gt;1/4 de cucharadita (TSP) por galón (US)&lt;/td&gt;
+      &lt;td&gt;Solo si utiliza leche PyH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cultura mesofílica, serie MA (M030)&lt;/td&gt;
+      &lt;td&gt;1/16 tsp por cada galón de leche&lt;/td&gt;
+      &lt;td&gt;Un cultivo equivalente que contenga &lt;em&gt;Lactococcus ssp lactis&lt;/em&gt; y &lt;em&gt;cremoris&lt;/em&gt;, Flora Danica o MM 100 son buenos substitutos&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Colorante natural (achiote/onoto)&lt;/td&gt;
+      &lt;td&gt;4 gotas por galón, diluido en 100cc de agua sin cloro&lt;/td&gt;
+      &lt;td&gt;Opcional, receta original de Gavin Webber no lo incluye&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cuajo&lt;/td&gt;
+      &lt;td&gt;Según la indicación del fabricante&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sal&lt;/td&gt;
+      &lt;td&gt;1 kg&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Receta de la Salmuera&lt;/strong&gt;: 1 galón (US) de agua, 1 kg (2.25 lbs) de sal, 1 TSP de cloruro de calcio y 1 gota de vinagre. Técnicamente el pH de la salmuera debe ser el igual al pH del queso.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cera para quesos&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Opcional, una vez formada la corteza del queso se puede empacar al vacío&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;implementos-mínimos&quot;&gt;Implementos mínimos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Olla de acero inoxidable (preferiblemente)&lt;/li&gt;
+  &lt;li&gt;Termómetro&lt;/li&gt;
+  &lt;li&gt;Tela quesera&lt;/li&gt;
+  &lt;li&gt;Molde&lt;/li&gt;
+  &lt;li&gt;Prensa&lt;/li&gt;
+  &lt;li&gt;Colador para ayudar al desuerado&lt;/li&gt;
+  &lt;li&gt;Pesos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;calentado-y-acidificación-de-la-leche&quot;&gt;Calentado y acidificación de la leche&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Calentar la leche hasta 29 grados (85 F), evite subir súbitamente la temperatura.&lt;/li&gt;
+  &lt;li&gt;Adicione la cultura mesofílica, a la leche fría.&lt;/li&gt;
+  &lt;li&gt;Dejar reposar por un minuto y luego revuelva la cultura y la leche por un lapso de unos dos o tres minutos.&lt;/li&gt;
+  &lt;li&gt;Agregue al cloruro de calcio.&lt;/li&gt;
+  &lt;li&gt;Revuelva por un minuto.&lt;/li&gt;
+  &lt;li&gt;Agregue el colorante (paso opcional) y revuelva por un lapso de unos dos o tres minutos, verifique que este bien diluido en la leche.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cuajado-de-la-leche-y-corte-de-la-cuajada&quot;&gt;Cuajado de la leche y corte de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Agregue el cuajo y revuelva por un minuto.&lt;/li&gt;
+  &lt;li&gt;Apague el fuego y deje reposar por 40 minutos.&lt;/li&gt;
+  &lt;li&gt;Corte la cuajada en cubos de 1/2 pulgada o 1.25 cm.&lt;/li&gt;
+  &lt;li&gt;Deje reposar la cuajada por 5 minutos.&lt;/li&gt;
+  &lt;li&gt;Revuelva la cuajada delicadamente por 5 minutos.&lt;/li&gt;
+  &lt;li&gt;Deje reposar la cuajada por 5 minutos adicionales.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cocimiento-de-la-cuajada&quot;&gt;Cocimiento de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Caliente unos 4 litros de agua hasta 60 C (140 F).&lt;/li&gt;
+  &lt;li&gt;Usando un colador, remueva 4 tazas (1 litro) de suero.&lt;/li&gt;
+  &lt;li&gt;Ahora agregue a la olla 4 tazas de agua caliente.&lt;/li&gt;
+  &lt;li&gt;Queremos elevar la temperatura hasta 33 C (92 F).&lt;/li&gt;
+  &lt;li&gt;Revuelva la cuajada por diez minutos.&lt;/li&gt;
+  &lt;li&gt;Deje reposar la cuajada por diez minutos más.&lt;/li&gt;
+  &lt;li&gt;Deje enfriar el agua caliente a 45C (113 F).&lt;/li&gt;
+  &lt;li&gt;Tome nota del volumen del suero presente en la olla, usando el colador y un cucharón retire el suero y agua hasta que la cuajada sea visible.&lt;/li&gt;
+  &lt;li&gt;Revuelva la cuajada por unos 30 segundos.&lt;/li&gt;
+  &lt;li&gt;Agregue agua caliente hasta el nivel de suero presente en la olla.&lt;/li&gt;
+  &lt;li&gt;Verifique que la cuajada alcance una temperatura de 37C (110 F).&lt;/li&gt;
+  &lt;li&gt;Revuelva la cuajada por unos 20 minutos.&lt;/li&gt;
+  &lt;li&gt;La cuajada deberían tener el tamaño de un frijol.&lt;/li&gt;
+  &lt;li&gt;Deje reposar la cuajada por 10 minutos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;desuerado-enmoldado-y-prensado-del-queso&quot;&gt;Desuerado, enmoldado y prensado del queso&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Proceda a retirar el suero.&lt;/li&gt;
+  &lt;li&gt;Transfiera la cuajada a un molde cilíndrico forrado con tela quesera.&lt;/li&gt;
+  &lt;li&gt;Proceda a prensar la cuajada por 29 minutos con un peso de 10 Kgs (22 lbs).&lt;/li&gt;
+  &lt;li&gt;Proceda a retirar el queso del molde y voltéelo.&lt;/li&gt;
+  &lt;li&gt;Luego prense el queso por 12 horas con un peso de 13 kgs (30 lbs).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;salado-oreado-y-maduración-del-queso&quot;&gt;Salado, oreado y maduración del queso&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Retire el queso y sumérjalo en una salmuera al por 12 horas, cuando alcance las primeras 6 horas, voltee el queso.&lt;/li&gt;
+  &lt;li&gt;Retire el queso de la salmuera y oree el queso por dos o tres días, volteándolo una o mas veces por día.&lt;/li&gt;
+  &lt;li&gt;Proceda a encerar (receta original de Webber) o empaque al vacío el queso.&lt;/li&gt;
+  &lt;li&gt;Madure a una temperatura de 10c - 12c (50 a 54 F) con 35% de humedad por 6 semanas, o más.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Fuente&lt;/strong&gt;: &lt;a href=&quot;https://www.youtube.com/watch?v=2iwYqfTUtXo&quot;&gt;How to make Gouda by Gavin Webber&lt;/a&gt;&lt;/p&gt;</content><author><name>Afrael Ortiz</name></author><category term="receta" /><category term="receta" /><category term="queso" /><category term="amarillo" /><category term="torondoy" /><category term="gouda" /><category term="madurado" /><category term="holanda" /><summary type="html">Características : Es un queso semiduro, madurado, de origen Holandés, generalmente de sabor sutil, no muy salado, de color amarillo bastante suave, se distingue de otros quesos por su proceso de cuajada lavada. Conocido en otros países como Queso de Bola, o Gauda o simplemente queso amarillo.</summary></entry><entry><title type="html">Queso Chihuahua (México)</title><link href="https://www.nuestrosquesos.com/2021/08/21/queso-chihuahua/" rel="alternate" type="text/html" title="Queso Chihuahua (México)" /><published>2021-08-21T19:00:11+00:00</published><updated>2021-08-21T19:00:11+00:00</updated><id>https://www.nuestrosquesos.com/2021/08/21/queso-chihuahua</id><content type="html" xml:base="https://www.nuestrosquesos.com/2021/08/21/queso-chihuahua/">&lt;p&gt;&lt;strong&gt;Características&lt;/strong&gt; : Es un queso semiduro, madurado, de sabor lácteo y, generalmente, de color amarillo bastante suave, se distingue de otros quesos por su “chedarización”. También es conocido como Queso Menonita o Queso Chester (derivado del Cheddar).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uso&lt;/strong&gt;: Viene en diferentes presentaciones, se puede encontrar en forma de cilindro, también en barras y usar rebanado, pero es popular como topping de frijoles refritos o como relleno de quesadillas.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredientes&quot;&gt;Ingredientes&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Ingrediente&lt;/th&gt;
+      &lt;th&gt;Cantidad&lt;/th&gt;
+      &lt;th&gt;Notas&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Leche Pasteurizada y Homogeneizada (Completa) preferiblemente no-homogeneizada&lt;/td&gt;
+      &lt;td&gt;1 galones (US)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cloruro de Calcio&lt;/td&gt;
+      &lt;td&gt;1/4 de cucharadita (TSP) por galón (US)&lt;/td&gt;
+      &lt;td&gt;Solo si utiliza leche PyH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cultura mesófilica, serie MA (MA-11)&lt;/td&gt;
+      &lt;td&gt;1/16 tsp por cada galón de leche&lt;/td&gt;
+      &lt;td&gt;Un cultivo equivalente que contenga &lt;em&gt;Lactococcus ssp lactis&lt;/em&gt; y &lt;em&gt;cremoris&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Colorante natural (achiote/onoto)&lt;/td&gt;
+      &lt;td&gt;4 gotas por galón, diluido en 100cc de agua sin cloro&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cuajo&lt;/td&gt;
+      &lt;td&gt;Según la indicación del fabricante&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sal&lt;/td&gt;
+      &lt;td&gt;1.5 a 2 TBSP (cucharada)&lt;/td&gt;
+      &lt;td&gt;Ajustar según su gusto&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;implementos-mínimos&quot;&gt;Implementos mínimos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Olla de acero inoxidable (preferiblemente)&lt;/li&gt;
+  &lt;li&gt;Termómetro&lt;/li&gt;
+  &lt;li&gt;Peachímetro&lt;/li&gt;
+  &lt;li&gt;Tela quesera&lt;/li&gt;
+  &lt;li&gt;Molde&lt;/li&gt;
+  &lt;li&gt;Prensa&lt;/li&gt;
+  &lt;li&gt;Colador para ayudar al desuerado&lt;/li&gt;
+  &lt;li&gt;Pesos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;calentado-y-acidificación-de-la-leche&quot;&gt;Calentado y acidificación de la leche&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Calentar la leche hasta 36 grados (97 F), evite subir súbitamente la temperatura.&lt;/li&gt;
+  &lt;li&gt;Agregar el colorante.&lt;/li&gt;
+  &lt;li&gt;Agregar cloruro de calcio diluido en agua destilada.&lt;/li&gt;
+  &lt;li&gt;Tomar nota del pH de la leche, usar peachímetro.&lt;/li&gt;
+  &lt;li&gt;Agregar el cultivo mesófilo y revuelva por un minuto.&lt;/li&gt;
+  &lt;li&gt;Incubar la leche por una hora, la leche debe desarrollar acidez, al menos dos grados de acidez, monitorear con el peachímetro, en caso de que la leche alcance la acidez antes de la hora.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;coagulación-de-la-leche-y-corte-de-la-cuajada&quot;&gt;Coagulación de la leche y corte de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Añadir el cuajo, agitar la leche por 1 minuto.&lt;/li&gt;
+  &lt;li&gt;Deje reposar al menos por 40 minutos.&lt;/li&gt;
+  &lt;li&gt;Procedar a cortar la cuajada en cubos de 2cm (aprox. una pulgada).&lt;/li&gt;
+  &lt;li&gt;Dejar reposar los cubos por 10 minutos.&lt;/li&gt;
+  &lt;li&gt;Haga cortes en ángulo y deje reposar la cuajada por 5 minutos más.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;desuerado&quot;&gt;Desuerado&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Retire una tercera parte del suero y revuelva la cuajada por 10 minutos.&lt;/li&gt;
+  &lt;li&gt;Empiece a calentar la leche lentamente hasta alcanzar 39 grados (102 F), mientras la caliente, revuelva la cuajada, por lo menos 30 minutos, si alcanza la temperatura deseada antes de los 30 minutos apague el fuego.&lt;/li&gt;
+  &lt;li&gt;Se transfiere toda la cuajada a una tela quesera y se cuelga para que drene la mayor cantidad de suero posible.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cheddarización-de-la-cuajada&quot;&gt;Cheddarización de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;En este paso se realiza el “cheddaring”, debemos aplanar la cuajada y rebanarla en tres o cuatro partes iguales, luego debemos mantenerla a una temperatura constante de 30 grados (86F), vía un baño de maría, por un lapso de al menos 2 horas, preferiblemente 3 horas.&lt;/li&gt;
+  &lt;li&gt;Cada 30 minutos debemos voltear las rebanadas de cuajada, al final de este proceso la cuajada debería lucir brillante y algo firme.&lt;/li&gt;
+  &lt;li&gt;Al cabo de las 2 o 3 horas, debemos deshacer las rebanadas de cuajada con las manos, en trozos del tamaño de una almendra.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;salado-enmoldado-y-prensado-del-queso&quot;&gt;Salado, enmoldado y prensado del queso&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Proceda a salar el queso, salado directo, asegúrese de revolver bien los trocitos de cuajada y sal para lograra una buena distribución de la misma.&lt;/li&gt;
+  &lt;li&gt;Coloque la cuajada en su molde con una tela quesera, proceda a prensar de la siguiente manera:&lt;/li&gt;
+  &lt;li&gt;5 kgs (12 lbs) por 15 minutos.&lt;/li&gt;
+  &lt;li&gt;Saque el queso, dele la vuelta y prense con 20 kgs (42 lbs) por 12 horas.&lt;/li&gt;
+  &lt;li&gt;Saque el queso, dele la vuelta y prense con 25 kgs (55 lbs) por 24 horas.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;oreado-y-maduración-del-queso&quot;&gt;Oreado y maduración del queso&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ahora debemos orear el queso, retire el queso del molde y deje secar al aire libre por 12 a 18 horas entre 6 a 10 grados (42 a 50F), el fondo de la nevera es ideal, la humedad relativa del ambiente (nevera) debería ser de 40% a 60%. Monitoree el queso, si aun esta húmedo proceda a secarlo, no lo deje en su suero por tiempos prolongados.&lt;/li&gt;
+  &lt;li&gt;Retire el queso de la nevera y proceda a empacar al vacio.&lt;/li&gt;
+  &lt;li&gt;Lleve nuevamente el queso a la nevera y proceda a madurar entre 7 a 14 días. Tecnicamente, lo ideal es que el queso alcance un pH entre 5.0 a 5.5.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Fuente&lt;/strong&gt;: &lt;a href=&quot;https://elibros.uacj.mx&quot;&gt;Tri Libros Electrónicos&lt;/a&gt;&lt;/p&gt;</content><author><name>Afrael Ortiz</name></author><category term="receta" /><category term="receta" /><category term="queso" /><category term="mexico" /><category term="madurado" /><summary type="html">Características : Es un queso semiduro, madurado, de sabor lácteo y, generalmente, de color amarillo bastante suave, se distingue de otros quesos por su “chedarización”. También es conocido como Queso Menonita o Queso Chester (derivado del Cheddar).</summary></entry><entry><title type="html">Queso Panela (México)</title><link href="https://www.nuestrosquesos.com/2021/08/20/queso-panela/" rel="alternate" type="text/html" title="Queso Panela (México)" /><published>2021-08-20T19:00:11+00:00</published><updated>2021-08-20T19:00:11+00:00</updated><id>https://www.nuestrosquesos.com/2021/08/20/queso-panela</id><content type="html" xml:base="https://www.nuestrosquesos.com/2021/08/20/queso-panela/">&lt;p&gt;&lt;strong&gt;Características&lt;/strong&gt; : Es un queso fresco, salado, bastante suave, de sabor sutil y muy húmedo. Debido a su frescura requiere refrigeración y es un queso no se madura.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uso&lt;/strong&gt;: Su sabor sutil, textura blanda lo hace buen acompañante de alimentos salados como dulces, suele servirse de aperitivo, y en ocasiones es un ingrediente en otras recetas, tiende a absorber los sabores fuertes.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredientes&quot;&gt;Ingredientes&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Ingrediente&lt;/th&gt;
+      &lt;th&gt;Cantidad&lt;/th&gt;
+      &lt;th&gt;Notas&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Leche Pasteurizada y Homogeneizada (Completa) preferiblemente no-homogeneizada o fresca&lt;/td&gt;
+      &lt;td&gt;1 galones (US)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cloruro de Calcio&lt;/td&gt;
+      &lt;td&gt;1/4 de cucharadita (TSP) por galón (US)&lt;/td&gt;
+      &lt;td&gt;Solo si utiliza leche PyH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cuajo&lt;/td&gt;
+      &lt;td&gt;Según la indicación del fabricante&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Suero dulce&lt;/td&gt;
+      &lt;td&gt;Producto del desuerado, se usará en la salmuera&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sal&lt;/td&gt;
+      &lt;td&gt;En forma de salmuera al 30%&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;implementos-mínimos&quot;&gt;Implementos mínimos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Olla de acero inoxidable (preferiblemente)&lt;/li&gt;
+  &lt;li&gt;Termómetro&lt;/li&gt;
+  &lt;li&gt;Tela quesera (o velo de novia)&lt;/li&gt;
+  &lt;li&gt;Molde&lt;/li&gt;
+  &lt;li&gt;Prensa&lt;/li&gt;
+  &lt;li&gt;Colador para ayudar al desuerado&lt;/li&gt;
+  &lt;li&gt;Peso (debe ser el 4 veces el peso total de la cuajada)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;calentado-y-acidificación-de-la-leche&quot;&gt;Calentado y acidificación de la leche&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Calentar la leche hasta 36 grados (97 F), evite subir súbitamente la temperatura.&lt;/li&gt;
+  &lt;li&gt;Cuando la leche este cerca de la temperatura deseada, agregue el cloruro de calcio solo si esta usando leche PyH  (Pasteurizada y Homogeneizada).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cuajado-de-la-leche-y-corte-de-la-cuajada&quot;&gt;Cuajado de la leche y corte de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Apague el fuego y agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 35 a 45 minutos.&lt;/li&gt;
+  &lt;li&gt;Con un mínimo de fuego proceda a cortar en cubos de 2cm por 2cm (aproximadamente 1 pulgada por 1 pulgada), cortar en cuadricula.&lt;/li&gt;
+  &lt;li&gt;Tape la olla y deje reposar la cuajada cortada por 10 minutos, luego proceder a cortar la cuajada en ángulo, revuelva delicadamente por 5 minutos y deje reposar nuevamente la cuajada por 10 minutos adicionales.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;desuerado&quot;&gt;Desuerado&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Proceda a calentar lentamente la leche hasta 38 grados (100F) y siga revolviendo con delicadeza, una vez llegue a la temperatura deseada, apague el fuego y deje reposar nuevamente por un lapso de 5 a 10 minutos.&lt;/li&gt;
+  &lt;li&gt;Proceda a retirar la mayor cantidad de suero posible, con la ayuda de un colador y una taza. Reserve el suero.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;salar-la-cuajada&quot;&gt;Salar la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Prepare una salmuera usando un litro de suero y 200 gramos de sal, después de que la sal este completamente diluida. Se coloca la cuajada en salmuera por 30 minutos, revuelva bien, al menos por 5 minutos, para que la salmuera cubra toda la cuajada.&lt;/li&gt;
+  &lt;li&gt;Retire la cuajada de la salmuera y déjela drenar el exceso de líquido.&lt;/li&gt;
+  &lt;li&gt;Proceda a pesar la cuajada.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;enmoldado-y-prensado-del-queso&quot;&gt;Enmoldado y prensado del queso&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Colóquele la tela quesera al molde y agregue la cuajada.&lt;/li&gt;
+  &lt;li&gt;Proceda a prensar el queso con un peso dos veces el peso de la cuajada, prense por 16 horas, voltee el queso y prense por 6 horas adicionales.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: &lt;a href=&quot;https://www.instagram.com/moleros_artisancheese/&quot;&gt;Irwin Molero&lt;/a&gt; &lt;a href=&quot;http://wa.link/1x4dwc&quot;&gt;Información de Contacto&lt;/a&gt;&lt;/p&gt;</content><author><name>Moleros Artisan Cheese</name></author><category term="receta" /><category term="receta" /><category term="queso" /><category term="mexico" /><category term="fresco" /><summary type="html">Características : Es un queso fresco, salado, bastante suave, de sabor sutil y muy húmedo. Debido a su frescura requiere refrigeración y es un queso no se madura.</summary></entry><entry><title type="html">Cultivos, el ingrediente clave</title><link href="https://www.nuestrosquesos.com/2021/08/15/cultivos/" rel="alternate" type="text/html" title="Cultivos, el ingrediente clave" /><published>2021-08-15T14:17:14+00:00</published><updated>2021-08-15T14:17:14+00:00</updated><id>https://www.nuestrosquesos.com/2021/08/15/cultivos</id><content type="html" xml:base="https://www.nuestrosquesos.com/2021/08/15/cultivos/">&lt;p&gt;Todos los quesos adquieren su identidad, su sabor y forma mediante a través del proceso de madurado, durante este proceso las bacterias presentes presentes en la leche (o cultivo) actúan y hacen su magia.&lt;/p&gt;
+
+&lt;p&gt;En tiempos ancestrales la leche adquiría toda su flora bacteriana a través de lo que la vaca, oveja o cabra consumía, de ahí el hecho de quesos de una vaca de una misma raza puedan tener diferentes sabores.&lt;/p&gt;
+
+&lt;p&gt;Por supuesto que el curado, o maduración, cambia el queso, el ingrediente principal es la carga bacteriana presente la leche cruda, este es quien tiene la mayor influencia en esos cambios.&lt;/p&gt;
+
+&lt;p&gt;Luego de la introducción de la pasteurización, por razones de salubridad, la carga bacteriana es mínima, en algunos casos la leche queda virtualmente estéril, para solventar este problema, mucho de los maestros queseros creaban, algunos aún trabajan así, sus culturas madres, y con esa cultura inoculaban su leche, pero es un proceso sumamente laborioso que es propenso a la contaminación.&lt;/p&gt;
+
+&lt;p&gt;En la actualidad, cuando no se trabaja con leche cruda, los maestros queseros recurren al uso de cultivos DVI (Direct Vat Innoculation), son bacterias que vienen en forma de un polvíllo el cual puede ser agregados directamente a la leche, aunque también se pueden crear culturas madres a partir de estos. Estos cultivos pudieron ser aislados tras estudiar las diferentes características de la leche cruda.&lt;/p&gt;
+
+&lt;p&gt;Existen dos grandes grupos de cultivos, los cultivos mesofílicos (activos en temperaturas moderadas) y termofílicos (activos en altas temperaturas). A grandes rasgos, podemos clasificar los quesos, según sus cultivos en:&lt;/p&gt;
+
+&lt;h2 id=&quot;cultivos&quot;&gt;Cultivos&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Tipo de Cultura&lt;/th&gt;
+      &lt;th&gt;Queso&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mesofílico (tipo MA)&lt;/td&gt;
+      &lt;td&gt;Cheddar, Feta, Colby, Chevre&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mesofílico (tipo MM)&lt;/td&gt;
+      &lt;td&gt;Gouda, Quesos azules, Camembert, Brie y otros quesos amantequillados o con desarrollo de ojos&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Termofílico&lt;/td&gt;
+      &lt;td&gt;Mozzarella, Provolone, Romano, Parmesano, Alpinos&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;flora-bacteriana&quot;&gt;Flora Bacteriana&lt;/h2&gt;
+
+&lt;p&gt;Como mencionamos cada elemento de la flora bacteriana en la leche actúa de forma diferente, cada bacteria tiene una función específica, cada una genera una serie de acciones que van cambiando el queso, hay bacterias que crean ácido láctico, otras degradan las proteínas (proteolíticas), otras degradan la grasa (lipolíticas), algunas producen aroma y otras gas, para la generación de ojos.&lt;/p&gt;
+
+&lt;p&gt;A continuación un listado de las bacterias y su función principal.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Nombre&lt;/th&gt;
+      &lt;th&gt;Tipo&lt;/th&gt;
+      &lt;th&gt;Función&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Lactococus lactis ssp. lactis&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;mesofílica&lt;/td&gt;
+      &lt;td&gt;ácido láctico&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Lactococus lactis ssp. cremoris&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;mesofílica&lt;/td&gt;
+      &lt;td&gt;ácido láctico&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Lactococus lactis ssp. lactis biovar diacetylactis&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;mesofílica&lt;/td&gt;
+      &lt;td&gt;ácido láctico, CO2, diacetilo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Leuconostoc mesenteroides ssp. cremoris&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;mesofílica&lt;/td&gt;
+      &lt;td&gt;CO2, diacetilo&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Streptococus thermophilus&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;termofílica&lt;/td&gt;
+      &lt;td&gt;ácido láctico&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Lactobacillus delbrueckii ssp. bulgaricus&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;termofílica&lt;/td&gt;
+      &lt;td&gt;ácido láctico&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Lactobacillus helveticus&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;termofílica&lt;/td&gt;
+      &lt;td&gt;ácido láctico&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Dependiendo del tipo de queso que quieras lograr debes combinar uno o más de esos cultivos, muchos de los quesos latinos son quesos frescos elaborados a partir de leche cruda no necesitan nada más; y por ser frescos su periodo de maduración es muy corto, o casi inexistente, estos quesos, en su gran mayoría son mesofílicos.&lt;/p&gt;
+
+&lt;h2 id=&quot;cultivos-secundarios&quot;&gt;Cultivos Secundarios&lt;/h2&gt;
+
+&lt;p&gt;Esta gama de cultivos es combinado con los primeros para crear un queso más complejo, tienen otras funciones, como crear ojos, modificar la pasta del queso o crear un aroma particular. Los más utilizados son:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Nombre&lt;/th&gt;
+      &lt;th&gt;Función&lt;/th&gt;
+      &lt;th&gt;Aplicación&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Propionibacterium freudenrichii ssp. shermanii&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;CO2, ácido propionico y ácetico para el desarrollo de ojos y sabor&lt;/td&gt;
+      &lt;td&gt;quesos suizos (Enmental)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Geotrichum candidum&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Moho blanco, desacidificación y desarrollo de sabor&lt;/td&gt;
+      &lt;td&gt;quesos de corteza blanca, (Camembert, Brie)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Penicillium Camemberti&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Moho blanco, deascidificación y desarrollo de sabor&lt;/td&gt;
+      &lt;td&gt;quesos de corteza blanca, (Camembert, Brie)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;Penicillium Roqueforti&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Moho verde/azul, desacidificación y desarrollo de sabor y textura&lt;/td&gt;
+      &lt;td&gt;quesos azules&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos-2/geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x.jpeg&quot; title=&quot;geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos-2/geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x&quot; title=&quot;geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x&quot; /&gt;&lt;span&gt;geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos-2/sam-3_2048x.jpeg&quot; title=&quot;sam-3_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos-2/sam-3_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;sam-3_2048x&quot; title=&quot;sam-3_2048x&quot; /&gt;&lt;span&gt;sam-3_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id=&quot;marcas-comerciales&quot;&gt;Marcas comerciales&lt;/h2&gt;
+
+&lt;p&gt;Los cultivos son comercializados por varios grandes grupos de los cuales destacan dos: Danisco/Choozit y CHR-Hansen, otro fabricante bastante popular es Biena.&lt;/p&gt;
+
+&lt;p&gt;Algunos de los cultivos mas populares son:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Nombre&lt;/th&gt;
+      &lt;th&gt;Fabricante&lt;/th&gt;
+      &lt;th&gt;Tipo de cultivo&lt;/th&gt;
+      &lt;th&gt;Tipo de queso&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.getculture.com/MA-11.html&quot;&gt;MA Series&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Danisco/Choozit&lt;/td&gt;
+      &lt;td&gt;Mesófila&lt;/td&gt;
+      &lt;td&gt;Cheddar, Colby&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.getculture.com/MM-Series1.html&quot;&gt;MM Series&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Danis co/Choozit&lt;/td&gt;
+      &lt;td&gt;Mesófila&lt;/td&gt;
+      &lt;td&gt;Gouda, Edam, Camembert, Feta&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.getculture.com/Flora-Danica.html&quot;&gt;Flora Danica&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;CHR Hansen&lt;/td&gt;
+      &lt;td&gt;Mesófila&lt;/td&gt;
+      &lt;td&gt;Baby Swiss, Gouda, Edam, Brie, Azul&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.getculture.com/TA-61.html&quot;&gt;TA61&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Danisco/Choozit&lt;/td&gt;
+      &lt;td&gt;Termófila&lt;/td&gt;
+      &lt;td&gt;Quesos italianos y suizos&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.getculture.com/Thermo-B.html&quot;&gt;Termo B&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Danisco/Choozit&lt;/td&gt;
+      &lt;td&gt;Termófila&lt;/td&gt;
+      &lt;td&gt;Quesos italianos&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.getculture.com/Aroma-B.html&quot;&gt;Aroma B&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Biena&lt;/td&gt;
+      &lt;td&gt;Mesófila&lt;/td&gt;
+      &lt;td&gt;Edam, Havarti, Gouda&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos-2/geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x.jpeg&quot; title=&quot;geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos-2/geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x&quot; title=&quot;geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x&quot; /&gt;&lt;span&gt;geo-17_15d4ae52-ea87-4664-9e2d-9814e4618dcb_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos-2/sam-3_2048x.jpeg&quot; title=&quot;sam-3_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos-2/sam-3_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;sam-3_2048x&quot; title=&quot;sam-3_2048x&quot; /&gt;&lt;span&gt;sam-3_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos/FLORA-DANICA_2048x.jpeg&quot; title=&quot;FLORA-DANICA_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos/FLORA-DANICA_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;FLORA-DANICA_2048x&quot; title=&quot;FLORA-DANICA_2048x&quot; /&gt;&lt;span&gt;FLORA-DANICA_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos/c62_2048x.jpeg&quot; title=&quot;c62_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos/c62_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;c62_2048x&quot; title=&quot;c62_2048x&quot; /&gt;&lt;span&gt;c62_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos/chevre-culture_2048x.jpeg&quot; title=&quot;chevre-culture_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos/chevre-culture_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;chevre-culture_2048x&quot; title=&quot;chevre-culture_2048x&quot; /&gt;&lt;span&gt;chevre-culture_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos/ma-11_2048x.jpeg&quot; title=&quot;ma-11_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos/ma-11_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;ma-11_2048x&quot; title=&quot;ma-11_2048x&quot; /&gt;&lt;span&gt;ma-11_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos/ma-4002_2048x.jpeg&quot; title=&quot;ma-4002_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos/ma-4002_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;ma-4002_2048x&quot; title=&quot;ma-4002_2048x&quot; /&gt;&lt;span&gt;ma-4002_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos/mesophilic-culture_2048x.jpeg&quot; title=&quot;mesophilic-culture_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos/mesophilic-culture_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;mesophilic-culture_2048x&quot; title=&quot;mesophilic-culture_2048x&quot; /&gt;&lt;span&gt;mesophilic-culture_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos/mm-100_2048x.jpeg&quot; title=&quot;mm-100_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos/mm-100_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;mm-100_2048x&quot; title=&quot;mm-100_2048x&quot; /&gt;&lt;span&gt;mm-100_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos/mt-100_2048x.jpeg&quot; title=&quot;mt-100_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos/mt-100_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;mt-100_2048x&quot; title=&quot;mt-100_2048x&quot; /&gt;&lt;span&gt;mt-100_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos/ta-52_2048x.jpeg&quot; title=&quot;ta-52_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos/ta-52_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;ta-52_2048x&quot; title=&quot;ta-52_2048x&quot; /&gt;&lt;span&gt;ta-52_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cultivos/thermophilic-culture_2048x.jpeg&quot; title=&quot;thermophilic-culture_2048x&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cultivos/thermophilic-culture_2048x.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;thermophilic-culture_2048x&quot; title=&quot;thermophilic-culture_2048x&quot; /&gt;&lt;span&gt;thermophilic-culture_2048x&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;Esperamos que esta guía te sirva para iniciarte en el mundo de los quesos madurados.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fuente&lt;/strong&gt;: &lt;a href=&quot;https://www.amazon.com/American-Farmstead-Cheese-Complete-Selling/dp/1603587330&quot;&gt;American Farmstead Cheese por Paul Kindstedt&lt;/a&gt;&lt;/p&gt;</content><author><name>Afrael Ortiz</name></author><category term="informacion" /><category term="leche" /><category term="cultivo" /><category term="culture" /><category term="ingrediente" /><summary type="html">Todos los quesos adquieren su identidad, su sabor y forma mediante a través del proceso de madurado, durante este proceso las bacterias presentes presentes en la leche (o cultivo) actúan y hacen su magia.</summary></entry><entry><title type="html">Quiero hacer mis propios quesos ¿Por donde empiezo?</title><link href="https://www.nuestrosquesos.com/2021/08/14/por-donde-empiezo/" rel="alternate" type="text/html" title="Quiero hacer mis propios quesos ¿Por donde empiezo?" /><published>2021-08-14T20:30:11+00:00</published><updated>2021-08-14T20:30:11+00:00</updated><id>https://www.nuestrosquesos.com/2021/08/14/por-donde-empiezo</id><content type="html" xml:base="https://www.nuestrosquesos.com/2021/08/14/por-donde-empiezo/">&lt;p&gt;El mundo de los quesos es fascinante y complejo, ademas de que es un hobby que puede resultar bastante delicioso. Puedes hacer tus quesos favoritos, o poder crear los quesos de tu infancia, pero antes de ello debes aprender una series de pasos básicos y debes tener a la mano un mínimo de implementos y equipos necesarios.&lt;/p&gt;
+
+&lt;p&gt;Hay muchísimo material en la internet, tanto así, que uno puede terminar confundido cuando uno se pregunta ¿Por donde empiezo?&lt;/p&gt;
+
+&lt;p&gt;A continuación una serie de recomendaciones para empezar, esto no es una guía completa, y son recomendaciones para una persona que quiera elaborar quesos como hobby y/o para su consumo personal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Equipos mínimos necesarios&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Una olla, preferiblemente, de acero inoxidable, con capacidad para 3 o 4 galones (US).&lt;/li&gt;
+  &lt;li&gt;Una balanza capaz de medir gramos, hay muchas opciones asequibles.&lt;/li&gt;
+  &lt;li&gt;Un termómetro, preferiblemente digital. Existen termómetros especializados para elaborar quesos, pero uno digital hace el trabajo muy bien a pequeña escala.&lt;/li&gt;
+  &lt;li&gt;Una espátula de glaseado, o un cuchillo largo, para poder cortar la cuajada.&lt;/li&gt;
+  &lt;li&gt;Una cuchara o cucharón grande, para poder retirar la cuajada de la olla.&lt;/li&gt;
+  &lt;li&gt;Un colador grande.&lt;/li&gt;
+  &lt;li&gt;Cucharillas de medición.&lt;/li&gt;
+  &lt;li&gt;Una tela quesera de calidad, también en su defecto se puede utilizar usada para el velo de las novias.&lt;/li&gt;
+  &lt;li&gt;Moldes, una prensa y pesos, u objetos pesados que sirvan para aplicarle peso al queso.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredientes especializados&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Para estos ingredientes quizás necesites visitar una tienda especializada o alguna tienda online dedicada a la venta de ingredientes o materiales de quesería.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cuajo, puede ser líquido o en pastillas, recomendamos la última por ser menos perecedero pero si advertimos que es un poco mas difícil manejarlo.&lt;/li&gt;
+  &lt;li&gt;Cloruro de calcio, ingrediente necesario cuando se laboran quesos con leche de supermercado, o inclusive para estabilizar la leche cruda.&lt;/li&gt;
+  &lt;li&gt;Cultivos, los cultivos dependerá del tipo de queso que desees elaborar, para los quesos frescos latinos, siempre se puede utilizar yogur, o también se puede usar el suero ácido sobrante de una elaboración anterior.&lt;/li&gt;
+  &lt;li&gt;Colorante de onoto (anato). Solo en el caso que desees hacer quesos cheddar, mimolette o gouda y desees un queso de color fuerte.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredientes de supermercado&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Agua sin cloro, preferiblemente destilada.&lt;/li&gt;
+  &lt;li&gt;Sal no yodada, sal kosher o sal marina pura.&lt;/li&gt;
+  &lt;li&gt;Si vas a elaborar quesos azules, un trozo de un queso azul de supermercado sirve como cultivo inicial.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Notas finales&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Generalmente los implementos mas caros son los moldes, la prensa y ls cultivos, para los quesos frescos latinos, es recomendable ahorrarse el dinero en comprar un cultivo mesofílico o termofílico, con un yogur griego (contiene ambos cultivos) puedes hacer el trabajo, y al contrario de muchas opiniones, el queso resultante no sabe a yogur, si usas las cantidad adecuadas y la leche se inocula o cultiva correctamente.&lt;/p&gt;
+
+&lt;p&gt;Después que hayas elaborado tu primer queso te recomendamos guardar unos 400 0 500 cc de suero dulce y dejarlo acidificar, este te servirá de cultivo para tus futuros quesos frescos, no olvides mantener buenas practicas de limpieza manipulando el suero ácido ya que puede contaminarse con facilidad.&lt;/p&gt;
+
+&lt;p&gt;Con respecto a los moldes, inicialmente puedes usar envases tupperware y le abres un agujeros, pero debes tener la certeza que este pueda aguantar bastante peso/presión, hay ciertos quesos que requieres mucha presión, como el Queso Llanero, o Cotija, pero para otros quesos un molde plástico con agujeros espaciados de forma constante hará el trabajo. Inclusive, hay quesos, como el Queso de Burgos que no requiere peso.&lt;/p&gt;
+
+&lt;p&gt;Finalmente para la prensa, necesitas que, o el molde tenga una tapa (follower) bastante fuerte, puede utilizar dos maderas para cortar alimentos, pero debes tener precaución, si el queso empieza a prensarse de forma inclinada tus pesos se caerán. Hay prensas especializadas y óptimas como la prensa holandesa, más adelante publicaremos contenidos sobre este tema.&lt;/p&gt;
+
+&lt;p&gt;Esperamos que con estas recomendaciones te animes y te involucres en el amplio mundo de la elaboración de quesos.&lt;/p&gt;</content><author><name>Afrael Ortiz</name></author><category term="tutorial" /><category term="tutorial" /><category term="quesos" /><category term="principiante" /><category term="recomendaciones" /><summary type="html">El mundo de los quesos es fascinante y complejo, ademas de que es un hobby que puede resultar bastante delicioso. Puedes hacer tus quesos favoritos, o poder crear los quesos de tu infancia, pero antes de ello debes aprender una series de pasos básicos y debes tener a la mano un mínimo de implementos y equipos necesarios.</summary></entry><entry><title type="html">Queso de Mano (Leche de Supermercado)</title><link href="https://www.nuestrosquesos.com/2021/08/06/queso-de-mano-leche-pasteurizada/" rel="alternate" type="text/html" title="Queso de Mano (Leche de Supermercado)" /><published>2021-08-06T20:30:11+00:00</published><updated>2021-08-06T20:30:11+00:00</updated><id>https://www.nuestrosquesos.com/2021/08/06/queso-de-mano-leche-pasteurizada</id><content type="html" xml:base="https://www.nuestrosquesos.com/2021/08/06/queso-de-mano-leche-pasteurizada/">&lt;p&gt;&lt;strong&gt;Características&lt;/strong&gt; : Las dos características principales de este queso es su frescura y su elasticidad y textura, recuerda a la mozarella fresca. No se ha determinado exactamente en que parte de Venezuela se originó, viene en forma de ruedas de diferentes tamaños y de grosor variado.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uso&lt;/strong&gt;: Es un muy buen acompañante, es muy elástico al derretir, y se puede consumir con alimentos salados, como arepas o cachapas, o con dulces como el golfeado.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Como luce el queso de mano&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-de-mano/irwin-queso-de-mano.jpeg&quot; title=&quot;irwin-queso-de-mano&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-de-mano/irwin-queso-de-mano.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;irwin-queso-de-mano&quot; title=&quot;irwin-queso-de-mano&quot; /&gt;&lt;span&gt;irwin-queso-de-mano&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-de-mano/irwin-quesos-de-mano-salmuera.jpeg&quot; title=&quot;irwin-quesos-de-mano-salmuera&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-de-mano/irwin-quesos-de-mano-salmuera.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;irwin-quesos-de-mano-salmuera&quot; title=&quot;irwin-quesos-de-mano-salmuera&quot; /&gt;&lt;span&gt;irwin-quesos-de-mano-salmuera&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-de-mano/irwin-quesos-de-mano.jpeg&quot; title=&quot;irwin-quesos-de-mano&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-de-mano/irwin-quesos-de-mano.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;irwin-quesos-de-mano&quot; title=&quot;irwin-quesos-de-mano&quot; /&gt;&lt;span&gt;irwin-quesos-de-mano&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-de-mano/quesos-de-mano-salmuera.jpeg&quot; title=&quot;quesos-de-mano-salmuera&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-de-mano/quesos-de-mano-salmuera.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;quesos-de-mano-salmuera&quot; title=&quot;quesos-de-mano-salmuera&quot; /&gt;&lt;span&gt;quesos-de-mano-salmuera&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-de-mano/quesos-de-mano.jpeg&quot; title=&quot;quesos-de-mano&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-de-mano/quesos-de-mano.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;quesos-de-mano&quot; title=&quot;quesos-de-mano&quot; /&gt;&lt;span&gt;quesos-de-mano&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id=&quot;ingredientes&quot;&gt;Ingredientes&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Ingrediente&lt;/th&gt;
+      &lt;th&gt;Cantidad&lt;/th&gt;
+      &lt;th&gt;Notas&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Leche Pasteurizada descremada (Skim Milk, Non-Fat Milk o 0% Contenido graso)&lt;/td&gt;
+      &lt;td&gt;2 galones (US)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crema para batir (Heavy Cream)&lt;/td&gt;
+      &lt;td&gt;425ml por cada galón (US) de leche&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cloruro de Calcio&lt;/td&gt;
+      &lt;td&gt;1/4 de cucharadita (TSP) por galón (US)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cuajo&lt;/td&gt;
+      &lt;td&gt;Según la indicación del fabricante&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Suero ácido&lt;/td&gt;
+      &lt;td&gt;2% del volumen total de leche y crema (80 ml por cada galón de leche)&lt;/td&gt;
+      &lt;td&gt;El pH del suero debe oscilar entre 3.4 a 3.6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sal&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Para la salmuera de hilar y la salmuera para conservar&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;implementos-mínimos&quot;&gt;Implementos mínimos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Olla de acero inoxidable (preferiblemente)&lt;/li&gt;
+  &lt;li&gt;Termómetro&lt;/li&gt;
+  &lt;li&gt;Colador o molde&lt;/li&gt;
+  &lt;li&gt;Colador para ayudar al desuerado&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;procedimiento&quot;&gt;Procedimiento&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;preparación-calentado-y-acidificación-de-la-leche&quot;&gt;Preparación, calentado y acidificación de la leche&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Agregar 2 galones de leche pasteurizada fría a 5 °C (40 F), ( 0% Fat Free Milk/Skim Milk).&lt;/li&gt;
+  &lt;li&gt;Mezclar 425 ml de la crema (heavy o whipping cream) por cada galón de leche fría. Si es 100% crema de leche los resultados serán óptimos.&lt;/li&gt;
+  &lt;li&gt;Asegúrese que la leche se encuentre entre 5 °C y 8 °C, debe estar bastante fría al momento de agregar el 2% de suero ácido (aprox. 80 ml de suero ácido por cada galón de leche con un pH de 3.4)&lt;/li&gt;
+  &lt;li&gt;Comience a calentar lentamente la leche, cuando esta alcance 34 °C (aprox. 93 F) agregue el cloruro de calcio, siga calentando hasta alcanzar 37 °C (98 F aprox), apenas alcance la temperatura deseada, apagar el fuego.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cuajado-de-la-leche-y-corte-de-la-cuajada&quot;&gt;Cuajado de la leche y corte de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Agregar cuajo, apague el fuego y dejar reposar 45 a 60 minutos.&lt;/li&gt;
+  &lt;li&gt;Cortar cuajada y revolver lentamente con un batidor y calentar a 40 °C (105°F aprox). Al finalizar el proceso, los granos de la cuajada deberían tener el tamaño de un grano de maíz.&lt;/li&gt;
+  &lt;li&gt;Dejar reposar 15 minutos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/leche-cuajando/calentado-de-leche-2.jpeg&quot; title=&quot;calentado-de-leche-2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/leche-cuajando/calentado-de-leche-2.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;calentado-de-leche-2&quot; title=&quot;calentado-de-leche-2&quot; /&gt;&lt;span&gt;calentado-de-leche-2&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/leche-cuajando/calentado-de-leche.jpeg&quot; title=&quot;calentado-de-leche&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/leche-cuajando/calentado-de-leche.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;calentado-de-leche&quot; title=&quot;calentado-de-leche&quot; /&gt;&lt;span&gt;calentado-de-leche&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/leche-cuajando/leche-cuajando.jpeg&quot; title=&quot;leche-cuajando&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/leche-cuajando/leche-cuajando.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;leche-cuajando&quot; title=&quot;leche-cuajando&quot; /&gt;&lt;span&gt;leche-cuajando&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id=&quot;desuerado&quot;&gt;Desuerado&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Retire la cuajada de la olla y suero y colóquela en un molde de quesos, o un colador plástico, para escurrirla y déjela reposar hasta que alcance un pH entre 5.1 a 5.3, lo ideal es 5.3. Este proceso toma horas, varía según las condiciones ambientales y la calidad de la leche, pero generalmente puede tomar entre 8 y 24 horas.&lt;/li&gt;
+  &lt;li&gt;Calentar y comenzar a hilar, ver comentarios adicionales abajo.&lt;/li&gt;
+  &lt;li&gt;Una vez haya formado al rueda de queso, colóquela en un envase con agua fría, es importante ya que este paso detiene la cocción del queso y el queso queda mas firme evitando que pierda su forma. Se recomienda que se deje reposando en el agua fría aproximadamente un minuto.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerado-colador/cuajada-desuerada.jpg&quot; title=&quot;cuajada-desuerada&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerado-colador/cuajada-desuerada.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-desuerada&quot; title=&quot;cuajada-desuerada&quot; /&gt;&lt;span&gt;cuajada-desuerada&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerado-colador/cuajada-desuerado-4.jpg&quot; title=&quot;cuajada-desuerado-4&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerado-colador/cuajada-desuerado-4.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-desuerado-4&quot; title=&quot;cuajada-desuerado-4&quot; /&gt;&lt;span&gt;cuajada-desuerado-4&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerado-colador/cuajada-desuerando.jpeg&quot; title=&quot;cuajada-desuerando&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerado-colador/cuajada-desuerando.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-desuerando&quot; title=&quot;cuajada-desuerando&quot; /&gt;&lt;span&gt;cuajada-desuerando&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerado-colador/deseurado-de-cuajada.jpeg&quot; title=&quot;deseurado-de-cuajada&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerado-colador/deseurado-de-cuajada.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;deseurado-de-cuajada&quot; title=&quot;deseurado-de-cuajada&quot; /&gt;&lt;span&gt;deseurado-de-cuajada&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Comentarios adicionales&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Acidificación: Preferiblemente comenzar a preparar la cuajada en la mañana para que las 24 hrs se cumpla en la mañana siguiente de manera que se deje acidificar naturalmente hasta alcanzar el pH recomendado (5.1 a 5.4). Una buena señal visual es que la cuajada se torne perlada.&lt;/p&gt;
+
+&lt;p&gt;Hilado: Cortar en tiras para preparar por partes. Para calentar la cuajada preparar una salmuera, por cada 250 ml de agua agregar 15 gramos de sal, y se calienta 75 °C (170 °F aprox). Luego que la cuajada empiece a estirar considerablemente o se vuelva gomosa, estire la cuajada formando sábanas o telas sobre si misma, doble la sabana sobre si misma y repita una vez mas, luego que haya doblado córtela en secciones pequeñas y usando la mano amase en forma de disco.&lt;/p&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/pasta-hilada/estirado-de-pasta-hilada.jpeg&quot; title=&quot;estirado-de-pasta-hilada&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/pasta-hilada/estirado-de-pasta-hilada.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;estirado-de-pasta-hilada&quot; title=&quot;estirado-de-pasta-hilada&quot; /&gt;&lt;span&gt;estirado-de-pasta-hilada&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/pasta-hilada/estirado-pasta-hilada-queso-telita.jpeg&quot; title=&quot;estirado-pasta-hilada-queso-telita&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/pasta-hilada/estirado-pasta-hilada-queso-telita.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;estirado-pasta-hilada-queso-telita&quot; title=&quot;estirado-pasta-hilada-queso-telita&quot; /&gt;&lt;span&gt;estirado-pasta-hilada-queso-telita&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/pasta-hilada/irwin-estirado-de-pasta-hilada.jpeg&quot; title=&quot;irwin-estirado-de-pasta-hilada&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/pasta-hilada/irwin-estirado-de-pasta-hilada.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;irwin-estirado-de-pasta-hilada&quot; title=&quot;irwin-estirado-de-pasta-hilada&quot; /&gt;&lt;span&gt;irwin-estirado-de-pasta-hilada&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/pasta-hilada/irwin-hilando.jpeg&quot; title=&quot;irwin-hilando&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/pasta-hilada/irwin-hilando.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;irwin-hilando&quot; title=&quot;irwin-hilando&quot; /&gt;&lt;span&gt;irwin-hilando&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/pasta-hilada/nancy-pasta-hilada.jpeg&quot; title=&quot;nancy-pasta-hilada&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/pasta-hilada/nancy-pasta-hilada.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;nancy-pasta-hilada&quot; title=&quot;nancy-pasta-hilada&quot; /&gt;&lt;span&gt;nancy-pasta-hilada&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;Conservado: Para conservar el queso de mano o la trenza se prepara una salmuera al 3%. Colocar en un litro de agua 30 gramos de sal y 1/4 de cucharadita (TSP) cloruro de calcio. Proceda a medir el pH, este debe estar en 5.3 a 5.4. Sino está se moja una cuchara con vinagre, sólo una gota y se mide nuevamente, así se evita que la salmuera se vuelva turbia y el queso no vuelva baboso.&lt;/p&gt;
+
+&lt;p&gt;Nota final: El queso de mano, o los quesos de pasta hilada, &lt;strong&gt;no son quesos para principiantes&lt;/strong&gt;, debido a su acidificación natural y el proceso de hilado, son quesos que requieren mucha practica para poder lograr el hilado y poder formar queso.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt; : &lt;a href=&quot;https://www.instagram.com/seryop23/&quot;&gt;Sergio Pizzarelli&lt;/a&gt;&lt;/p&gt;</content><author><name>Sk-Pizzarelli</name></author><category term="receta" /><category term="receta" /><category term="venezuela" /><category term="queso" /><category term="hilado" /><category term="pasta" /><category term="hilada" /><summary type="html">Características : Las dos características principales de este queso es su frescura y su elasticidad y textura, recuerda a la mozarella fresca. No se ha determinado exactamente en que parte de Venezuela se originó, viene en forma de ruedas de diferentes tamaños y de grosor variado.</summary></entry><entry><title type="html">Cuajada Maracucha (Quesito Antioqueño)</title><link href="https://www.nuestrosquesos.com/2021/08/04/cuajada-maracucha/" rel="alternate" type="text/html" title="Cuajada Maracucha (Quesito Antioqueño)" /><published>2021-08-04T23:00:11+00:00</published><updated>2021-08-04T23:00:11+00:00</updated><id>https://www.nuestrosquesos.com/2021/08/04/cuajada-maracucha</id><content type="html" xml:base="https://www.nuestrosquesos.com/2021/08/04/cuajada-maracucha/">&lt;p&gt;&lt;strong&gt;Características&lt;/strong&gt; : Es un queso fresco, muy suave, sabor neutro y bajo de sal, se consume en la región del Zulia, pero hay quesos similares como el Quesito Antioqueño o el Queso Fresco Mexicano, este último generalmente es elaborado con un ácido en vez de cuajo, en esta receta usaremos cuajo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uso&lt;/strong&gt;: Debido a sus características se puede comer con alimentos dulces o salados, se puede comer con plátanos o con conserva de guayaba, como en Antioquia.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredientes&quot;&gt;Ingredientes&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Ingrediente&lt;/th&gt;
+      &lt;th&gt;Cantidad&lt;/th&gt;
+      &lt;th&gt;Notas&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Leche Pasteurizada y Homogeneizada (Completa) preferiblemente no-homogeneizada o fresca&lt;/td&gt;
+      &lt;td&gt;1 galones (US)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cloruro de Calcio&lt;/td&gt;
+      &lt;td&gt;1/4 de cucharadita (TSP) por galón (US)&lt;/td&gt;
+      &lt;td&gt;Solo si utiliza leche PyH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cuajo&lt;/td&gt;
+      &lt;td&gt;Según la indicación del fabricante&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sal&lt;/td&gt;
+      &lt;td&gt;1/2 cucharada (TBSP) por cada galón de leche&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;implementos-mínimos&quot;&gt;Implementos mínimos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Olla de acero inoxidable (preferiblemente)&lt;/li&gt;
+  &lt;li&gt;Termómetro&lt;/li&gt;
+  &lt;li&gt;Tela quesera (o velo de novia)&lt;/li&gt;
+  &lt;li&gt;Molde&lt;/li&gt;
+  &lt;li&gt;Prensa&lt;/li&gt;
+  &lt;li&gt;Colador para ayudar al desuerado&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;procedimiento&quot;&gt;Procedimiento&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;calentado-de-la-leche&quot;&gt;Calentado de la leche&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Calentar la leche hasta 36 grados (97 F), evite subir súbitamente la temperatura&lt;/li&gt;
+  &lt;li&gt;Cuando la leche este cerca de la temperatura deseada, agregue el cloruro de calcio solo si esta usando leche PyH  (Pasteurizada y Homogeneizada)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cuajado-de-la-leche-y-corte-de-la-cuajada&quot;&gt;Cuajado de la leche y corte de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Apague el fuego y agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 35 a 45 minutos.&lt;/li&gt;
+  &lt;li&gt;Con un mínimo de fuego proceda a cortar en cubos de 1cm por 1cm (aproximadamente 0.5 pulgada por 0.5 pulgada), cortar en cuadricula.&lt;/li&gt;
+  &lt;li&gt;Tape la olla y deje reposar la cuajada cortada por 10 minutos, luego proceder a cortar la cuajada en ángulo, revuelva delicadamente por 5 minutos y deje reposar nuevamente la cuajada por 10 minutos adicionales.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;desuerado&quot;&gt;Desuerado&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Apague el fuego y proceda a retirar la mayor cantidad de suero posible, con la ayuda de un colador y una taza.&lt;/li&gt;
+  &lt;li&gt;Saque la cuajada de la olla y colóquela en un colador forrado con tela quesera, también puede colgar la cuajada usando la tela quesera, deje reposar la cuajada por 30 minutos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;salado-de-la-cuajada-y-preparación-final&quot;&gt;Salado de la cuajada y preparación final&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Coloque la cuajada en un recipiente y agregue la sal, note que es baja en sal, puede ajustar la sal dependiendo de su gusto.&lt;/li&gt;
+  &lt;li&gt;Si tiene como moler la cuajada, proceda a hacerlo, si no, con las manos desmenuce la cuajada y mezcle bien la sal. No deben quedar granos de cuajada visibles.&lt;/li&gt;
+  &lt;li&gt;Proceda a envasar la cuajada en vasos de plástico, o un envases circulares.&lt;/li&gt;
+  &lt;li&gt;Lleve a la nevera.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: Receta adaptada de este &lt;a href=&quot;https://www.youtube.com/watch?v=wcGn8VtXQGU&quot;&gt;video&lt;/a&gt;&lt;/p&gt;</content><author><name>Afrael Ortiz</name></author><category term="receta" /><category term="receta" /><category term="cuajada" /><category term="venezuela" /><category term="colombia" /><category term="zulia" /><category term="fresco" /><category term="quesito" /><category term="antioqueño" /><summary type="html">Características : Es un queso fresco, muy suave, sabor neutro y bajo de sal, se consume en la región del Zulia, pero hay quesos similares como el Quesito Antioqueño o el Queso Fresco Mexicano, este último generalmente es elaborado con un ácido en vez de cuajo, en esta receta usaremos cuajo.</summary></entry><entry><title type="html">Queso de Matera o Queso Fresco</title><link href="https://www.nuestrosquesos.com/2021/08/03/queso-de-matera/" rel="alternate" type="text/html" title="Queso de Matera o Queso Fresco" /><published>2021-08-03T19:00:11+00:00</published><updated>2021-08-03T19:00:11+00:00</updated><id>https://www.nuestrosquesos.com/2021/08/03/queso-de-matera</id><content type="html" xml:base="https://www.nuestrosquesos.com/2021/08/03/queso-de-matera/">&lt;p&gt;&lt;strong&gt;Características&lt;/strong&gt; : Es un queso fresco, bajo en sal, bastante suave y de sabor bastante neutro y de baja acidez. Un queso de diario, fresco no madurado, se le llama “de Matera” en el Zulia, matera siendo una finca, pero esencialmente es un queso fresco.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uso&lt;/strong&gt;: Su sabor sutil, textura blanda lo hace buen acompañante de alimentos salados como dulces, no es un queso que ralle bien, pero puede comerse también como acompañamiento.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Como luce el queso de matera&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-matera/queso-matera-1.jpg&quot; title=&quot;queso-matera-1&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-matera/queso-matera-1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;queso-matera-1&quot; title=&quot;queso-matera-1&quot; /&gt;&lt;span&gt;queso-matera-1&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-matera/queso-matera-2.jpg&quot; title=&quot;queso-matera-2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-matera/queso-matera-2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;queso-matera-2&quot; title=&quot;queso-matera-2&quot; /&gt;&lt;span&gt;queso-matera-2&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-matera/queso-matera-3.jpg&quot; title=&quot;queso-matera-3&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-matera/queso-matera-3.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;queso-matera-3&quot; title=&quot;queso-matera-3&quot; /&gt;&lt;span&gt;queso-matera-3&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/queso-matera/queso-matera-4.jpg&quot; title=&quot;queso-matera-4&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/queso-matera/queso-matera-4.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;queso-matera-4&quot; title=&quot;queso-matera-4&quot; /&gt;&lt;span&gt;queso-matera-4&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id=&quot;ingredientes&quot;&gt;Ingredientes&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Ingrediente&lt;/th&gt;
+      &lt;th&gt;Cantidad&lt;/th&gt;
+      &lt;th&gt;Notas&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Leche Pasteurizada y Homogeneizada (Completa) preferiblemente no-homogeneizada o fresca&lt;/td&gt;
+      &lt;td&gt;1 galones (US)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cloruro de Calcio&lt;/td&gt;
+      &lt;td&gt;1/4 de cucharadita (TSP) por galón (US)&lt;/td&gt;
+      &lt;td&gt;Solo si utiliza leche PyH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cuajo&lt;/td&gt;
+      &lt;td&gt;Según la indicación del fabricante&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sal&lt;/td&gt;
+      &lt;td&gt;1 cucharadas (TBSP) por cada galón de leche&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;implementos-mínimos&quot;&gt;Implementos mínimos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Olla de acero inoxidable (preferiblemente)&lt;/li&gt;
+  &lt;li&gt;Termómetro&lt;/li&gt;
+  &lt;li&gt;Tela quesera (o velo de novia)&lt;/li&gt;
+  &lt;li&gt;Molde&lt;/li&gt;
+  &lt;li&gt;Prensa&lt;/li&gt;
+  &lt;li&gt;Colador para ayudar al desuerado&lt;/li&gt;
+  &lt;li&gt;Peso (debe ser el 4 veces el peso total de la cuajada)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;procedimiento&quot;&gt;Procedimiento&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;calentado-de-la-leche&quot;&gt;Calentado de la leche&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Calentar la leche hasta 36 grados (97 F), evite subir súbitamente la temperatura&lt;/li&gt;
+  &lt;li&gt;Cuando la leche este cerca de la temperatura deseada, agregue el cloruro de calcio solo si esta usando leche PyH  (Pasteurizada y Homogeneizada)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cuajado-de-la-leche-y-corte-de-la-cuajada&quot;&gt;Cuajado de la leche y corte de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Apague el fuego y agregue el cuajo siguiendo las indicaciones del fabricante, dejar reposar entre 35 a 45 minutos.&lt;/li&gt;
+  &lt;li&gt;Con un mínimo de fuego proceda a cortar en cubos de 2cm por 2cm (aproximadamente 1 pulgada por 1 pulgada), cortar en cuadricula.&lt;/li&gt;
+  &lt;li&gt;Tape la olla y deje reposar la cuajada cortada por 10 minutos, luego proceder a cortar la cuajada en ángulo, revuelva delicadamente por 5 minutos y deje reposar nuevamente la cuajada por 10 minutos adicionales.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-en-olla.jpeg&quot; title=&quot;cuajada-cortada-en-olla&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-en-olla.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-en-olla&quot; title=&quot;cuajada-cortada-en-olla&quot; /&gt;&lt;span&gt;cuajada-cortada-en-olla&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-2.jpg&quot; title=&quot;cuajada-cortada-olla-2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-olla-2&quot; title=&quot;cuajada-cortada-olla-2&quot; /&gt;&lt;span&gt;cuajada-cortada-olla-2&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-3.jpg&quot; title=&quot;cuajada-cortada-olla-3&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-3.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-olla-3&quot; title=&quot;cuajada-cortada-olla-3&quot; /&gt;&lt;span&gt;cuajada-cortada-olla-3&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-4.jpg&quot; title=&quot;cuajada-cortada-olla-4&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-4.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-olla-4&quot; title=&quot;cuajada-cortada-olla-4&quot; /&gt;&lt;span&gt;cuajada-cortada-olla-4&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-5.jpg&quot; title=&quot;cuajada-cortada-olla-5&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-cortada-olla-5.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-cortada-olla-5&quot; title=&quot;cuajada-cortada-olla-5&quot; /&gt;&lt;span&gt;cuajada-cortada-olla-5&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/corte-de-cuajada-olla-2/cuajada-recien-cortada-olla.jpeg&quot; title=&quot;cuajada-recien-cortada-olla&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/corte-de-cuajada-olla-2/cuajada-recien-cortada-olla.jpeg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-recien-cortada-olla&quot; title=&quot;cuajada-recien-cortada-olla&quot; /&gt;&lt;span&gt;cuajada-recien-cortada-olla&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id=&quot;desuerado&quot;&gt;Desuerado&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Apague el fuego y proceda a retirar la mayor cantidad de suero posible, con la ayuda de un colador y una taza.&lt;/li&gt;
+  &lt;li&gt;Una vez retirado el suero, agregue la sal a la cuajada, una cucharada (TBSP) por cada galón de leche, revuelva bien la sal y la cuajada.&lt;/li&gt;
+  &lt;li&gt;Proceda a pesar la cuajada.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- 
+    
+--&gt;
+
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: none; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border-radius: 5px;}
+&lt;/style&gt;
+
+&lt;ul class=&quot;image-gallery&quot;&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerada-olla/cuajada-desuerada-2.jpg&quot; title=&quot;cuajada-desuerada-2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerada-olla/cuajada-desuerada-2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-desuerada-2&quot; title=&quot;cuajada-desuerada-2&quot; /&gt;&lt;span&gt;cuajada-desuerada-2&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerada-olla/cuajada-desuerado-1.jpg&quot; title=&quot;cuajada-desuerado-1&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerada-olla/cuajada-desuerado-1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-desuerado-1&quot; title=&quot;cuajada-desuerado-1&quot; /&gt;&lt;span&gt;cuajada-desuerado-1&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/assets/img/cuajada-desuerada-olla/cuajada-humeda.jpg&quot; title=&quot;cuajada-humeda&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=www.nuestrosquesos.com/assets/img/cuajada-desuerada-olla/cuajada-humeda.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;cuajada-humeda&quot; title=&quot;cuajada-humeda&quot; /&gt;&lt;span&gt;cuajada-humeda&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id=&quot;enmoldado-y-prensado-del-queso&quot;&gt;Enmoldado y prensado del queso&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Colóquele la tela quesera al molde y agregue la cuajada.&lt;/li&gt;
+  &lt;li&gt;Proceda a prensar el queso con un peso dos veces el peso de la cuajada, prense por 16horas, voltee el queso y prense por 6 horas adicionales.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: &lt;a href=&quot;https://www.instagram.com/moleros_artisancheese/&quot;&gt;Irwin Molero&lt;/a&gt; &lt;a href=&quot;http://wa.link/1x4dwc&quot;&gt;Información de Contacto&lt;/a&gt;&lt;/p&gt;</content><author><name>Moleros Artisan Cheese</name></author><category term="receta" /><category term="receta" /><category term="queso" /><category term="venezuela" /><category term="fresco" /><category term="matera" /><category term="zuli" /><summary type="html">Características : Es un queso fresco, bajo en sal, bastante suave y de sabor bastante neutro y de baja acidez. Un queso de diario, fresco no madurado, se le llama “de Matera” en el Zulia, matera siendo una finca, pero esencialmente es un queso fresco.</summary></entry><entry><title type="html">Queso Churuguara</title><link href="https://www.nuestrosquesos.com/2021/08/03/queso-churuguara/" rel="alternate" type="text/html" title="Queso Churuguara" /><published>2021-08-03T15:20:11+00:00</published><updated>2021-08-03T15:20:11+00:00</updated><id>https://www.nuestrosquesos.com/2021/08/03/queso-churuguara</id><content type="html" xml:base="https://www.nuestrosquesos.com/2021/08/03/queso-churuguara/">&lt;p&gt;&lt;strong&gt;Características&lt;/strong&gt; : El queso Churuguara, originario del pueblo del mismo nombre en el estado Falcón, es un queso con las siguientes características: posee algo de huecos, es bajo en sal y es semiduro. Su presentación es en forma de bloque y se encuentra en la región centro-occidental de Venezuela. Su consistencia es semidura y su baja salinidad lo hace ideal para comer hasta solo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uso&lt;/strong&gt;: Buen acompañante, ralla fácil, se puede comer solo y también en arepas y hasta empanadas.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredientes&quot;&gt;Ingredientes&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Ingrediente&lt;/th&gt;
+      &lt;th&gt;Cantidad&lt;/th&gt;
+      &lt;th&gt;Notas&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Leche Pasteurizada y Homogeneizada (Full Fat/Completa) o fresca preferiblemente&lt;/td&gt;
+      &lt;td&gt;2 galones (US)&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cloruro de Calcio&lt;/td&gt;
+      &lt;td&gt;1/4 de cucharadita (TSP) por galón (US)&lt;/td&gt;
+      &lt;td&gt;Solo si utiliza leche PyH&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cuajo&lt;/td&gt;
+      &lt;td&gt;Según la indicación del fabricante&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Suero ácido (madre)&lt;/td&gt;
+      &lt;td&gt;60 ML por cada galón de leche (US)&lt;/td&gt;
+      &lt;td&gt;El pH del suero debe oscilar entre 3.5 a 3.8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sal&lt;/td&gt;
+      &lt;td&gt;En forma de salmuera al 12%&lt;/td&gt;
+      &lt;td&gt;1 litro de agua más 120 gramos de sal&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;implementos-mínimos&quot;&gt;Implementos mínimos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Olla de acero inoxidable (preferiblemente)&lt;/li&gt;
+  &lt;li&gt;Termómetro&lt;/li&gt;
+  &lt;li&gt;Tela quesera (o velo de novia)&lt;/li&gt;
+  &lt;li&gt;Molde&lt;/li&gt;
+  &lt;li&gt;Prensa&lt;/li&gt;
+  &lt;li&gt;Colador para ayudar al desuerado&lt;/li&gt;
+  &lt;li&gt;Peso (debe ser el 4 veces el peso total de la cuajada)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;procedimiento&quot;&gt;Procedimiento&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Antes de todo procedimiento recordar limpiar y esterilizar todos los implementos.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;calentado-y-acidificación-de-la-leche&quot;&gt;Calentado y acidificación de la leche&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;En una olla se colocan los 2 galones de leche, calentar suavemente hasta alcanzar unos 28°C (82°F).&lt;/li&gt;
+  &lt;li&gt;Al alcanzar los 28°C (82 F) agregar el suero ácido, mezclar bien y seguir calentando la leche hasta alcanzar los 36°C (97 F)&lt;/li&gt;
+  &lt;li&gt;Alcanzada esa temperatura se deja reposar por 40 minutos&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cuajado-de-la-leche-y-cortado-de-la-cuajada&quot;&gt;Cuajado de la leche y cortado de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cumplido el tiempo de reposo se agrega el cloruro de calcio, mezclar por un minuto, luego agregar el cuajo y revolver por un minuto más y dejar reposar por 45 minutos adicionales.&lt;/li&gt;
+  &lt;li&gt;Al cumplir el tiempo de reposo cortar la cuajada en cuadrícula y dejar reposar por 15 min.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;desuerado-de-la-cuajada&quot;&gt;Desuerado de la cuajada&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Luego colocar a fuego lento y con una paleta mover suavemente la cuajada de abajo hacia arriba hasta alcanzar 38 °C (100 F) y dejar reposar por 15 minutos mas.&lt;/li&gt;
+  &lt;li&gt;Pasados los 15 minutos, el suero debe haber subido y la cuajada debe estar asentada en el fondo de la olla, en ese momento comenzar a desuerar por completo dentro de la misma olla. Colocando un colador fino y sacando el suero con una taza, remueva la mayor cantidad de suero posible. Verifique que la cuajada quede muy compactada en el fondo de la olla.&lt;/li&gt;
+  &lt;li&gt;Corte la cuajada en cubos de 2cm (1 pulgada aproximadamente)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;salado-del-queso&quot;&gt;Salado del queso&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Luego de desuerar prepare una salmuera al 12% (1 litro de agua y 120 gramos de sal). Se coloca la cuajada en cubos en la salmuera por una hora.&lt;/li&gt;
+  &lt;li&gt;Retire la cuajada de la salmuera y pésela.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;enmoldado-y-prensado-del-queso&quot;&gt;Enmoldado y prensado del queso&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Transcurrido el tiempo se coloca la cuajada en el molde y se le agrega unos 30 ml de suero viejo sobre la cuajada y se deja reposar por 10 min permitiendo que el suero viejo sature la cuajada.&lt;/li&gt;
+  &lt;li&gt;Luego de haber colocado la cuajada en el molde se prensa con 4 veces el peso de la cuajada, por 2 horas.&lt;/li&gt;
+  &lt;li&gt;Después de las 2 horas lleve a la cámara de maduración. Allí se queda entre 24 horas a 48 horas dependiendo de la leche si es fresca o de supermercado.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Autor&lt;/strong&gt;: &lt;a href=&quot;https://www.instagram.com/moleros_artisancheese/&quot;&gt;Irwin Molero&lt;/a&gt; &lt;a href=&quot;http://wa.link/1x4dwc&quot;&gt;Información de Contacto&lt;/a&gt;&lt;/p&gt;</content><author><name>Moleros Artisan Cheese</name></author><category term="receta" /><category term="receta" /><category term="queso" /><category term="churuguara" /><category term="falcon" /><category term="lara" /><category term="venezuela" /><summary type="html">Características : El queso Churuguara, originario del pueblo del mismo nombre en el estado Falcón, es un queso con las siguientes características: posee algo de huecos, es bajo en sal y es semiduro. Su presentación es en forma de bloque y se encuentra en la región centro-occidental de Venezuela. Su consistencia es semidura y su baja salinidad lo hace ideal para comer hasta solo.</summary></entry></feed>
