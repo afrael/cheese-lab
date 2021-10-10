@@ -78,7 +78,7 @@ Suero ácido (madre) | 1% del volumen total de leche
 4.  Deje reposar la cuajada por lo menos una hora para que vaya desuerando poco a poco
 5.  Calentar agua hasta 70 grados (160 F)
 6.  Vierta el agua caliente por ambas caras del queso, superior e inferior
-7.  Prense el queso por 24 horas con el mismo peso de la cuajada
+7.  Prense el queso por 24 horas con un peso equivalente a 4 veces el peso de la cuajada
 8.  Retire el queso del molde y envolver el envoplast (papel film, plastic wrap)
 9.  Lleve a la nevera para que termine de endurecer
 
